@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 
-// Client for the growth-inbox machine routes. Needs INBOX_URL and INBOX_TOKEN in the environment (never in a file).
+// Client for the growth-inbox machine routes. INBOX_URL defaults to the production inbox; the token comes from INBOX_TOKEN or the Keychain (never from a file).
 //   node scripts/inbox.js card <file.json>      send one card (runs the wording lint on every draft first)
 //   node scripts/inbox.js decisions             print undelivered decisions as JSON
 //   node scripts/inbox.js ack <id> [id...]
@@ -13,11 +13,17 @@ const fs = require('fs');
 const path = require('path');
 const { lint } = require('./lint.js');
 
-const base = () => { const u = process.env.INBOX_URL; if (!u) throw new Error('INBOX_URL is not set'); return u.replace(/\/$/, ''); };
+const { execFileSync } = require('child_process');
+const base = () => (process.env.INBOX_URL || 'https://growth-inbox.vercel.app').replace(/\/$/, '');
+// On the owner's Mac the token lives in the Keychain item "citehound-growth-inbox-token"; in the cloud it is the INBOX_TOKEN variable. Never printed.
+function token() {
+  if (process.env.INBOX_TOKEN) return process.env.INBOX_TOKEN;
+  try { return execFileSync('security', ['find-generic-password', '-s', 'citehound-growth-inbox-token', '-w'], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'] }).trim(); } catch (e) { return ''; }
+}
 
 async function call(route, method, body) {
-  if (!process.env.INBOX_TOKEN) throw new Error('INBOX_TOKEN is not set');
-  const r = await fetch(base() + '/api?r=' + route, { method, headers: { Authorization: 'Bearer ' + process.env.INBOX_TOKEN, 'Content-Type': 'application/json' }, body: body ? JSON.stringify(body) : undefined });
+  const tk = token(); if (!tk) throw new Error('INBOX_TOKEN is not set and no Keychain item was found');
+  const r = await fetch(base() + '/api?r=' + route, { method, headers: { Authorization: 'Bearer ' + tk, 'Content-Type': 'application/json' }, body: body ? JSON.stringify(body) : undefined });
   const j = await r.json().catch(() => ({}));
   if (!r.ok) throw new Error(route + ' ' + r.status + ' ' + (j.error || ''));
   return j;
