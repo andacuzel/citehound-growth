@@ -405,6 +405,62 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-10-26T15:23:07.398Z"
+  },
+  "0d3f4ace2cc4": {
+   "first": "2026-10-26T18:10:39.346Z",
+   "title": "Google confirms AI-generated review summaries in Search ads - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-26T18:10:39.346Z"
+  },
+  "f6f6ec342475": {
+   "first": "2026-10-26T18:10:39.346Z",
+   "title": "AI search is a branding channel, not a distraction - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-26T18:10:39.346Z"
+  },
+  "273ee9b89cb4": {
+   "first": "2026-10-26T18:10:39.346Z",
+   "title": "What is agentic search? (And why SEOs need to pay attention) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-26T18:10:39.346Z"
+  },
+  "125b48f307d0": {
+   "first": "2026-10-26T18:10:39.346Z",
+   "title": "Cloudflare will upend the AI visibility space - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-26T18:10:39.346Z"
+  },
+  "3f6739add10f": {
+   "first": "2026-10-26T18:10:39.346Z",
+   "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-26T18:10:39.346Z"
+  },
+  "60348b57e2b7": {
+   "first": "2026-10-26T18:10:39.346Z",
+   "title": "ChatGPT’s expanding world of work",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-26T18:10:39.346Z"
+  },
+  "b68f6637ab07": {
+   "first": "2026-10-26T18:10:39.346Z",
+   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-26T18:10:39.346Z"
   }
  }
 }

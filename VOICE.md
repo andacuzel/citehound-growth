@@ -29,4 +29,7 @@ Every link gets UTM parameters: `utm_source` (x | linkedin_personal | linkedin_p
 Rules below are appended by `node scripts/decisions.js pull` from the owner's rejections and edit notes. Do not edit by hand except to prune.
 
 <!-- learned-rules:start -->
+- 2026-10-26 [field-notes] edit requested (note: Soften causal language: say "the data suggests the plugin default explains most of it", not "why". Add the selection-bias caveat: sites found via web search are more likely to be SEO-active, which may): apply to the card and treat as a style rule for similar drafts. Card: insight-2026-W44-1-blog
+- 2026-10-26 [page] approved as written: the tone of card 20261026-page-blog is a good example.
+- 2026-10-26 [page] approved as written: the tone of card 20261026-page-agency-geo is a good example.
 <!-- learned-rules:end -->
