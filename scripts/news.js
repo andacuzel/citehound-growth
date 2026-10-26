@@ -15,6 +15,7 @@ const crypto = require('crypto');
 const ROOT = path.join(__dirname, '..');
 const SEEN = path.join(ROOT, 'state', 'seen.json');
 const HEALTH = path.join(ROOT, 'state', 'sources-health.json');
+const LAST = path.join(ROOT, 'state', 'last-fetch.json');
 const UA = 'CitehoundGrowthDesk/1.0 (+https://getcitehound.com; reads public feeds)';
 const KEEP_DAYS = 90;
 
@@ -143,14 +144,16 @@ async function fetchAll(o) {
   if (o.markAll) for (const i of kept) seen.items[i.id] = { first: new Date().toISOString(), title: i.title, outcome: 'seen' };
   for (const k of Object.keys(seen.items)) if (Date.now() - Date.parse(seen.items[k].first) > KEEP_DAYS * 86400000) delete seen.items[k];
   writeJson(SEEN, seen);
+  const last = {}; for (const i of kept) last[i.id] = { title: i.title, url: i.url, source: i.source };
+  writeJson(LAST, last); // so `mark` can keep the title of what it skips (the daily brief names skipped items)
   return { fetched: all.length, new: kept.length, duplicates_dropped: fresh.length - kept.length, items: kept, failing_sources: Object.keys(health).filter((k) => health[k].fails >= 3) };
 }
 
 function mark(args) {
-  const seen = readJson(SEEN, { items: {} }); let n = 0;
+  const seen = readJson(SEEN, { items: {} }); const last = readJson(LAST, {}); let n = 0;
   for (const a of args) {
     const m = /^([a-f0-9]{12})=(card|hot|skip|opportunity)(?::(\d+(?:\.\d+)?))?$/.exec(a); if (!m) continue;
-    const cur = seen.items[m[1]] || { first: new Date().toISOString(), title: '' };
+    const cur = seen.items[m[1]] || { first: new Date().toISOString(), title: (last[m[1]] || {}).title || '', source: (last[m[1]] || {}).source || '' };
     seen.items[m[1]] = Object.assign(cur, { outcome: m[2], score: m[3] ? Number(m[3]) : undefined, marked: new Date().toISOString() }); n++;
   }
   writeJson(SEEN, seen); return n;
