@@ -18,3 +18,7 @@ SaaS 77.0 (n=11), agency 81.3 (n=7), professional services 72.8 (n=6). Every 95%
 
 ### What would make a real run strong
 150 or more sites found by the weekly procedure; at least 30 per segment; a platform or CDN group of 15 or more to test "accidental blocking by defaults". Today's blockers: zero, so that question cannot be answered at this size.
+
+
+## Correction (26 Oct 2026, later the same day)
+Candidate 3 above ("none of the 24 sites blocked any crawler") is void. The scan script looked for the crawler state `blocked` while the scanner reports `block`, so blocking was never counted in this test. The bug was found and fixed by the first full cloud run. See `data/insight/2026-W44/`.
