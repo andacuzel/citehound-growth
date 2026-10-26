@@ -1,0 +1,20 @@
+{
+ "type": "social",
+ "pillar": "field-notes",
+ "why": "Insight lab 2026-W44, candidate 1 (medium): WordPress +6.9 readiness points, explained by SEO-plugin schema defaults. n=213, 26 Oct 2026, purposive sample.",
+ "id": "insight-2026-W44-1-x",
+ "title": "X thread: the WordPress schema gap",
+ "drafts": [
+  {
+   "platform": "x",
+   "text": "WordPress homepages scored 6.9 points higher than every other platform in a sample of 213 small B2B SaaS, agency and professional-services sites. 84.5 vs 77.6, 95% interval 3.7 to 10.2.",
+   "thread": [
+    "The gap is schema. Organization or WebSite JSON-LD on 95% of WordPress homepages vs 68% of the rest. Content schema: 73% vs 27%.",
+    "Mechanism: 15 of 20 WordPress homepages we rechecked ran Yoast or Rank Math. Every Yoast one carried BreadcrumbList. The plugin wrote it.",
+    "Crawler access goes the other way: WordPress sites average 17.3 of 26 access points vs 19.0, mostly from a default admin-path Disallow.",
+    "Monday morning: on Webflow, headless or custom code, check the homepage for Organization and WebSite JSON-LD. Missing means add it by hand.",
+    "Method: 213 homepages found by web search, not random. Scanned 26 Oct 2026, one scan each. Readiness only. Confidence: medium. Free scan: https://getcitehound.com/?utm_source=x&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W44-1-x"
+   ]
+  }
+ ]
+}

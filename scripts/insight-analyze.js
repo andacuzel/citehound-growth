@@ -13,6 +13,8 @@ const r1 = (x) => (x === null ? null : Math.round(x * 10) / 10);
 function rng(seed) { let s = seed >>> 0; return () => { s = (s + 0x6D2B79F5) >>> 0; let t = s; t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
 function bootDiff(a, b, n) { if (a.length < 5 || b.length < 5) return null; const R = rng(7); const d = []; for (let k = 0; k < (n || 2000); k++) { const ma = mean(a.map(() => a[Math.floor(R() * a.length)])); const mb = mean(b.map(() => b[Math.floor(R() * b.length)])); d.push(ma - mb); } d.sort((x, y) => x - y); return [r1(d[Math.floor(d.length * 0.025)]), r1(d[Math.floor(d.length * 0.975)])]; }
 function pearson(x, y) { const n = x.length; if (n < 8) return null; const mx = mean(x), my = mean(y); let sxy = 0, sxx = 0, syy = 0; for (let i = 0; i < n; i++) { sxy += (x[i] - mx) * (y[i] - my); sxx += (x[i] - mx) ** 2; syy += (y[i] - my) ** 2; } return sxx && syy ? r1(100 * sxy / Math.sqrt(sxx * syy)) / 100 : null; }
+// The scanner's state for a blocked crawler is 'block'; scans before 26 Oct 2026 left blocked_bots empty, so fall back to the count.
+const nBlocked = (r) => (r.blocked_bots || []).length || (r.bots && r.bots.block) || 0;
 const conf = (n, effect) => (n < 30 ? 'low (n<30)' : effect !== undefined && Math.abs(effect) < 5 ? 'low (effect<5 points)' : n < 80 ? 'medium' : 'medium-high');
 
 function analyze(recs) {
@@ -54,10 +56,10 @@ function analyze(recs) {
   out.pillar_correlations = { discover_vs_tech: pearson(col((r) => r.pillars.discover), col((r) => r.pillars.tech)), discover_vs_trust: pearson(col((r) => r.pillars.discover), col((r) => r.pillars.trust)), tech_vs_trust: pearson(col((r) => r.pillars.tech), col((r) => r.pillars.trust)), n: scored.length, note: 'Pearson r; |r| < 0.3 is weak. Correlation in a purposive sample, not cause.' };
 
   // Crawler access: accidental blocking by CDN, WAF, CMS defaults.
-  const group = (key) => { const g = {}; for (const r of scored) { const v = key(r) || 'unknown'; (g[v] = g[v] || []).push(r); } return Object.keys(g).filter((v) => g[v].length >= 5).map((v) => ({ group: v, n: g[v].length, share_blocking_any_ai_bot: r1(100 * g[v].filter((r) => r.blocked_bots.length).length / g[v].length), share_open_all_10: r1(100 * g[v].filter((r) => (r.bots.open || 0) === 10).length / g[v].length), mean_score: r1(mean(g[v].map((r) => r.score))) })).sort((a, b) => b.n - a.n); };
+  const group = (key) => { const g = {}; for (const r of scored) { const v = key(r) || 'unknown'; (g[v] = g[v] || []).push(r); } return Object.keys(g).filter((v) => g[v].length >= 5).map((v) => ({ group: v, n: g[v].length, share_blocking_any_ai_bot: r1(100 * g[v].filter((r) => nBlocked(r)).length / g[v].length), share_open_all_10: r1(100 * g[v].filter((r) => (r.bots.open || 0) === 10).length / g[v].length), mean_score: r1(mean(g[v].map((r) => r.score))) })).sort((a, b) => b.n - a.n); };
   out.access_by_platform = group((r) => r.platform);
   out.access_by_cdn = group((r) => r.cdn);
-  const blockers = scored.filter((r) => r.blocked_bots.length);
+  const blockers = scored.filter((r) => nBlocked(r));
   out.blocking = { n_blocking_any: blockers.length, share: r1(100 * blockers.length / (scored.length || 1)), cloudflare_managed_robots: scored.filter((r) => r.robots && r.robots.cf_managed).length, with_content_signal: scored.filter((r) => r.robots && r.robots.content_signal).length, blocking_with_cf_managed: blockers.filter((r) => r.robots && r.robots.cf_managed).length, no_ai_specific_rule_but_blocked: blockers.filter((r) => r.robots && r.robots.ai_rule_groups === 0).length, note: 'no_ai_specific_rule_but_blocked means a wildcard or default rule does the blocking: possibly unintended' };
   out.blocking.crawlers = {}; for (const r of blockers) for (const b of r.blocked_bots) out.blocking.crawlers[b] = (out.blocking.crawlers[b] || 0) + 1;
   out.robots_state = { present: scored.filter((r) => r.robots && r.robots.present).length, served_html: recs.filter((r) => r.robots && r.robots.served_html).length, no_sitemap_line: scored.filter((r) => r.robots && r.robots.present && !r.robots.sitemap_lines).length };

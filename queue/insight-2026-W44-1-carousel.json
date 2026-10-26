@@ -1,0 +1,17 @@
+{
+ "type": "social",
+ "pillar": "field-notes",
+ "why": "Insight lab 2026-W44, candidate 1 (medium): WordPress +6.9 readiness points, explained by SEO-plugin schema defaults. n=213, 26 Oct 2026, purposive sample.",
+ "id": "insight-2026-W44-1-carousel",
+ "title": "Carousel: the WordPress schema gap (10 slides)",
+ "drafts": [
+  {
+   "platform": "linkedin_page",
+   "text": "Slide 1: WordPress homepages scored 6.9 points higher than every other platform in our sample.\n\nSlide 2: 213 homepages. Small B2B SaaS, agencies, professional-services firms. Scanned 26 Oct 2026.\n\nSlide 3: WordPress 84.5. Everything else 77.6. The 95% interval for the gap: 3.7 to 10.2.\n\nSlide 4: You would expect Webflow, Next.js and custom builds to be the cleaner sites. On these checks they are not.\n\nSlide 5: The gap is schema. Organization or WebSite schema: 95% of WordPress homepages, 68% of the rest.\n\nSlide 6: 15 of 20 WordPress homepages we rechecked ran Yoast or Rank Math. The plugin wrote the markup.\n\nSlide 7: A default, not effort. A site without that plugin has nothing writing schema for it.\n\nSlide 8: Monday morning: view your homepage source. No Organization or WebSite JSON-LD? Add both by hand.\n\nSlide 9: Method: 213 homepages found by web search, not random. One scan each, homepage only. Readiness, not mentions. Confidence: medium.\n\nSlide 10: Scan your own homepage free: https://getcitehound.com/?utm_source=linkedin_page&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W44-1-carousel"
+  },
+  {
+   "platform": "instagram",
+   "text": "Slide 1: WordPress homepages scored 6.9 points higher than every other platform in our sample.\n\nSlide 2: 213 homepages. Small B2B SaaS, agencies, professional-services firms. Scanned 26 Oct 2026.\n\nSlide 3: WordPress 84.5. Everything else 77.6. The 95% interval for the gap: 3.7 to 10.2.\n\nSlide 4: You would expect Webflow, Next.js and custom builds to be the cleaner sites. On these checks they are not.\n\nSlide 5: The gap is schema. Organization or WebSite schema: 95% of WordPress homepages, 68% of the rest.\n\nSlide 6: 15 of 20 WordPress homepages we rechecked ran Yoast or Rank Math. The plugin wrote the markup.\n\nSlide 7: A default, not effort. A site without that plugin has nothing writing schema for it.\n\nSlide 8: Monday morning: view your homepage source. No Organization or WebSite JSON-LD? Add both by hand.\n\nSlide 9: Method: 213 homepages found by web search, not random. One scan each, homepage only. Readiness, not mentions. Confidence: medium.\n\nSlide 10: Scan your own homepage free: https://getcitehound.com/?utm_source=instagram&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W44-1-carousel"
+  }
+ ]
+}

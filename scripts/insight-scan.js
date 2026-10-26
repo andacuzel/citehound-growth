@@ -69,7 +69,7 @@ async function scanOne(S, domain, segment, delay) {
   rec.pillars = { discover: sc.result.discover, tech: sc.result.tech, trust: sc.result.trust };
   rec.checks = {}; for (const c of sc.result.checks) rec.checks[c.label.replace(/\s*\(\d+\/\d+ open\)/, '')] = { ok: !!c.ok, pts: c.pts, max: c.max };
   rec.bots = {}; rec.blocked_bots = [];
-  for (const b of sc.botResults || []) { rec.bots[b.state] = (rec.bots[b.state] || 0) + 1; if (b.state === 'blocked') rec.blocked_bots.push(b.name); }
+  for (const b of sc.botResults || []) { rec.bots[b.state] = (rec.bots[b.state] || 0) + 1; if (b.state === 'block' || b.state === 'blocked') rec.blocked_bots.push(b.name); }
   return rec;
 }
 
