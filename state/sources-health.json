@@ -1,1 +1,52 @@
-{}
+{
+ "sel": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:39:52.849Z",
+  "last_count": 8
+ },
+ "sej": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:39:55.080Z",
+  "last_count": 20
+ },
+ "ser": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:39:58.119Z",
+  "last_count": 15
+ },
+ "gsc": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:40:00.699Z",
+  "last_count": 10
+ },
+ "openai": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:40:03.226Z",
+  "last_count": 1319
+ },
+ "anthropic": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:40:05.931Z",
+  "last_count": 21
+ },
+ "pplx": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:40:08.693Z",
+  "last_count": 0
+ },
+ "hn": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:40:13.615Z",
+  "last_count": 0
+ },
+ "r_seo": {
+  "fails": 0,
+  "last_ok": "2026-10-26T14:40:16.832Z",
+  "last_count": 25
+ },
+ "r_bigseo": {
+  "fails": 2,
+  "last_ok": "",
+  "last_count": 0
+ }
+}

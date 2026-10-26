@@ -1,0 +1,1 @@
+2026-10-26 | r/SEO | https://www.reddit.com/r/SEO/comments/1xfs86b/ai_search_tracking/ | Asks why AI search tracking tools (ranketa, seranking, peec.ai) show different results | Offer: runs are samples, so say the date, the model and the number of tries; our published sample is 18 questions x 5 tries on 2 Oct 2026, a format example, not a result

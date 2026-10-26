@@ -1,0 +1,25 @@
+{
+ "id": "20261026-6d5214488cee",
+ "type": "social",
+ "pillar": "hot-takes",
+ "title": "Brands ChatGPT names without search are also named more with search",
+ "why": "Expected: cited-page coverage lifts a brand. Found: in Graphite's data the no-search baseline predicts the search result, and the write-up shows correlation only.",
+ "source_url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
+ "score": 7,
+ "hot": false,
+ "drafts": [
+  {
+   "platform": "x",
+   "text": "Graphite (Oct 16): brands ChatGPT names more often without search are also named more often with search, even at equal cited-page coverage. Correlation, 57 questions, from a vendor that sells AEO. Page work may matter less than brand strength here.",
+   "thread": [
+    "Mechanism: a model that already knows a brand has a prior before it searches. Cited pages add to that prior. They may not replace it. The write-up does not separate the two.",
+    "Limits from the write-up itself: no control for brand awareness, only one replication switched search off, and a citation does not prove a search ran.",
+    "Monday morning: do not read a readiness score as a mention forecast. Ours measures whether crawlers can reach a site and whether pages carry readable signals. It never measures whether any assistant names a brand."
+   ]
+  },
+  {
+   "platform": "linkedin_personal",
+   "text": "A new analysis from Graphite, reported Oct 16, looks at which brands ChatGPT names in comparison answers. Brands named more often without search were also named more often when it searched, even with similar coverage on cited pages.\n\nThat is a correlation across 57 comparison questions, from an agency that sells answer-engine optimization. The write-up says it did not control for brand awareness, and only one of its replications turned search off.\n\nWhat I take from it: a model's prior about a brand may matter before any page is retrieved. If so, fixing pages is necessary but may not be the whole story.\n\nIt also fits how I think about readiness. Our scan measures whether crawlers can reach a site and whether its pages carry signals a model can read. It does not measure whether any assistant names a brand, and nothing in this data changes that.\n\nMethod note: figures are Graphite's, collected August to early October 2026. I have not replicated them. Confidence: low."
+  }
+ ]
+}

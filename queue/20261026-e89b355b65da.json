@@ -1,0 +1,25 @@
+{
+ "id": "20261026-e89b355b65da",
+ "type": "social",
+ "pillar": "hot-takes",
+ "title": "Meta delays terms that let it crawl business sites; robots.txt status unclear",
+ "why": "Expected: robots.txt settles crawler permission. Found: Meta's business terms grant crawling by contract, and they do not say whether robots.txt limits that grant.",
+ "source_url": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
+ "score": 7,
+ "hot": false,
+ "drafts": [
+  {
+   "platform": "x",
+   "text": "Meta moved its updated business terms from Oct 30 to Nov 20. The permission to crawl sites tied to business users stays. The terms do not say whether robots.txt limits that grant. A robots.txt line is a preference. A contract can say something else.",
+   "thread": [
+    "Mechanism: robots.txt is a convention crawlers choose to follow. Terms you accept in an ad account are an agreement. The two can point in different directions, and the published terms do not settle which one wins.",
+    "WAN-IFRA has asked Meta to make robots.txt binding inside the terms. As of Oct 25, some UK, German and French previews still showed Oct 30.",
+    "Monday morning: read the crawling paragraph in the new terms, then check what your robots.txt says for each Meta crawler. Source: Search Engine Journal, Oct 26 2026."
+   ]
+  },
+  {
+   "platform": "linkedin_personal",
+   "text": "Meta has delayed its updated business terms from Oct 30 to Nov 20, according to Search Engine Journal. The clause that lets Meta crawl sites tied to business users is still in both agreements.\n\nMeta says site owners can state crawling preferences in robots.txt. The terms I could read do not say whether a robots.txt rule limits what a business has agreed to grant. WAN-IFRA has asked for that to be written in.\n\nThe gap is worth knowing about. A robots.txt rule is a preference a crawler chooses to honor. Terms you accept are a contract. If you run ads, those are two separate places where crawling is decided.\n\nWhat I would do this week: read the crawling paragraph, and check how your robots.txt treats each Meta crawler. I am not a lawyer, and this is a reading of press coverage, not of the final terms.\n\nMethod note: based on one trade report dated Oct 26 2026. Confidence: medium on the dates, low on how the clause will work."
+  }
+ ]
+}
