@@ -1,0 +1,8 @@
+{
+ "id": "20261026-page-llmstxt-explainer",
+ "type": "page",
+ "pillar": "page",
+ "title": "Explainer: what llms.txt does and does not do",
+ "why": "High-intent query, and we hold data: 64-site study, 76% of consumer brands have one because a platform generates it.",
+ "body": "INTENT: an honest explainer. llms.txt is optional, low-cost, no demonstrated effect on Google, and we do not measure whether any system reads it.\n\nOUTLINE: what the file is; who adopted it (55% of 31 B2B sites, 76% of consumer brands in the 64-site study, 29 Jul 2026; Shopify generates it); what a useful one says vs a platform default; how to check yours (free checker /tools/llms-txt-checker); how to write one (generator). Method note and limits from the study.\n\nPLACEMENT: /blog if the blog is approved, else /research-adjacent page.\n\nREASON: matches search intent, links to a live tool, uses our own data."
+}

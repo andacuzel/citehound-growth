@@ -1,0 +1,24 @@
+# news-watch sources. Fetch politely; respect robots.txt; no login; no scraping behind paywalls.
+newswatch:
+  schedule: "every 3 hours, 06:00-23:00 Europe/Istanbul"
+  hot_threshold: 8
+  queue_threshold: 6
+  hot_push_max_per_day: 3
+  sources:
+    # Search Engine Land's own feed answers 403 to non-browsers; we read it through Google News RSS instead of working around that.
+    - {id: sel,      name: Search Engine Land,        type: rss, url: "https://news.google.com/rss/search?q=site:searchengineland.com+when:2d&hl=en-US&gl=US&ceid=US:en"}
+    - {id: sej,      name: Search Engine Journal,     type: rss, url: "https://www.searchenginejournal.com/feed/"}
+    - {id: ser,      name: Search Engine Roundtable,  type: rss, url: "https://www.seroundtable.com/index.xml"}
+    - {id: gsc,      name: Google Search Central,     type: rss, url: "https://developers.google.com/search/blog/feed.xml"}
+    - {id: openai,   name: OpenAI,                    type: rss, url: "https://openai.com/news/rss.xml"}
+    - {id: anthropic,name: Anthropic,                 type: web, url: "https://www.anthropic.com/news"}
+    - {id: pplx,     name: Perplexity,                type: web, url: "https://www.perplexity.ai/hub", pattern: "/hub/blog/"}
+    - {id: hn,       name: Hacker News (Algolia),     type: hn,  query: "llms.txt OR GEO OR \"AI search\" OR \"AI crawler\" OR GPTBot OR robots.txt", url: "https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=30&query="}
+    - {id: r_seo,    name: r/SEO,                     type: rss, url: "https://www.reddit.com/r/SEO/.rss"}
+    - {id: r_bigseo, name: r/bigseo,                  type: rss, url: "https://www.reddit.com/r/bigseo/.rss"}
+  # Reddit and HN are opportunity sources only. No posting, no automation. Items go to briefs/opportunities.md.
+  opportunity_only: [hn, r_seo, r_bigseo]
+  # Feeds change. A source that fails 3 runs in a row is listed in the daily brief, not silently dropped.
+scoring:
+  dimensions: [novelty, relevance, contrarian_angle, shelf_life]   # each 0-10; score = rounded mean
+  relevance_means: "affects whether AI crawlers can reach or read a small/mid B2B site, or how GEO is practiced"

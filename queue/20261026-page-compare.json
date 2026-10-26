@@ -1,0 +1,8 @@
+{
+ "id": "20261026-page-compare",
+ "type": "page",
+ "pillar": "page",
+ "title": "Comparison page: Citehound vs other AI-readiness checkers (facts only)",
+ "why": "People ask for alternatives. A neutral, dated, source-cited comparison earns trust if every cell is verifiable.",
+ "body": "INTENT: neutral comparison of public, verifiable facts only: what each tool checks, free vs paid, whether a scan needs sign-up, API/MCP availability. Each cell cites the competitor's public page with the date checked. No claims about quality or results.\n\nNEEDS FROM YOU: the list of competitors to include (I propose to research three to five from public search and bring them back as a list for your approval; none is named here). I do not build until you approve the list.\n\nRISK: any cell that goes stale becomes a wrong claim. Mitigation: a 'checked on' date per row and a quarterly recheck task."
+}

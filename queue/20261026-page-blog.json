@@ -1,0 +1,8 @@
+{
+ "id": "20261026-page-blog",
+ "type": "page",
+ "pillar": "page",
+ "title": "Add a /blog section (separate from /research)",
+ "why": "Interpretation, how-to and news takes need a home that does not dilute /research. 1 to 2 posts a week, each tied to an insight, each approved by you.",
+ "body": "INTENT: /research = methodical studies with sample and date. /blog = interpretation, how-to, teardowns, news takes.\n\nRULES: 1 to 2 posts a week, each tied to an insight or a 8+ news item. Article JSON-LD, canonical URL, internal links to research and the free scan, entry in llms.txt and sitemap.xml, no thin or duplicate content (under 500 words does not ship). Every post is its own approval card.\n\nBUILD (after you approve): static pages from content/blog/*.json via scripts/generate-blog.js; no new serverless function (the project is at the Hobby limit of 12); gates; branch; merge to main only after approval; smoke test; I report the live URL.\n\nNOT IN SCOPE: comments, tracking, newsletter (waits for the Trust fix)."
+}

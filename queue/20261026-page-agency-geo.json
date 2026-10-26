@@ -1,0 +1,8 @@
+{
+ "id": "20261026-page-agency-geo",
+ "type": "page",
+ "pillar": "page",
+ "title": "Landing page for agencies: add an AI-readiness audit to your services",
+ "why": "Segment A has no GEO offer yet. A page that explains the audit in their terms and links to the scan and the Fix quote.",
+ "body": "INTENT: agencies of 1 to 30 people (SEO, content, digital) that do not sell GEO yet.\n\nOUTLINE: H1 \"Add an AI-readiness audit to what you sell\"; what the free scan reads (16 checks, 10 crawlers); what an audit deliverable looks like (the sample report of our own site, 28 pages, 4 Oct 2026); where Fix fits (technical layer, quote from $299, applied by hand) and what stays the agency's job; what we do not claim (readiness, not citations); one CTA: scan a client site free, then request a Fix quote. API and CLI mention only as live (npx citehound scan).\n\nFACTS USED: all from CONTEXT.md truth table. No client names, no counts of customers, no claim of ties to other companies.\n\nREASON: gives outreach and posts a page to land on; the funnel is scan, then quote."
+}
