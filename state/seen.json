@@ -461,6 +461,110 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-10-26T18:10:39.346Z"
+  },
+  "c04fa81c2bf7": {
+   "first": "2026-10-27T03:10:06.793Z",
+   "title": "Google Ads introduces centralized dashboard for tracking policy issues - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-27T03:10:06.793Z"
+  },
+  "12fb5ff57403": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Google Search says you should block indexing of link-shared content - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "924f86267773": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "33 top digital marketing tools for every budget - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "5b199f4f143e": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Web Crawler Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "7e019abb1394": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Six-step essential guide to choosing keywords - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "6c0d0bd3f8c3": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "- Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "4e0d6fea9315": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "8f414b9faaee": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "6547101db524": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Generative UI Could Turn Google Into Your Booking.com via @sejournal, @slobodanmanic",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "ea211cab2a4d": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Google Warns Tools On User-Generated Spam Guidance & More",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "8ea0b2c1318b": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "bf03207dadfa": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "Working with academic communities to build scientific understanding",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "9468a1df507d": {
+   "first": "2026-10-27T03:10:06.794Z",
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-27T03:10:06.794Z"
   }
  }
 }
