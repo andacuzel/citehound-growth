@@ -565,6 +565,43 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-10-27T03:10:06.794Z"
+  },
+  "16f8382375c3": {
+   "first": "2026-10-27T12:17:55.066Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "6bb10cffa6e8": {
+   "first": "2026-10-27T12:17:58.952Z",
+   "title": "How ecommerce category pages can earn AI search citations - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-27T12:17:58.952Z"
+  },
+  "c4579855fb6d": {
+   "first": "2026-10-27T12:17:58.953Z",
+   "title": "Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-27T12:17:58.953Z"
+  },
+  "cdf73a1497cf": {
+   "first": "2026-10-27T12:17:58.953Z",
+   "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-27T12:17:58.953Z"
+  },
+  "4b9921c4a1e7": {
+   "first": "2026-10-27T12:17:58.953Z",
+   "title": "Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-27T12:17:58.953Z"
   }
  }
 }
