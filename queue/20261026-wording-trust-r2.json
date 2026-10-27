@@ -1,0 +1,9 @@
+{
+ "id": "20261026-wording-trust-r2",
+ "replaces": "20261026-wording-trust",
+ "type": "wording",
+ "pillar": "page",
+ "title": "Fix the Trust page: \"no email list\" is not true (r2)",
+ "why": "/trust says no email list; five forms store an email address. /privacy is right. Needed before any email-capture tactic.",
+ "body": "CURRENT (/trust, row \"What we store\"):\nNo accounts, no email list and no scan history. The privacy page lists the few things we do keep and for how long.\n\nPROPOSED:\nNo accounts and no scan history. The scan does not store its result or the address you scan. A one-way hashed IP counter is kept for up to a day for rate limits. If you join the Pro waitlist, ask for a Fix quote or a Beyond place, order a report or download the State of AI Readiness report, we keep the email address you give us, for up to 12 months (report orders: 90 days), and use it only for that. A free API key keeps a hash and a masked form of your address, not the address. Write to hey@getcitehound.com and we delete your record. The privacy page lists every item and how long it is kept.\n\nWHY: waitlist 12 months, Fix and Beyond requests 12 months, report orders 90 days, readiness download up to 12 months, API key hashes only, rate-limit counter up to a day (all from /privacy and the owner's note). Approving this lets me build the change on a branch, run the gates and merge to main. Email-capture ideas (newsletter, report-download push) stay parked until it is live."
+}

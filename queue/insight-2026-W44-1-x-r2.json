@@ -1,0 +1,21 @@
+{
+ "id": "insight-2026-W44-1-x-r2",
+ "replaces": "insight-2026-W44-1-x",
+ "type": "social",
+ "pillar": "field-notes",
+ "why": "Insight lab 2026-W44, candidate 1 (medium): WordPress +6.9 readiness points, schema defaults likely explain most of it. n=213, 26 Oct 2026, purposive sample.",
+ "title": "X thread: the WordPress schema gap (hook-first)",
+ "drafts": [
+  {
+   "platform": "x",
+   "text": "We expected Webflow and custom builds to beat WordPress on AI readiness. They did not: 84.5 vs 77.6 across 213 homepages, a 6.9-point gap (95% interval 3.7 to 10.2).",
+   "thread": [
+    "The gap is schema. Organization or WebSite JSON-LD on 95% of WordPress homepages vs 68% of the rest. Content schema: 73% vs 27%.",
+    "Mechanism, as far as the data goes: 15 of 20 WordPress homepages we rechecked ran Yoast or Rank Math. Every Yoast one carried BreadcrumbList. The data suggests the plugin default explains most of the gap. We did not switch a plugin off to test it.",
+    "Crawler access goes the other way: WordPress sites average 17.3 of 26 access points vs 19.0.",
+    "Monday morning: on Webflow, headless or custom code, check the homepage for Organization and WebSite JSON-LD. Missing means add it by hand. Free scan: https://getcitehound.com/?utm_source=x&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W44-1-x-r2",
+    "Method: 213 homepages found by web search, not random, so likely more SEO-active than average. Scanned 26 Oct 2026, one scan each. Readiness only. Confidence: medium."
+   ]
+  }
+ ]
+}

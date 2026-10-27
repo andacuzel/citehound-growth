@@ -1,0 +1,15 @@
+{
+ "id": "insight-2026-W44-1-linkedin-r2",
+ "replaces": "insight-2026-W44-1-linkedin",
+ "type": "social",
+ "pillar": "field-notes",
+ "why": "Insight lab 2026-W44, candidate 1 (medium): WordPress +6.9 readiness points, schema defaults likely explain most of it. n=213, 26 Oct 2026, purposive sample.",
+ "title": "Field note: WordPress homepages score higher, and the plugin did the work (r2)",
+ "drafts": [
+  {
+   "platform": "linkedin_personal",
+   "text": "I expected the newer stacks to win. They did not.\n\nThis week I scanned 213 homepages of small B2B SaaS, agency and professional-services firms. WordPress homepages scored 6.9 points higher on our readiness checks than every other platform combined (84.5 vs 77.6, 95% interval 3.7 to 10.2).\n\nThe gap is schema. Organization or WebSite schema appears on 95% of the WordPress homepages and 68% of the rest. When I checked 20 of the WordPress sites again, 15 ran Yoast or Rank Math. The data suggests the plugin default explains most of the schema gap. I did not switch a plugin off to test it, so this is a pattern, not a test.\n\nThat cuts both ways: a Webflow or custom site has no plugin doing this for it.\n\nMonday morning: open your homepage source and look for an Organization and a WebSite JSON-LD block. If they are missing, add them by hand.\n\nMethod note: 213 homepages found by web search, not a random sample, so they may be more SEO-active than the average site. Scanned 26 Oct 2026, one scan each, homepage only. This measures readiness, not whether any assistant names a site.\n\nConfidence: medium.",
+   "first_comment": "Free scan: https://getcitehound.com/?utm_source=linkedin_personal&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W44-1-linkedin-r2"
+  }
+ ]
+}

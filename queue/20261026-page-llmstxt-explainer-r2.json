@@ -1,0 +1,9 @@
+{
+ "id": "20261026-page-llmstxt-explainer-r2",
+ "replaces": "20261026-page-llmstxt-explainer",
+ "type": "page",
+ "pillar": "page",
+ "title": "Explainer: what llms.txt does and does not do (r2)",
+ "why": "High-intent query, and we hold data: 64-site study, 76% of consumer brands have one because a platform generates it.",
+ "body": "INTENT: an honest explainer. llms.txt is optional, low-cost, no demonstrated effect on Google, and we do not measure whether any system reads it.\n\nGOOGLE: Google Search says it does not use llms.txt (Gary Illyes, Search Central Live, as reported by Search Engine Journal: https://www.searchenginejournal.com/googles-llms-txt-guidance-depends-on-which-product-you-ask/575431/ , checked 27 Oct 2026). That report also says a June 2026 Search Central changelog entry states that keeping an llms.txt file 'won't harm (nor help)' visibility. Secondary reporting: the wording is not yet checked against Google's own pages. Before publishing, open the Search Central page and quote it directly.\n\nOUTLINE: what the file is; who adopted it (55% of 31 B2B sites, 76% of 33 consumer brands in the 64-site study, 29 Jul 2026; Shopify generates it); what a useful one says vs a platform default; how to check yours (free checker /tools/llms-txt-checker); how to write one (generator). Method note and limits from the study.\n\nMETHOD NOTE: 64 sites in 2 categories: 31 B2B and 33 consumer, 13 checks, scanned 29 Jul 2026. Hand-picked, not random. 22 of 85 scans could not complete. Readiness, not citations.\n\nPLACEMENT: /blog if the blog is approved, else /research-adjacent page.\n\nREASON: matches search intent, links to a live tool, uses our own data."
+}
