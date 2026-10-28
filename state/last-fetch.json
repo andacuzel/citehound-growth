@@ -1,37 +1,57 @@
 {
- "fb8a87060677": {
-  "title": "Organic traffic is down, but it’s not all AI - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reW5yN1FfM3FmRFB3ZktvbHRMMDRBVW9ZUGo3bERZZkxUQ0Y0Y3hXT0wyRzJSTi1ZamY2MFRDbjZ0djZoT2hRYjYxeGhnZ2FoZ1Y0QmMtOHQ1ZHpnTlp2eDZnU0ltdF8tOFcxWDVhMkRCREJ0b0E?oc=5",
+ "0db011a7c3c8": {
+  "title": "Human-first SEO: The risks of optimizing for AI over users - Search Engine Land",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEtBTnBMYkdwc1g0X1ZtS3RGZWNUNENOLXVuMUxGVXlKemZHcTR6SDdBelVFZGFBeXBsUnE2VllTbGtldWNXUTVwNWZXN29nNHhtNnF1TXB6c3dSWXhUbEFFSDRBVm1BaHQzOWgwcV9keWl4OTZ5QmdNTk14dGNrWmtIM19XUUs5TFloeHRjdHJJTzNVU2t0Tg?oc=5",
   "source": "sel"
  },
- "3cc90baa808b": {
-  "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
-  "url": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/",
+ "10b876b27428": {
+  "title": "Why the SEO industry needs in-person meetups - Search Engine Land",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdF9WYjdWM2NXb0E1N1Z4XzBhbDNnWjlaUHdwc1hJbU1mZEYzdGhoTFlHTVlLVGVtMGZjbXVXOTd6MjN0VXdoWHlDaDZ4MGdkWUpNQmJQbmlwLUFVeERxUnlObDRveWt5RUNRN3hlR3F4TUZkcUNubUY3SWNxZ3JYbnFWRGRZZlk?oc=5",
+  "source": "sel"
+ },
+ "4c3a181ccdee": {
+  "title": "SEOs, we need to talk about E-E-A-T - Search Engine Land",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlN2c4Tjd5ZVZDV1FaR2lXTV9JOFJJVHRIbHlES1lhdndlQ2xEQVZXbUhPYm8yQm9wUE5tWWtCUldXTGxrY3RpY0xfOFFzTHhvNkh6Z255eEcwb1Jyal9UcQ?oc=5",
+  "source": "sel"
+ },
+ "29438c38e10d": {
+  "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
+  "url": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
   "source": "sej"
  },
- "1c3681e65f0e": {
-  "title": "Google Signals A Wider Crackdown On UGC SEO Spam via @sejournal, @martinibuster",
-  "url": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
+ "9b0ca902f8c7": {
+  "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
+  "url": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
   "source": "sej"
  },
- "86e6e4767b52": {
-  "title": "Bing Tests Get Phone Number & QR Code To Scan",
-  "url": "https://www.seroundtable.com/bing-get-phone-number-qr-code-42397.html",
+ "6a2c1ea1c6cf": {
+  "title": "Google Search Fan POV (Point Of View) Button",
+  "url": "https://www.seroundtable.com/google-search-fan-pov-42401.html",
   "source": "ser"
  },
- "fb8d03a70983": {
-  "title": "Google Business Profiles Asking Businesses For EIN",
-  "url": "https://www.seroundtable.com/google-business-profiles-ein-request-42382.html",
+ "a8d3aacc620d": {
+  "title": "Google Ads Tests Sponsored Results With Apple Messages Button",
+  "url": "https://www.seroundtable.com/google-ads-apple-messages-button-42400.html",
   "source": "ser"
  },
- "ef484ddf0458": {
-  "title": "Legora is building the agentic operating system for legal work",
-  "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-  "source": "openai"
+ "b739a2027b3a": {
+  "title": "Google Ads \"All Conversions\" Tab Is Fully Live",
+  "url": "https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html",
+  "source": "ser"
  },
- "774a71bcf019": {
-  "title": "Show HN: Ballast – macOS app to clear disk space",
-  "url": "https://news.ycombinator.com/item?id=50271417",
+ "cfeb4187d7e4": {
+  "title": "Google Business Profiles Adds Facebook Messenger M.me Links",
+  "url": "https://www.seroundtable.com/google-facebook-messenger-mme-links-42377.html",
+  "source": "ser"
+ },
+ "3a4136568d75": {
+  "title": "Google Image Search Tests Save Button On Image Overlay",
+  "url": "https://www.seroundtable.com/google-images-save-button-overlay-42394.html",
+  "source": "ser"
+ },
+ "00bee772fa7f": {
+  "title": "AI crawlers in robots.txt: a study of the top 10k sites (2026)",
+  "url": "https://news.ycombinator.com/item?id=50272832",
   "source": "hn"
  }
 }

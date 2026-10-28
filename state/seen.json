@@ -900,6 +900,94 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-10-28T12:28:43.500Z"
+  },
+  "0db011a7c3c8": {
+   "first": "2026-10-28T15:23:35.156Z",
+   "title": "Human-first SEO: The risks of optimizing for AI over users - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-28T15:23:35.156Z"
+  },
+  "10b876b27428": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "Why the SEO industry needs in-person meetups - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "4c3a181ccdee": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "SEOs, we need to talk about E-E-A-T - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "29438c38e10d": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "9b0ca902f8c7": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "6a2c1ea1c6cf": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "Google Search Fan POV (Point Of View) Button",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "a8d3aacc620d": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "Google Ads Tests Sponsored Results With Apple Messages Button",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "b739a2027b3a": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "Google Ads \"All Conversions\" Tab Is Fully Live",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "cfeb4187d7e4": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "Google Business Profiles Adds Facebook Messenger M.me Links",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "3a4136568d75": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "Google Image Search Tests Save Button On Image Overlay",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "00bee772fa7f": {
+   "first": "2026-10-28T15:23:35.157Z",
+   "title": "AI crawlers in robots.txt: a study of the top 10k sites (2026)",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-28T15:23:35.157Z"
   }
  }
 }
