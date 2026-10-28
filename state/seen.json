@@ -844,6 +844,62 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "fb8a87060677": {
+   "first": "2026-10-28T12:28:43.500Z",
+   "title": "Organic traffic is down, but it’s not all AI - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-28T12:28:43.500Z"
+  },
+  "3cc90baa808b": {
+   "first": "2026-10-28T12:28:43.500Z",
+   "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T12:28:43.500Z"
+  },
+  "1c3681e65f0e": {
+   "first": "2026-10-28T12:28:43.500Z",
+   "title": "Google Signals A Wider Crackdown On UGC SEO Spam via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-28T12:28:43.500Z"
+  },
+  "86e6e4767b52": {
+   "first": "2026-10-28T12:28:43.500Z",
+   "title": "Bing Tests Get Phone Number & QR Code To Scan",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T12:28:43.500Z"
+  },
+  "fb8d03a70983": {
+   "first": "2026-10-28T12:28:43.500Z",
+   "title": "Google Business Profiles Asking Businesses For EIN",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T12:28:43.500Z"
+  },
+  "ef484ddf0458": {
+   "first": "2026-10-28T12:28:43.500Z",
+   "title": "Legora is building the agentic operating system for legal work",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T12:28:43.500Z"
+  },
+  "774a71bcf019": {
+   "first": "2026-10-28T12:28:43.500Z",
+   "title": "Show HN: Ballast – macOS app to clear disk space",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T12:28:43.500Z"
   }
  }
 }
