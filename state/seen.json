@@ -730,6 +730,120 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-10-27T18:11:32.277Z"
+  },
+  "c3602e3819ba": {
+   "first": "2026-10-28T03:09:00.363Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "41fe74ffa8e0": {
+   "first": "2026-10-28T03:09:00.363Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "d610ea69233e": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "How to build topical authority in the AI search era (Seven steps) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "216ab7cae16b": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "14 remote work statistics - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "96d13aae937d": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Sales Funnel Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "cf1adabdecda": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "15 online review and reputation management statistics - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "6f6345788ad6": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "How much does Google Ads cost? (2026 data + insights) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "11a66faf99ba": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Google Ads tests ad group-level seasonal adjustments for App campaigns - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "07068168b1c0": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Affiliate marketing: Tips, tricks, and best practices for 2026 - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "a1f1a6aa9127": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "0c0ed79f9dea": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Why We Should Fear The Shadow Web We’re Building For AI via @sejournal, @chrisgreenseo",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "113b3251cddb": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Googlebot Must Follow Redirects From Homepage To Favicon, Updated Doc Say",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "4e870e87226e": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "3e55ee76872f": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "source": "anthropic",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T03:09:08.926Z"
+  },
+  "c0ca52583921": {
+   "first": "2026-10-28T03:09:08.926Z",
+   "title": "Show HN: I built Trvlrr, home for all your travels",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T03:09:08.926Z"
   }
  }
 }
