@@ -988,6 +988,48 @@
    "outcome": "skip",
    "score": 5,
    "marked": "2026-10-28T15:23:35.157Z"
+  },
+  "16c9ea2f28c3": {
+   "first": "2026-10-28T18:09:08.291Z",
+   "title": "Daily Search Forum Recap: October 28, 2026",
+   "outcome": "duplicate-story"
+  },
+  "b0a7d305f40f": {
+   "first": "2026-10-28T18:09:08.291Z",
+   "title": "Legora is building the agentic operating system for legal work",
+   "outcome": "duplicate-story"
+  },
+  "6b0de328a41b": {
+   "first": "2026-10-28T18:09:12.493Z",
+   "title": "Google Ads adds ‘All Conversions’ tab to simplify conversion tracking and audits - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-28T18:09:12.493Z"
+  },
+  "430565bab0a5": {
+   "first": "2026-10-28T18:09:12.493Z",
+   "title": "26 fascinating influencer marketing statistics - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T18:09:12.493Z"
+  },
+  "13c1246f3ea3": {
+   "first": "2026-10-28T18:09:12.493Z",
+   "title": "Google Explains Why 404 Errors Aren't Scary ",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-28T18:09:12.493Z"
+  },
+  "c333bed3777b": {
+   "first": "2026-10-28T18:09:12.493Z",
+   "title": "The future of the firm",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-28T18:09:12.493Z"
   }
  }
 }
