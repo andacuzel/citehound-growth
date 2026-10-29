@@ -1,0 +1,26 @@
+{
+ "type": "social",
+ "pillar": "hot-takes",
+ "title": "AI-cited pages and schema: a 13% association with limits",
+ "why": "Tension: a GEO agency reports schema at 13% higher odds of AI citation, while our July scan found content schema missing on 76.7% of 219 homepages; the study compares existing pages, so it cannot show that adding schema earns a citation.",
+ "source_url": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
+ "score": 7,
+ "hot": false,
+ "id": "20261029-5a894124e322",
+ "drafts": [
+  {
+   "platform": "x",
+   "text": "A GEO agency reports schema markup at 13% higher odds of AI citation, across 193,507 answers. It compares existing pages, so it cannot show that adding schema earns a citation. Association only, from one agency's clients.",
+   "thread": [
+    "Our July scan of 219 hand-picked homepages found content schema missing on 76.7%. Scanned 29 to 31 Jul 2026. That measures readiness, not citations.",
+    "The study compares cited pages with passed-over ones. It shows what cited pages have in common, not what adding a trait would change.",
+    "Monday morning: pick ten pages you want cited. Add the schema, log the questions you will ask now, and re-run them later. That is a test, not a claim.",
+    "Method: agency study, 193,507 answers, 78 clients, snapshots 27 Aug to 21 Oct 2026. Confidence: low for the citation claim. Free scan: https://getcitehound.com/?utm_source=x&utm_medium=social&utm_campaign=hot-takes&utm_content=20261029-5a894124e322"
+   ]
+  },
+  {
+   "platform": "linkedin_personal",
+   "text": "A GEO agency published a study on what AI answers cite. It covers 193,507 answers from ChatGPT, Google AI Mode and AI Overviews, from 27 Aug to 21 Oct 2026. Schema markup comes out at 13% higher odds of citation.\n\nI put that next to our own July scan. Of 219 hand-picked homepages, 76.7% had no content schema.\n\nTwo limits matter. The author calls the findings associations, and the study compares pages that already exist. It cannot show that adding schema earns a citation. The data also comes from the agency's own clients.\n\nI would still fix schema for readiness. Whether it moves citations needs a before-and-after test.\n\nMethod: agency study, 193,507 answers, 78 clients, 27 Aug to 21 Oct 2026. Our scan: 219 homepages, 29 to 31 Jul 2026, hand-picked. Confidence: low for the citation claim."
+  }
+ ]
+}

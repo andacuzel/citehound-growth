@@ -1030,6 +1030,150 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-10-28T18:09:12.493Z"
+  },
+  "5a894124e322": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "card",
+   "score": 7,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "12c5d275bd3e": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "How to create quality SEO content (the QRIES approach) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "1fcfbd9ece14": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Redirects 101: A beginner’s guide to setup and best practices - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "45151c00120a": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "17 ways to get more traffic to your blog - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "54ac755859b4": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Squeeze page: Step-by-step tutorial (+ Eemplate) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "280e606ccec6": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Audit Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "8be2b89e9714": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "f19c343457bb": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "f3256b5eb4dc": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "5cfa73e0aa8c": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Bitly’s New Data Says SEOs Are Half Right About Short Links via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "9cd8a78d0a03": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Google Business Profiles Finally Adds Third-Party Ordering Controls",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "6c6108edca8a": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Google Expands Ads In AI Mode To More Countries & Multiturn Ads In U.S.",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "1710d66250c9": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Bing Ads Revenue Up 12% With Overall Revenue Up 19%",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "35e9852d556d": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Google Ad Revenue Up 10.5% With Overall Revenue Up 25%",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "bcae8567af0b": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "Google Ads API Version 26.1 Now Out Available",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "fd8ed094a9e2": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "You Can Now Build Apps For Google Search: Connected Apps Platform",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "787ac04373b6": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "6ae5409359d2": {
+   "first": "2026-10-29T03:09:46.226Z",
+   "title": "AI for Science expands to foundations and research institutions",
+   "source": "anthropic",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T03:09:46.226Z"
   }
  }
 }
