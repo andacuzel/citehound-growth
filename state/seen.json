@@ -1344,6 +1344,62 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "959a33011bfd": {
+   "first": "2026-10-29T18:11:09.781Z",
+   "title": "Google AI Mode sends 57% of product links to Google Shopping: Study - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-29T18:11:09.781Z"
+  },
+  "daf5651d8943": {
+   "first": "2026-10-29T18:11:09.781Z",
+   "title": "Step-by-step content marketing plan template - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T18:11:09.781Z"
+  },
+  "055ef3a0a362": {
+   "first": "2026-10-29T18:11:09.781Z",
+   "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-29T18:11:09.781Z"
+  },
+  "f0fccb8368af": {
+   "first": "2026-10-29T18:11:09.781Z",
+   "title": "Google Business Profiles AI-Powered Messaging Expands",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T18:11:09.781Z"
+  },
+  "65fd81c1d3eb": {
+   "first": "2026-10-29T18:11:09.781Z",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T18:11:09.781Z"
+  },
+  "fca73080d4cb": {
+   "first": "2026-10-29T18:11:09.781Z",
+   "title": "How we detect frontier model misalignment",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T18:11:09.781Z"
+  },
+  "f3411f1adbd3": {
+   "first": "2026-10-29T18:11:09.781Z",
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T18:11:09.781Z"
   }
  }
 }

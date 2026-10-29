@@ -1,67 +1,37 @@
 {
- "0555d6c3f5c9": {
-  "title": "AI traffic drives 83% more revenue per visit for retailers: Adobe - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWJ2dzhfcTF3WXJYdko0cFpJWG9LZUlpWGt1a0YzX3FtUXl4NS1ORWQtOGZUUlFOZ3UzNE9RakcwXzdVNHNtM0ZyRFlpSDNYcHVjZExjOUNLLTZxd2JneHJhSnVhTU5SdHhkYWh3TFhFSzNSbTdpYlZlNmExaU1iX0U0TnJkMzhPaHc?oc=5",
+ "959a33011bfd": {
+  "title": "Google AI Mode sends 57% of product links to Google Shopping: Study - Search Engine Land",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWZzNnB6QnRGMmE4bVZ0MlZrSVd6eU9tTmxaOXVMNTlTT0FZVzM2b2pyNEtlUFR4Q3dmSFM2MVV1VmUyQ1lmVy1DZUtGM29NWTFUU1pkSjhsLVJXU1VzTFRnZmRFRk16bVFUSVpuWUV0eFlmS3U5bTAtSWg1NHRtekJpUy1WZlRLaXVkSzJjOA?oc=5",
   "source": "sel"
  },
- "b10dea5c04b9": {
-  "title": "You don’t need more ads. You need more creative variables. - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0ZNbGVTb2FzNFJtUGhDNUhsSF82YTFUY09qeVdIOWVUYWFDNTQtWW1MWDFnNWRXbUJMZ3NqalY3Z0VFUTZlU1FfMW84SlNsdzd4dGd2Yi1JZ1NiN3lwQmFRbTlEdGEzTkNtMHR3VjM1TDEtamVMR3A3NXVPbklKQ0JiN01LZTY4YnYtcnZraENpTl9BNGc?oc=5",
+ "daf5651d8943": {
+  "title": "Step-by-step content marketing plan template - Search Engine Land",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IZE04WllPWlB0ZEhoV1k0SjAtQmo2Y3F6QjQwbER5dUZ5a2JPMEpvbTg4eXd4Uk1uSEQydk5CRVNZTGhPUXhLV2NNWG81SDdHM0lXU1J3Wm4xR2EycU1XQmNSYnozMmhp?oc=5",
   "source": "sel"
  },
- "75139e60f156": {
-  "title": "Is AI search ghosting your brand? Here’s how to fight back - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tbUNjckUzS05LMlpfTlEtLVc2d2NVNmdSUEZrTlpoREVOeDYwVDFoZlEzMTdFaXBPY2pQWl82MzFoX0hCX05hb1RPV29EcDVqTEljZHpFX3ZUMVg5T0h3VVZVSHJTVE54OVp0cDV5NEJzZW1rQXhwcUlZdw?oc=5",
-  "source": "sel"
- },
- "0795a7711484": {
-  "title": "Google: AI Mode’s lower monetization slowed Search ad growth - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zUk53VHBveXl4eFgyV0NrVTB1ZWdWNEh0bVFSRkdtdEQzYVlzZEFaa2ZUYUh3bjlFSkNTa05OMHhBM2FtZkhVN3JHNVFET0UtSnJub0EtaF81NW1sUTdmdFd6a0J4SUo4aFdJT0FlTHJqdw?oc=5",
-  "source": "sel"
- },
- "1fc655f9d19c": {
-  "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
-  "url": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
+ "055ef3a0a362": {
+  "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
+  "url": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
   "source": "sej"
  },
- "b3207c570b3f": {
-  "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
-  "url": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
+ "f0fccb8368af": {
+  "title": "Google Business Profiles AI-Powered Messaging Expands",
+  "url": "https://www.seroundtable.com/google-business-profiles-ai-powered-messaging-42419.html",
   "source": "ser"
  },
- "a0f74d726d38": {
-  "title": "Google Does Not Show All Spammy Links In Search Console",
-  "url": "https://www.seroundtable.com/google-search-console-does-not-show-all-links-42407.html",
-  "source": "ser"
+ "65fd81c1d3eb": {
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "url": "https://openai.com/index/updated-model-spec",
+  "source": "openai"
  },
- "d45274743cc3": {
-  "title": "Google AI Overviews With Query Refinement Bubbles",
-  "url": "https://www.seroundtable.com/google-ai-overviews-query-refinement-bubbles-42406.html",
-  "source": "ser"
+ "fca73080d4cb": {
+  "title": "How we detect frontier model misalignment",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "source": "openai"
  },
- "ad7ff2304e5b": {
-  "title": "Google AI Mode Tests Blending All Products With Sponsored Products",
-  "url": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
-  "source": "ser"
- },
- "d67870b2eae3": {
-  "title": "Google Merchant API With New October 2026 Updates",
-  "url": "https://www.seroundtable.com/google-merchant-api-update-42410.html",
-  "source": "ser"
- },
- "983b1e3cc676": {
-  "title": "Is Google Testing Dropping Citations Cards From AI Overviews?",
-  "url": "https://www.seroundtable.com/citations-cards-google-ai-overviews-42413.html",
-  "source": "ser"
- },
- "28f144a88285": {
-  "title": "Show HN: LayerShop – a love child of ComfyUI and PhotoCraft",
-  "url": "https://news.ycombinator.com/item?id=50289578",
-  "source": "hn"
- },
- "edd33a0fc41f": {
-  "title": "GSC Magic – Ask Claude or ChatGPT about Your Search Console Data",
-  "url": "https://news.ycombinator.com/item?id=50287753",
-  "source": "hn"
+ "f3411f1adbd3": {
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "url": "https://openai.com/index/ropes-gray-ai-diligence",
+  "source": "openai"
  }
 }
