@@ -1190,6 +1190,22 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-10-29T06:13:05.002Z"
+  },
+  "e461665db13a": {
+   "first": "2026-10-29T09:09:12.839Z",
+   "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T09:09:12.839Z"
+  },
+  "fd769fdd2a35": {
+   "first": "2026-10-29T09:09:12.839Z",
+   "title": "Claude's new smart reports tell bosses when workers are 'off-topic'",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T09:09:12.839Z"
   }
  }
 }
