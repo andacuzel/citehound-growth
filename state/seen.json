@@ -1174,6 +1174,22 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-10-29T03:09:46.226Z"
+  },
+  "4c5e3bc53e11": {
+   "first": "2026-10-29T06:13:05.001Z",
+   "title": "Google expands ads in AI Mode to 10 new markets, with UK and Brazil next - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T06:13:05.002Z"
+  },
+  "a414dec361eb": {
+   "first": "2026-10-29T06:13:05.002Z",
+   "title": "Google AI Mode tests clearer labels for sponsored and organic shopping results - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T06:13:05.002Z"
   }
  }
 }
