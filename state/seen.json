@@ -1206,6 +1206,35 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-10-29T09:09:12.839Z"
+  },
+  "b4d3cec94a67": {
+   "first": "2026-10-29T12:15:13.165Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "da8b66730e97": {
+   "first": "2026-10-29T12:15:17.953Z",
+   "title": "You’re not winning by refusing to link to competitors - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T12:15:17.954Z"
+  },
+  "ec35a9f83c73": {
+   "first": "2026-10-29T12:15:17.954Z",
+   "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-29T12:15:17.954Z"
+  },
+  "c850acd0f0aa": {
+   "first": "2026-10-29T12:15:17.954Z",
+   "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T12:15:17.954Z"
   }
  }
 }
