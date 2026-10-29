@@ -1235,6 +1235,115 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-10-29T12:15:17.954Z"
+  },
+  "6bc8f6880fb0": {
+   "first": "2026-10-29T15:34:51.253Z",
+   "title": "Daily Search Forum Recap: October 29, 2026",
+   "outcome": "duplicate-story"
+  },
+  "1fc655f9d19c": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
+   "source": "sej",
+   "outcome": "card",
+   "score": 7,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "0555d6c3f5c9": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "AI traffic drives 83% more revenue per visit for retailers: Adobe - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "b10dea5c04b9": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "You don’t need more ads. You need more creative variables. - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "75139e60f156": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Is AI search ghosting your brand? Here’s how to fight back - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "0795a7711484": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Google: AI Mode’s lower monetization slowed Search ad growth - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "b3207c570b3f": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "a0f74d726d38": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Google Does Not Show All Spammy Links In Search Console",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "d45274743cc3": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Google AI Overviews With Query Refinement Bubbles",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "ad7ff2304e5b": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Google AI Mode Tests Blending All Products With Sponsored Products",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "d67870b2eae3": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Google Merchant API With New October 2026 Updates",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "983b1e3cc676": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Is Google Testing Dropping Citations Cards From AI Overviews?",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "28f144a88285": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "Show HN: LayerShop – a love child of ComfyUI and PhotoCraft",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T15:35:45.877Z"
+  },
+  "edd33a0fc41f": {
+   "first": "2026-10-29T15:35:45.877Z",
+   "title": "GSC Magic – Ask Claude or ChatGPT about Your Search Console Data",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-29T15:35:45.877Z"
   }
  }
 }

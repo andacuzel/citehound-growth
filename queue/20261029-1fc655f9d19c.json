@@ -1,0 +1,26 @@
+{
+ "type": "social",
+ "pillar": "hot-takes",
+ "why": "Tension: robots.txt can say allow while ChatGPT's browsing refuses the site (OpenAI Aura check, per SEJ); our scan reads robots.txt, llms.txt and the homepage, so it cannot see this block.",
+ "id": "20261029-1fc655f9d19c",
+ "title": "OpenAI's Aura check can refuse a site even when robots.txt allows it",
+ "source_url": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
+ "score": 7,
+ "hot": false,
+ "drafts": [
+  {
+   "platform": "x",
+   "text": "A Search Engine Journal report says ChatGPT's browsing can refuse a site under a safety check called Aura, even when robots.txt allows access. One publisher's account, 29 Oct 2026. Our scanner reads robots.txt, not this check.",
+   "thread": [
+    "The article says a flagged site is refused even when settings and robots.txt allow it. The block is cached for 24 hours, and it reports no public appeal process.",
+    "Test before you assume a robots.txt problem: load your key URLs in ChatGPT live fetch and on a control site. If only yours fail and your server logs show no request, the block is upstream of your rules.",
+    "Keep the evidence: timestamped screenshots, the exact error text, and crawler logs for GPTBot, OAI-SearchBot and ChatGPT-User.",
+    "Method: one publisher, as reported by SEJ on 29 Oct 2026. We have not tested Aura on any site. Confidence: low."
+   ]
+  },
+  {
+   "platform": "linkedin_personal",
+   "text": "Search Engine Journal reported today that ChatGPT's browsing can refuse a site under a safety check called Aura, even when robots.txt allows the crawler. The article reports blocks cached for 24 hours and no public appeal process.\n\nThis changes how I read a readiness scan. Our scanner reads robots.txt, llms.txt and the homepage. A block made outside those files would not show up in a scan, so a clean scan does not prove that assistants can reach a page.\n\nWhat I would check first: load your key URLs through ChatGPT's live fetch and through a control site, then compare your server logs. The article says a block leaves no request in your logs at the moment of the failed attempt.\n\nMethod note: one publisher's account, reported by Search Engine Journal on 29 Oct 2026. I have not tested this on any site. Confidence: low."
+  }
+ ]
+}
