@@ -1458,6 +1458,22 @@
    "first": "2026-10-30T09:10:42.000Z",
    "title": "- Search Engine Land",
    "outcome": "duplicate-story"
+  },
+  "fdf92454c14b": {
+   "first": "2026-10-30T12:11:30.871Z",
+   "title": "Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM via @sejournal, @siliconvallaeys",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-30T12:11:30.871Z"
+  },
+  "3cd849419607": {
+   "first": "2026-10-30T12:11:30.871Z",
+   "title": "Google Search May Be Bringing Back 100 Search Results Parameter",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-30T12:11:30.871Z"
   }
  }
 }
