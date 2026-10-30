@@ -1400,6 +1400,54 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-10-29T18:11:09.781Z"
+  },
+  "2f3ef0b2dd4e": {
+   "first": "2026-10-30T03:08:32.104Z",
+   "title": "Google AI opt-out test finds unexpected drop in organic clicks - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-30T03:08:32.104Z"
+  },
+  "390f52f43602": {
+   "first": "2026-10-30T03:08:32.104Z",
+   "title": "Findrix Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-30T03:08:32.104Z"
+  },
+  "f2a6e758cdf8": {
+   "first": "2026-10-30T03:08:32.104Z",
+   "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-30T03:08:32.104Z"
+  },
+  "f116974bc3fb": {
+   "first": "2026-10-30T03:08:32.104Z",
+   "title": "Google’s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-30T03:08:32.104Z"
+  },
+  "34e71d962753": {
+   "first": "2026-10-30T03:08:32.104Z",
+   "title": "Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible via @sejournal, @DuaneForrester",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-30T03:08:32.104Z"
+  },
+  "9fe656ddebc2": {
+   "first": "2026-10-30T03:08:32.104Z",
+   "title": "Google's John Mueller: Eventually Systems Will Catch The AI Spam & Tricks",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-30T03:08:32.104Z"
   }
  }
 }
