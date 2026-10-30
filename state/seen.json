@@ -1474,6 +1474,107 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-10-30T12:11:30.871Z"
+  },
+  "f84ed05088a0": {
+   "first": "2026-10-30T15:15:47.517Z",
+   "title": "Daily Search Forum Recap: October 30, 2026",
+   "outcome": "duplicate-story"
+  },
+  "aed8fc11ce8c": {
+   "first": "2026-10-30T15:15:59.650Z",
+   "title": "Core Web Vitals optimization can be a waste of time - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-30T15:15:59.650Z"
+  },
+  "c1eac1fd3112": {
+   "first": "2026-10-30T15:15:59.650Z",
+   "title": "Google AI Overviews are pushing News Boxes out of search results: Study - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "05fe81a155fc": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "3f6f889055d1": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "a8eeb67c3c05": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "What Search Console Can Still Tell You When Indexing Data Lags via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "da0ac8c9bfba": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "Google’s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "b5ce60967f46": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "4e744c8ece9e": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "Google AI Overviews & AI Mode 0.9% Click-Through Rate, Opt Out Study Says",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "883ab977c9c9": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "Bing Showing Ads Within AI Overviews",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "bdca59abb422": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "Google & Bing Halloween Search Easter (Pumpkin) Eggs",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "bda818d31fbd": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "Google's Gary Illyes: AI Made Bot Impersonation Worse",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "203627fadddb": {
+   "first": "2026-10-30T15:15:59.651Z",
+   "title": "Google Gemini Stopped Attaching UTM Parameters To Cited URLs",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-30T15:15:59.651Z"
   }
  }
 }
