@@ -1,0 +1,20 @@
+{
+  "type": "social",
+  "pillar": "hot-takes",
+  "why": "Tension: expected one robots.txt line per AI company; Google and Bing announced a shared training token, but Google ships it in 2027 and most crawler blocks in our sample are ordinary path rules.",
+  "id": "20261030-c40f3ee993b9",
+  "title": "Google and Bing announce AI training controls that work through robots.txt",
+  "source_url": "https://www.seroundtable.com/google-ai-training-control-42430.html",
+  "score": 8,
+  "hot": true,
+  "drafts": [
+    {
+      "platform": "x",
+      "text": "Google and Bing both announced AI training controls on 30 Oct 2026. Google plans a shared policy token in robots.txt for 2027. Bing honors its new preferences from crawls starting 1 Feb 2027. Until then, the rules already in robots.txt still apply."
+    },
+    {
+      "platform": "linkedin_personal",
+      "text": "Google and Microsoft both announced AI training controls on 30 October. Google will read one shared policy token in robots.txt across participating AI providers, planned for 2027. Bing separates training from grounding, from crawls on 1 February 2027.\n\nWhat I would watch is what a token does not change. In our sample of 219 hand-picked homepages, 2% of the 2,190 site-by-crawler pairs were blocked outright. About 80% were limited by a Disallow rule, usually on an ordinary path. Google says existing company-specific controls keep working alongside the token.\n\nOn Monday I would check robots.txt for path rules that catch AI crawlers by accident.\n\nMethod note: announcements as reported by Search Engine Roundtable on 30 Oct 2026. Crawler figures: 219 hand-picked homepages scanned 29 to 31 Jul 2026, published 5 Oct 2026. A sample, not the web. Confidence: medium."
+    }
+  ]
+}

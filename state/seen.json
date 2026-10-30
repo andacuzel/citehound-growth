@@ -1575,6 +1575,78 @@
    "outcome": "skip",
    "score": 5,
    "marked": "2026-10-30T15:15:59.651Z"
+  },
+  "c40f3ee993b9": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "Google Adopts New AI Training Control",
+   "source": "ser",
+   "outcome": "hot",
+   "score": 8,
+   "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "08b35e4d4655": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 8,
+   "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "60637d4c6e85": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "Microsoft Bing gives publishers more control over how AI uses their content - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 8,
+   "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "39888dbd28aa": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "Google also gives publishers more control over how AI uses their content - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 8,
+   "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "ace96aef78a3": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "9a40e6b167ce": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "5efef855eb3f": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "be87813a963d": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "Community safety report and new protections for teens",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "e2486c6a8833": {
+   "first": "2026-10-30T18:11:25.732Z",
+   "title": "Show HN: Cb2026, a Rust chess engine that revisits a 2004 world-record project",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-10-30T18:11:25.732Z"
   }
  }
 }
