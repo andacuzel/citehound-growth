@@ -1663,6 +1663,38 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-10-31T03:08:43.501Z"
+  },
+  "d1bedf33667b": {
+   "first": "2026-10-31T09:08:20.217Z",
+   "title": "Shopify CEO: Peer Ratings On AI Use ‘Didn’t Matter’ via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-31T09:08:20.217Z"
+  },
+  "0932e519539c": {
+   "first": "2026-10-31T09:08:20.217Z",
+   "title": "Big Brands Dominate AI Search But Leave Openings For Smaller Sites via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-10-31T09:08:20.217Z"
+  },
+  "ac7d7a0205d5": {
+   "first": "2026-10-31T09:08:20.217Z",
+   "title": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-31T09:08:20.217Z"
+  },
+  "abfeae031242": {
+   "first": "2026-10-31T09:08:20.217Z",
+   "title": "Why Google, Microsoft, Anthropic and OpenAI need their own AI detection tools",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-10-31T09:08:20.217Z"
   }
  }
 }
