@@ -1647,6 +1647,22 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-10-30T18:11:25.732Z"
+  },
+  "3bbcc54a0c60": {
+   "first": "2026-10-31T03:08:43.501Z",
+   "title": "Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-10-31T03:08:43.501Z"
+  },
+  "d018be012700": {
+   "first": "2026-10-31T03:08:43.501Z",
+   "title": "The AI Search Measurement Gap Brands Must Close In 2027 And Beyond via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-10-31T03:08:43.501Z"
   }
  }
 }
