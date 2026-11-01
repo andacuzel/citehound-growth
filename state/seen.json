@@ -1703,6 +1703,14 @@
    "outcome": "skip",
    "score": 4,
    "marked": "2026-10-31T12:10:31.368Z"
+  },
+  "d1aae3bb4294": {
+   "first": "2026-11-01T03:08:20.372Z",
+   "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-01T03:08:20.372Z"
   }
  }
 }
