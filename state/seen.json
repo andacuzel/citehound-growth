@@ -1823,6 +1823,38 @@
    "outcome": "card",
    "score": 6,
    "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "6afd376141bd": {
+   "first": "2026-11-02T18:14:09.540Z",
+   "title": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-02T18:14:09.540Z"
+  },
+  "c61f4c16f3bd": {
+   "first": "2026-11-02T18:14:09.540Z",
+   "title": "Beyond demand capture: Why performance marketers need brand marketing - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-02T18:14:09.540Z"
+  },
+  "8524f156c26f": {
+   "first": "2026-11-02T18:14:09.540Z",
+   "title": "Daily Search Forum Recap: November 2, 2026",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-02T18:14:09.540Z"
+  },
+  "ab3e631e1e12": {
+   "first": "2026-11-02T18:14:09.540Z",
+   "title": "LifeVal",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-02T18:14:09.540Z"
   }
  }
 }
