@@ -1727,6 +1727,102 @@
    "outcome": "skip",
    "score": 5,
    "marked": "2026-11-02T12:21:36.929Z"
+  },
+  "53e612da7de9": {
+   "first": "2026-11-02T16:05:54.806Z",
+   "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "d8f16172b844": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "Every AI follow-up question is another SEO opportunity - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "4d505abe4bb2": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "How to build an action-oriented second brain for SEO - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "76ccfdb25825": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "The quiet click: Why people read AI answers and click anyway - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "bda5574ae878": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "54ed86270e56": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "November 2026 Google Webmaster Report",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "40bfa0e278c9": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "Gary Illyes Implies Click Data Not Coming To Google Search Console AI Reporting",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "25f31d62c4ef": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "Reddit Stock Drops 33% After CEO Confirms Declining Google Search Traffic",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "7b08c4b032dd": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "Google Ads Promotion Offers Within Promotions",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "753156d2b98c": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "Google Ads Strategists Using AI-Generated Fake Names & Profile Photos",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "d26c078b06e6": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "Introducing the Grid Protectors Program",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-02T16:05:54.807Z"
+  },
+  "e4d9f5306afc": {
+   "first": "2026-11-02T16:05:54.807Z",
+   "title": "3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner via @sejournal, @slobodanmanic",
+   "source": "sej",
+   "outcome": "card",
+   "score": 6,
+   "marked": "2026-11-02T16:05:54.807Z"
   }
  }
 }

@@ -1,0 +1,20 @@
+{
+  "type": "social",
+  "pillar": "hot-takes",
+  "why": "Tension: a readiness score can be read as a prediction of which product an assistant picks, but the headline shows three models choosing three different winners from one catalog, and our scan never measures picks. Written from the headline and snippet only; the owner should open the article before posting.",
+  "id": "20261102-e4d9f5306afc",
+  "title": "Three AI models shopped a Shopify catalog and each picked a different winner",
+  "source_url": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
+  "score": 6,
+  "hot": false,
+  "drafts": [
+    {
+      "platform": "x",
+      "text": "Three AI models shopped a Shopify catalog, and each picked a different winner (Search Engine Journal, 2 Nov 2026). A readiness scan tells a store whether crawlers can reach its pages. It does not tell the store which product an assistant picks."
+    },
+    {
+      "platform": "linkedin_personal",
+      "text": "Three AI models shopped a Shopify catalog, and each picked a different winner. That is the headline from Search Engine Journal on 2 November 2026.\n\nA readiness scan answers a narrower question. It tells a store whether crawlers can reach its pages and whether those pages carry the signals a model can read. It does not tell the store which product a model will pick, and it should not be read that way.\n\nOn Monday I would check which product pages a model can read at all, before arguing over which one it chose.\n\nMethod note: headline and summary of one Search Engine Journal article, 2 Nov 2026. We have not checked its models, prompts or number of runs. Confidence: low."
+    }
+  ]
+}
