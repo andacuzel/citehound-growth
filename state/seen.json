@@ -2079,6 +2079,91 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "08dbc1e16059": {
+   "first": "2026-11-03T18:08:53.299Z",
+   "title": "Daily Search Forum Recap: November 3, 2026",
+   "outcome": "duplicate-story"
+  },
+  "0aa112ce098e": {
+   "first": "2026-11-03T18:09:01.597Z",
+   "title": "Google Search Console is showing some huge spikes in clicks in the performance report - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "b30f83f4da76": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "Is Google poisoning more than just search results? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "af5f7abddda4": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "7 technical SEO checks for vibe-coded websites - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "1feef97a7e4c": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "49 AWESOME video marketing statistics - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "4f08aef8b768": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "How to write an article people want to read (in 7 steps) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "0f6ff364700d": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "5 signals you need for better Google Ads forecasts in 2027 - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "a58ae94c06f2": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "Google Performance Reports Showing Weird Spike In Clicks For Some Sites",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "8ee85b94111b": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "Google Will Turn Off Google Search For K-12 Schools & Testing Learning Beta",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "c21881835a69": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "Show HN: I built Knemora – An Open-source AI Second brain",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "59d9fd3b3315": {
+   "first": "2026-11-03T18:09:01.598Z",
+   "title": "Show HN: Agent Trace, let agents query Codex and CC chat histories",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T18:09:01.598Z"
   }
  }
 }
