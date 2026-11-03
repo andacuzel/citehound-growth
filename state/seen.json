@@ -1855,6 +1855,94 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-02T18:14:09.540Z"
+  },
+  "e547e881aca4": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "Buildscale, Inc Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "76e442724562": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "PageSpeed Insights Scores May Rise After Lighthouse Update via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "e7a2fe265fe1": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "NY Times Accuses Brave Of Scraping And Exploiting Content via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "e807e52374f9": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "TikTok Search Ads Adds Brand And Category Keyword Packs via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "fffb9586cf59": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "AI Shopping: Get Your Products Found In Google & ChatGPT via @sejournal, @hethr_campbell",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "80b7b638acd7": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "How The Athletic Gets More Clicks With One Simple Trick",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "178c83217c49": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "6082a00e8504": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "Google AI Overviews For Brands Moved To Right Column",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "006ec733ab4a": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "Scaling Git at OpenAI",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "3c84be35884c": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T03:08:33.803Z"
+  },
+  "090392424f92": {
+   "first": "2026-11-03T03:08:33.803Z",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T03:08:33.803Z"
   }
  }
 }

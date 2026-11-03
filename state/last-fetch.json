@@ -1,22 +1,57 @@
 {
- "6afd376141bd": {
-  "title": "ChatGPT ads generate 64% less revenue per visit than Google Search: Study - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGl6M05WQkZHU1hJb0I1bDg2UXROeXNWZXhQbXRzazhyR21uVkZ1Nng2UWZtNERWWW9MVmpsVWtlN2ZldG5PdnBteHpzd1V5ZTNBRGtqUXFiOEZEUE02LXlIYkZJSGZwVzBhVm9LQXhQMFY1eVE5V0JaZ1VjN3AwQUk1Q1k3bFFoNjVpOVlwc1VmdHVZU09MR2hOZkw2dW42NDV4cDRxZw?oc=5",
+ "e547e881aca4": {
+  "title": "Buildscale, Inc Archives - Search Engine Land",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SaFYtYktZRVAtUGFfTjdQZFBLMnNpbm96WmRwV1RNY29MYUJxeExUVDIxaWRnNVZJSkhKdi1jZjlsUGJyMm1DcTl5SkdvbExyWG4zSXVjNzB0WGZ3U08w?oc=5",
   "source": "sel"
  },
- "c61f4c16f3bd": {
-  "title": "Beyond demand capture: Why performance marketers need brand marketing - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5bjlHaWQ2X2U2bU84ZVlqbmVQLTRPalFzaXFoc0JVdjN4SURGSGFsQzZoc0tPZkE1NXktZGhyUndVVHhobl83QVRodWNDSVZZM1U2bGQ1ZTBDdmZEMkNQcWNibEF6OURodW9vRDNMWnRyZnVRS2ZLOUFJQTZVdw?oc=5",
-  "source": "sel"
+ "76e442724562": {
+  "title": "PageSpeed Insights Scores May Rise After Lighthouse Update via @sejournal, @MattGSouthern",
+  "url": "https://www.searchenginejournal.com/pagespeed-insights-scores-lighthouse-update/595698/",
+  "source": "sej"
  },
- "8524f156c26f": {
-  "title": "Daily Search Forum Recap: November 2, 2026",
-  "url": "https://www.seroundtable.com/recap-11-02-2026-42434.html",
+ "e7a2fe265fe1": {
+  "title": "NY Times Accuses Brave Of Scraping And Exploiting Content via @sejournal, @martinibuster",
+  "url": "https://www.searchenginejournal.com/ny-times-accuses-brave-of-scraping-and-exploiting-content/595679/",
+  "source": "sej"
+ },
+ "e807e52374f9": {
+  "title": "TikTok Search Ads Adds Brand And Category Keyword Packs via @sejournal, @MattGSouthern",
+  "url": "https://www.searchenginejournal.com/tiktok-search-ads-brand-category-keyword-packs/595682/",
+  "source": "sej"
+ },
+ "fffb9586cf59": {
+  "title": "AI Shopping: Get Your Products Found In Google & ChatGPT via @sejournal, @hethr_campbell",
+  "url": "https://www.searchenginejournal.com/ai-shopping-get-your-products-found-in-google-chatgpt-recap/594889/",
+  "source": "sej"
+ },
+ "80b7b638acd7": {
+  "title": "How The Athletic Gets More Clicks With One Simple Trick",
+  "url": "https://www.searchenginejournal.com/how-the-athletic-gets-more-clicks-with-one-simple-trick/594915/",
+  "source": "sej"
+ },
+ "178c83217c49": {
+  "title": "Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline via @sejournal, @MattGSouthern",
+  "url": "https://www.searchenginejournal.com/google-ai-click-reporting-uk-deadline/595663/",
+  "source": "sej"
+ },
+ "6082a00e8504": {
+  "title": "Google AI Overviews For Brands Moved To Right Column",
+  "url": "https://www.seroundtable.com/google-ai-overviews-brands-right-42440.html",
   "source": "ser"
  },
- "ab3e631e1e12": {
-  "title": "LifeVal",
-  "url": "https://openai.com/index/lifeval",
+ "006ec733ab4a": {
+  "title": "Scaling Git at OpenAI",
+  "url": "https://openai.com/index/scaling-git-at-openai",
+  "source": "openai"
+ },
+ "3c84be35884c": {
+  "title": "Rewarding defenders with bigger bug bounties",
+  "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+  "source": "openai"
+ },
+ "090392424f92": {
+  "title": "Preparing our next security sprint to harden OpenAI",
+  "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
   "source": "openai"
  }
 }
