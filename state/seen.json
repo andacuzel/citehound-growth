@@ -1975,6 +1975,110 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-03T12:09:09.123Z"
+  },
+  "1186aa160f48": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "How to use Google Ads attributed branded searches to measure brand impact - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "5ddb4d37d75e": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Managed SEO automation: Faster workflows, higher expectations - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "fc1456dc10af": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Steve Ballmer Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "fe434c7bc1da": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "How to film a YouTube video - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "a31b6d35b804": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "YouTube community tab - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "f3bbfd654957": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "75fbf1e900c4": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Building A Global Content Factory With AI (Without Losing The Human Touch) via @sejournal, @motokohunt",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "b2cb48970562": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Google AI Mode Biased: It Only Shows Links To Google Flights",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "305858820ccd": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Google Tests Removing AI Mode Button From Search Bar",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "cba06a96224c": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Only Home Page Indexed? Might Be A Google Search Quality Issue",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "452ec3e8b994": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "b79d2bf20ec0": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Google Ads Asset Scheduling With Day Grouping (Weekends/Weekdays)",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-03T15:08:54.733Z"
+  },
+  "316bf7c396b7": {
+   "first": "2026-11-03T15:08:54.733Z",
+   "title": "Show HN: How to Disable Google AI Overview",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T15:08:54.733Z"
   }
  }
 }
