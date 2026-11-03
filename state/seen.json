@@ -1951,6 +1951,30 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-03T06:08:29.206Z"
+  },
+  "416107cc21cd": {
+   "first": "2026-11-03T12:09:09.123Z",
+   "title": "Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-03T12:09:09.123Z"
+  },
+  "237067a50f31": {
+   "first": "2026-11-03T12:09:09.123Z",
+   "title": "Google On How To Block Popups Using Robot.txt In Search",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-03T12:09:09.123Z"
+  },
+  "627dcee19e80": {
+   "first": "2026-11-03T12:09:09.123Z",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-03T12:09:09.123Z"
   }
  }
 }
