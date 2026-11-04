@@ -2353,6 +2353,75 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "176ee3e47860": {
+   "first": "2026-11-04T18:08:55.219Z",
+   "title": "Daily Search Forum Recap: November 4, 2026",
+   "outcome": "duplicate-story"
+  },
+  "b7b51aeafd92": {
+   "first": "2026-11-04T18:09:01.546Z",
+   "title": "Google organic click share reaches 15-month high: Report - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-04T18:09:01.546Z"
+  },
+  "f181bbeacb7b": {
+   "first": "2026-11-04T18:09:01.546Z",
+   "title": "Product feeds are becoming the new ad creative in Google AI Mode - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-04T18:09:01.546Z"
+  },
+  "d76c515b98d9": {
+   "first": "2026-11-04T18:09:01.546Z",
+   "title": "Is ChatGPT really handling 1 trillion searches a year? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-04T18:09:01.546Z"
+  },
+  "766ebe7af10f": {
+   "first": "2026-11-04T18:09:01.546Z",
+   "title": "Google AI Mode adds home services booking links - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-04T18:09:01.546Z"
+  },
+  "0fe86ed9962d": {
+   "first": "2026-11-04T18:09:01.546Z",
+   "title": "3 in 4 homepages lost organic clicks: An analysis of 110 sites - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-04T18:09:01.546Z"
+  },
+  "f4b45aa9f0c6": {
+   "first": "2026-11-04T18:09:01.546Z",
+   "title": "Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-04T18:09:01.546Z"
+  },
+  "73f939fadc65": {
+   "first": "2026-11-04T18:09:01.546Z",
+   "title": "Google Search Console Performance Report Multi-Select Device Filters",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-04T18:09:01.546Z"
+  },
+  "2dec8884bf31": {
+   "first": "2026-11-04T18:09:01.546Z",
+   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-04T18:09:01.546Z"
   }
  }
 }
