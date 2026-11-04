@@ -2241,6 +2241,118 @@
    "first": "2026-11-04T09:08:11.375Z",
    "title": "- Search Engine Land",
    "outcome": "duplicate-story"
+  },
+  "82d1d4fe3248": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "OpenAI Says ChatGPT Is At 20% Of Google Search Volume",
+   "source": "ser",
+   "outcome": "card",
+   "score": 6,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "1d47bf170603": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "Microsoft Clarity gains agentic analytics, brand agents and Ask Clarity - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "d70dd69eb3c4": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "What channels grow when organic search shrinks? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "1714be1c3d70": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "How Google Ads promotions can inflate ROAS and hurt profits - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "9d7d341bfe43": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) via @sejournal, @sallymills",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "335577eb73ea": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "Reddit Is Going Logged-In Only – Brands Still Need To Be In The Conversation via @sejournal, @brentcsutoras",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "12598bc36466": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "Microsoft Clarity With New Agentic Analytics & Ask Clarity",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "2b1bb0451bcb": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "Google Ads New Help Document For Promotion Mode",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "2c3bd758ac6f": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "Google AI Mode Now With Up To Four Ads",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "93fd3acf54b0": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "Server Side Google Tag Manager To See Full IP Addresses",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "665a9f3d20dc": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "List Of Google Twiddlers For Re-Ranking Search Results",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "76a15d7ce8f8": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "Search Central Live in Zurich is back!",
+   "source": "gsc",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "f04b9dbfe8d8": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-04T15:11:30.492Z"
+  },
+  "8fac4f69d2b2": {
+   "first": "2026-11-04T15:11:30.492Z",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-04T15:11:30.492Z"
   }
  }
 }

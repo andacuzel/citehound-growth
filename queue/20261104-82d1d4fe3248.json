@@ -1,0 +1,20 @@
+{
+  "id": "20261104-82d1d4fe3248",
+  "type": "social",
+  "pillar": "hot-takes",
+  "title": "OpenAI says ChatGPT search-like queries are about 20% of Google volume",
+  "why": "Expected: a share of query volume would show up as a share of brands named. Found: the 20% figure is an interview claim with no definition, and volume says nothing about whether an assistant names a brand.",
+  "source_url": "https://www.seroundtable.com/chatgpt-20-percent-google-42451.html",
+  "score": 6,
+  "hot": false,
+  "drafts": [
+    {
+      "platform": "x",
+      "text": "OpenAI says ChatGPT's search-like queries are now about one-fifth of Google's volume (interview, 4 Nov 2026). Volume is not presence. Citehound's score measures whether crawlers can reach a site and read its pages. It does not measure whether ChatGPT names the brand."
+    },
+    {
+      "platform": "linkedin_personal",
+      "text": "OpenAI's Adam Fry said today that ChatGPT's search-like queries are now roughly one-fifth of Google's volume. The figure comes from an interview, not a published dataset, and \"search-like\" is not defined.\n\nI read it with one question in mind: does a bigger share of queries mean more brands get named? Volume and presence are different measurements. A readiness scan tells you whether crawlers can reach a site and whether its pages carry signals a model can read. It does not tell you whether an assistant names you.\n\nIf you are planning budget around this number, ask for the definition and the date first. Then check your own crawler access separately from any citation test.\n\nMethod note: one executive interview, reported by Search Engine Roundtable on 4 Nov 2026. We have no sample of our own behind this post."
+    }
+  ]
+}
