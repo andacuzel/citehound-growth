@@ -2164,6 +2164,78 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-03T18:09:01.598Z"
+  },
+  "5a511be7bf1c": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "Digg Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-04T03:09:00.251Z"
+  },
+  "c2965058ece3": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "Reddit begins testing ads in search results - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-04T03:09:00.251Z"
+  },
+  "7ac3312397c7": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-04T03:09:00.251Z"
+  },
+  "bc03ba20f211": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product via @sejournal, @marie_haynes",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-04T03:09:00.251Z"
+  },
+  "5463043b562f": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "Google Ad Tags In Server-Side GTM To Get Full IP Addresses via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-04T03:09:00.251Z"
+  },
+  "c2a1caa542ff": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "How To Create Demand You Can Actually Convert (And Prove) via @sejournal, @duchessjenm",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-04T03:09:00.251Z"
+  },
+  "f6a239e73633": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "Rank Trackers Find Google Results About One Word Of A Query via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-04T03:09:00.251Z"
+  },
+  "a11ed13fb8b4": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "Google Updates Crawled - Currently Not Indexed Details",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-04T03:09:00.251Z"
+  },
+  "944ed7784bd7": {
+   "first": "2026-11-04T03:09:00.251Z",
+   "title": "Accelerating engineering for the physical world",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-04T03:09:00.251Z"
   }
  }
 }
