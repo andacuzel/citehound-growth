@@ -2526,6 +2526,131 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-05T12:09:20.231Z"
+  },
+  "b387241d9780": {
+   "first": "2026-11-05T15:09:38.017Z",
+   "title": "Daily Search Forum Recap: November 5, 2026",
+   "outcome": "duplicate-story"
+  },
+  "4b7a2fc0c5e1": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "SEO can’t fix a broken sales process - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "bbef2dbf1e86": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google Ads Search terms match type vs Search terms match type (Keywords) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "5e0c9c1f6aa4": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "AI visibility belongs in the marketing mix, but not where you think - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "211cbf5d26d1": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google sends notifications for site reputation abuse policy manual actions that don't apply in the European Economic Area - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "b6f17273778f": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Local grocery chain outranks Wikipedia on Google for ‘apples’ - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "5c9078579661": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "How To Optimize For Better Campaign Leads, Not Just Conversions – Ask A PPC via @sejournal, @navahf",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "b8c4f9850637": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "GEO Isn’t A Distraction – Referral Data Misses Where AI Shapes Buying Decisions via @sejournal, @TaylorDanRW",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "94c347d77e9f": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "2cf54a4d849b": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Facebook Answers AI-Generated 6 Million Pages Is Google Scaled Content Abuse",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "313cc7df0dee": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google Ads Expands AI Content Disclosure Label To More Regions",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "c64424a0106c": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google Ads PMax Channel Report Definitions Coming To Search & Shopping",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "c46d15ff631c": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google AI Mode Integrates With Home Services Booking",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "4897fff24be0": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google Can Temporarily Protect Important URLs From Being Deindexed",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "e188b5624934": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google Business Profiles Car Dealership Inventory Limited Pilot",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "b4702f6027a0": {
+   "first": "2026-11-05T15:09:46.204Z",
+   "title": "Google Search Profiles Spotted Adding LinkedIn",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T15:09:46.204Z"
   }
  }
 }
