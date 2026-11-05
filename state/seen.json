@@ -2502,6 +2502,30 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-05T06:09:09.871Z"
+  },
+  "274eb6525c67": {
+   "first": "2026-11-05T12:09:20.231Z",
+   "title": "SERP Data Providers Say Google Is Throttling Goto Result Links via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-05T12:09:20.231Z"
+  },
+  "e1f0df5753be": {
+   "first": "2026-11-05T12:09:20.231Z",
+   "title": "Google Ads Gains A New Telemedicine Certification Option",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-05T12:09:20.231Z"
+  },
+  "a72dd9cbf035": {
+   "first": "2026-11-05T12:09:20.231Z",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-05T12:09:20.231Z"
   }
  }
 }
