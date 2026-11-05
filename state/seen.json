@@ -2502,6 +2502,11 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-05T06:09:09.871Z"
+  },
+  "20c7e78df9a0": {
+   "first": "2026-11-05T09:09:47.852Z",
+   "title": "Google's Search Volume Is About 5x ChatGPT's, OpenAI Says",
+   "outcome": "duplicate-story"
   }
  }
 }
