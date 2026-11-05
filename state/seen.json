@@ -2651,6 +2651,83 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-05T15:09:46.204Z"
+  },
+  "ae675ed61bc9": {
+   "first": "2026-11-05T18:09:14.999Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "a30069c2bd7b": {
+   "first": "2026-11-05T18:09:20.961Z",
+   "title": "Google Search clicks to news publishers rose 8x on Election Day - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T18:09:20.961Z"
+  },
+  "59c46761b0d1": {
+   "first": "2026-11-05T18:09:20.962Z",
+   "title": "AI knows what your brand does, but not who it’s for - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-05T18:09:20.962Z"
+  },
+  "ee15d0911475": {
+   "first": "2026-11-05T18:09:20.962Z",
+   "title": "Google Ads may count offline conversions in the wrong accounts - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-05T18:09:20.962Z"
+  },
+  "5b8484ba5ded": {
+   "first": "2026-11-05T18:09:20.962Z",
+   "title": "Google Calendar Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 0,
+   "marked": "2026-11-05T18:09:20.962Z"
+  },
+  "48b4eb14e76c": {
+   "first": "2026-11-05T18:09:20.962Z",
+   "title": "Emma Baker - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 0,
+   "marked": "2026-11-05T18:09:20.962Z"
+  },
+  "d62b8d059c59": {
+   "first": "2026-11-05T18:09:20.962Z",
+   "title": "November Click Spikes In Google Search Console Are Bot Traffic – How To Filter Your Reports via @sejournal, @marie_haynes",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-05T18:09:20.962Z"
+  },
+  "641023c6c5c6": {
+   "first": "2026-11-05T18:09:20.962Z",
+   "title": "Ads In Google AI Answers Concentrate In Apparel & Electronics via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-05T18:09:20.962Z"
+  },
+  "8b91694c9060": {
+   "first": "2026-11-05T18:09:20.962Z",
+   "title": "Show HN: A terminal viewer for plain text data files (JSON,YAML,CSV,XML,)",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-05T18:09:20.962Z"
+  },
+  "2f237dfefcfd": {
+   "first": "2026-11-05T18:09:20.962Z",
+   "title": "Show HN: I paid Claude US$1,070 to read the worst reviews of 30k places to stay",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-05T18:09:20.962Z"
   }
  }
 }
