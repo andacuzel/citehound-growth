@@ -2776,6 +2776,94 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-06T03:08:24.430Z"
+  },
+  "cc5b9d2e2cf1": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "AI Visibility Isn’t A Sham – Most Ways Of Measuring It Are via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "card",
+   "score": 6,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "4f4d8ad429b5": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "How to make your Instagram videos easier to find in search - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "6f09ddf16330": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "AI reasoning, refusals, and the case for SEO verification - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "98e721bcac87": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google & More SEO, PPC & Local",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "c3cff9d39021": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "Google Business Profiles Manage Offers Help Document",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "d8262107a6ea": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "Google AI Mode Asking Searchers To Continue With This Search",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "1dd2b82b1482": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "Google Shopping Dominating The European Product Search Results",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "011830f0d0a5": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "Google Pushing AI Mode Users To Opt In To Personal Intelligence",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "78235b00dba7": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "Bing Search AI Visual Summary Snippet",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "93b2b4f43169": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "Google Confirms Issues With Merchant Center, API & Feeds",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "9feca3e99711": {
+   "first": "2026-11-06T15:08:57.886Z",
+   "title": "Google Expands Business Messaging To Google Maps On iOS & Android",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-06T15:08:57.886Z"
   }
  }
 }

@@ -1,0 +1,20 @@
+{
+  "id": "20261106-cc5b9d2e2cf1",
+  "type": "social",
+  "pillar": "hot-takes",
+  "title": "Search Engine Journal: most ways of measuring AI presence are untested (6 Nov 2026)",
+  "why": "The article argues dashboard AI-presence scores should be tested against customer behavior; our readiness score answers a different question and we should say so.",
+  "source_url": "https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/",
+  "score": 6,
+  "hot": false,
+  "drafts": [
+    {
+      "platform": "x",
+      "text": "A dashboard that scores AI presence and a readiness score answer different questions. Ours reads robots.txt, llms.txt and the homepage. It never asks an assistant whether it names a brand. Report the two numbers separately."
+    },
+    {
+      "platform": "linkedin_personal",
+      "text": "Most AI presence dashboards answer one question: what do assistants say about us. A readiness score answers a different one: can crawlers reach the site, and do its pages carry signals a model can read.\n\nI build the second kind, so I have a bias here. The scan reads robots.txt, llms.txt, the sitemap and the homepage. It gives a 100-point score from 16 checks, plus the access state of 10 AI crawlers. It never asks an assistant whether it names a brand, so I would not read that number as presence.\n\nIf your team reports both, put them on separate lines with separate labels. A higher readiness score tells you the door is open. It does not tell you anyone walked through it.\n\nMethod note: this is a reading of one Search Engine Journal article dated 6 Nov 2026, not a test. The score measures readiness only. It is not a citation or ranking measure."
+    }
+  ]
+}
