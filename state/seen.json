@@ -2864,6 +2864,75 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-06T15:08:57.886Z"
+  },
+  "aacdc195ff06": {
+   "first": "2026-11-06T18:09:12.491Z",
+   "title": "Daily Search Forum Recap: November 6, 2026",
+   "outcome": "duplicate-story"
+  },
+  "bfafbec591b6": {
+   "first": "2026-11-06T18:09:23.190Z",
+   "title": "When does your ecommerce site need a new category page? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-06T18:09:23.190Z"
+  },
+  "84c362ca9029": {
+   "first": "2026-11-06T18:09:23.190Z",
+   "title": "OpenAI testing business tools to track performance within ChatGPT - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-06T18:09:23.190Z"
+  },
+  "58695c205834": {
+   "first": "2026-11-06T18:09:23.190Z",
+   "title": "YouTube description updates linked to 359% rise in AI retrievals - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-06T18:09:23.190Z"
+  },
+  "8c6fdef5bf8e": {
+   "first": "2026-11-06T18:09:23.190Z",
+   "title": "Why backlinks alone won’t save big brands in AI search - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-06T18:09:23.190Z"
+  },
+  "2e1500a1be38": {
+   "first": "2026-11-06T18:09:23.190Z",
+   "title": "Google Gemini Business Profile Tools Are Coming To Workspace via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-06T18:09:23.190Z"
+  },
+  "3997a3f3c6d7": {
+   "first": "2026-11-06T18:09:23.190Z",
+   "title": "TikTok Search Ads Are Becoming Real Search Advertising via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-06T18:09:23.190Z"
+  },
+  "93458e99bbb0": {
+   "first": "2026-11-06T18:09:23.190Z",
+   "title": "OpenAI Working On ChatGPT Tools For Business For Analytics & Citations",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-06T18:09:23.190Z"
+  },
+  "68e845d6803c": {
+   "first": "2026-11-06T18:09:23.190Z",
+   "title": "GPTBot hit my SSO login page 594,101 times",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-06T18:09:23.190Z"
   }
  }
 }
