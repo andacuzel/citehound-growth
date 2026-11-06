@@ -2728,6 +2728,54 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-05T18:09:20.962Z"
+  },
+  "e92f4ef3bda8": {
+   "first": "2026-11-06T03:08:24.430Z",
+   "title": "ChatGPT Ads bidding options are changing on November 9th - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-06T03:08:24.430Z"
+  },
+  "9fce5fc20f6a": {
+   "first": "2026-11-06T03:08:24.430Z",
+   "title": "FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-06T03:08:24.430Z"
+  },
+  "83405adb9cb3": {
+   "first": "2026-11-06T03:08:24.430Z",
+   "title": "Google Search Queries Hit A 5-Year High, And Search Revenue Didn’t Follow via @sejournal, @DuaneForrester",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-06T03:08:24.430Z"
+  },
+  "6579a1e89ddf": {
+   "first": "2026-11-06T03:08:24.430Z",
+   "title": "OpenAI Updates ChatGPT Ads Bidding Options For Max Bid or Max CPC",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-06T03:08:24.430Z"
+  },
+  "0c619408f9bc": {
+   "first": "2026-11-06T03:08:24.430Z",
+   "title": "Australian universities are creating AI-native graduates",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-06T03:08:24.430Z"
+  },
+  "9a3f75153b52": {
+   "first": "2026-11-06T03:08:24.430Z",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-06T03:08:24.430Z"
   }
  }
 }
