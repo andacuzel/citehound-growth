@@ -1,0 +1,8 @@
+{
+ "id": "insight-2026-W45-0-wording",
+ "type": "wording",
+ "pillar": "field-notes",
+ "title": "Insight lab: nothing strong this week",
+ "why": "Saturday run, 7 Nov 2026: a third independent sample of 215 scored homepages (no overlap with the 26 Oct and 31 Oct frames). Nothing is strong enough to publish.",
+ "body": "RESULT: no new content this week.\n\nDISCARDED:\n1. Professional-services homepages score lower (-7.6 points, 95% interval -11.2 to -4.1; 67 vs 148 sites). Do not publish: the same comparison was -2.3 (interval spans zero) on 26 Oct and -0.3 on 31 Oct. The gap is spread over seven small checks, and this week's frame drew 9 Squarespace sites into the segment. Most likely frame composition, not a segment trait.\n2. llms.txt presence follows the site builder: 21 of 22 Wix homepages have one, 2 of 17 Squarespace, 44% of 307 WordPress (pooled over three samples, 26 Oct to 7 Nov). Low: both builder groups are under 30 sites, and 15 of the Wix sites came from one sample. Needs a targeted frame of 30+ per builder first.\n3. Most AI-crawler blocks outside Cloudflare's managed robots.txt block only Bytespider (6 of 9). Do not publish: n=6, and it repeats a finding already on the research page.\n4. Pillar correlation, crawler access as the biggest fix, and the top-5% profile: same artifacts as the W44 runs.\n\nREPLICATION: Next.js homepages tie WordPress for the third time (84.3 vs 83.2). The 31 Oct correction to the pending WordPress cards still stands.\n\nMETHOD: 240 domains found by web search, not random, so likely more SEO-active than average; 215 scored on 7 Nov 2026, homepage only, one scan each, from a data-center address. Readiness only."
+}
