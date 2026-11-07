@@ -2933,6 +2933,54 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-06T18:09:23.190Z"
+  },
+  "100d65162d78": {
+   "first": "2026-11-07T03:08:44.158Z",
+   "title": "Peec AI GmbH Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-07T03:08:44.158Z"
+  },
+  "db3ab5c611af": {
+   "first": "2026-11-07T03:08:44.158Z",
+   "title": "How to conduct a backlink audit: Tips, tools, & examples - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-07T03:08:44.158Z"
+  },
+  "34835a3ac003": {
+   "first": "2026-11-07T03:08:44.158Z",
+   "title": "Business analytics Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-07T03:08:44.158Z"
+  },
+  "aa5fd8849952": {
+   "first": "2026-11-07T03:08:44.158Z",
+   "title": "How to calculate share of voice (+ Why it matters for SEO) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-07T03:08:44.158Z"
+  },
+  "befae14392f8": {
+   "first": "2026-11-07T03:08:44.158Z",
+   "title": "Stella Rising Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-07T03:08:44.158Z"
+  },
+  "6bc68db50393": {
+   "first": "2026-11-07T03:08:44.158Z",
+   "title": "Brave Sells Its Search Index To AI, And Your Website Is Probably In It via @sejournal, @slobodanmanic",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-07T03:08:44.158Z"
   }
  }
 }
