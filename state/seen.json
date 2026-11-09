@@ -3045,6 +3045,115 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-09T12:13:24.874Z"
+  },
+  "d80cd16eea7c": {
+   "first": "2026-11-09T15:12:55.960Z",
+   "title": "Daily Search Forum Recap: November 9, 2026",
+   "outcome": "duplicate-story"
+  },
+  "5f63c67a5edf": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "AI search activity is nearly invisible in Google Ads search terms reports: Study - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "31777249ecd1": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "Don’t wait for the SEO report to tell clients something’s wrong - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "2336e8e01572": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "How to measure the full value of paid media beyond ROAS - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "e8b7bf16acf1": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "032b63fe74fe": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "Report Puts AI At 76B Monthly Sessions, Drops Search Engine Comparison via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "1e395073ef33": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "The New Organic Growth Stack: Search, Social, Communities & AI",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "5d5948567fb3": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "Google Search Ranking Volatility Status: Update November 8th/9th?",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "8f1450e16136": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "1df6a69873e6": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "Google Adding Booking Links To Business Profiles Automatically?",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "81113f72147f": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "Bing Ads At Top Of AI Mode Results",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "a5b2fe567dcd": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "Google Ads AI-Generated Summaries Above & Within Ads",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "c22906a65bc1": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "New Data Manager In Google Analytics Beta",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "0494f2dc0170": {
+   "first": "2026-11-09T15:13:02.468Z",
+   "title": "Google Ads New Asset Activity Section",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-09T15:13:02.468Z"
   }
  }
 }
