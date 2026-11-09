@@ -3154,6 +3154,54 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-09T15:13:02.468Z"
+  },
+  "99f981d25f0d": {
+   "first": "2026-11-09T18:09:31.040Z",
+   "title": "Website migrations can hurt SEO even when URLs don’t change - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-09T18:09:31.040Z"
+  },
+  "c139656b5e39": {
+   "first": "2026-11-09T18:09:31.040Z",
+   "title": "Google AI Overviews in France: Big click losses, but not for everyone - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-09T18:09:31.040Z"
+  },
+  "648e274140f2": {
+   "first": "2026-11-09T18:09:31.040Z",
+   "title": "Google AI Mode multiturn ads are now rolling out - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-09T18:09:31.040Z"
+  },
+  "d743158d3e8f": {
+   "first": "2026-11-09T18:09:31.040Z",
+   "title": "SEO for manufacturers: Definition, benefits, and top tactics - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-09T18:09:31.040Z"
+  },
+  "6c9a0a0c8ac9": {
+   "first": "2026-11-09T18:09:31.040Z",
+   "title": "Title tags and page titles: How to write them (+ Steal our free formula templates) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-09T18:09:31.040Z"
+  },
+  "801546247177": {
+   "first": "2026-11-09T18:09:31.040Z",
+   "title": "Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-09T18:09:31.040Z"
   }
  }
 }
