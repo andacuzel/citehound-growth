@@ -3021,6 +3021,30 @@
    "outcome": "skip",
    "score": 4,
    "marked": "2026-11-09T09:09:44.038Z"
+  },
+  "33ea36f470f8": {
+   "first": "2026-11-09T12:13:24.873Z",
+   "title": "Ziff Davis Says Organic Google Referrals Fell About 37% via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-09T12:13:24.874Z"
+  },
+  "2256c321a2a0": {
+   "first": "2026-11-09T12:13:24.874Z",
+   "title": "Google Aggregator & Supplier Units Gain 'Things To Do' Query Support",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-09T12:13:24.874Z"
+  },
+  "6ed5e5c7e98e": {
+   "first": "2026-11-09T12:13:24.874Z",
+   "title": "Show HN: TimeScroll – an open-source, local replacement for Rewind on Mac",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-09T12:13:24.874Z"
   }
  }
 }
