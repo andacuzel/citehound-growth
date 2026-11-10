@@ -3250,6 +3250,38 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-10T09:09:17.302Z"
+  },
+  "9fd9f92c0243": {
+   "first": "2026-11-10T12:11:53.471Z",
+   "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-10T12:11:53.471Z"
+  },
+  "bfc53a810f25": {
+   "first": "2026-11-10T12:11:53.471Z",
+   "title": "ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T12:11:53.471Z"
+  },
+  "11043ec7fdda": {
+   "first": "2026-11-10T12:11:53.471Z",
+   "title": "ChatGPT Ads While It Creates Your Image Live",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-10T12:11:53.471Z"
+  },
+  "70b30a80396c": {
+   "first": "2026-11-10T12:11:53.471Z",
+   "title": "Anthropic launches roadshow for proposed initial public offering",
+   "source": "anthropic",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-10T12:11:53.471Z"
   }
  }
 }
