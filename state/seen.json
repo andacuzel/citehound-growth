@@ -3282,6 +3282,139 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-10T12:11:53.471Z"
+  },
+  "d1ca301541f7": {
+   "first": "2026-11-10T15:11:38.030Z",
+   "title": "Daily Search Forum Recap: November 10, 2026",
+   "outcome": "duplicate-story"
+  },
+  "83ec527eaf63": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "ChatGPT ads: Advertisers surge, average spending falls, and big spenders dominate - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "eb42a2a3b23e": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "The drivers of local AI visibility for multi-location brands - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "d64f9f470012": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Ronnie Malewski - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "35cfb8d71cf4": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "When Google stops sending traffic, paid search picks up the slack - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "0ac2f179155b": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "ChatGPT visual ads are rolling out - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "71e6cea2f3e7": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Why Google’s YouTube push matters for your search strategy - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "c3467d6c2ffc": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Good Vs. Bad pSEO: Learnings From A Decade Of Building Scalable Content Engines via @sejournal, @_nitman",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "1a78aad0c6f4": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "7f12ec29d070": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Google: It Can Take Time To Understand The Unique Value Of New Websites",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "14e45dd8838a": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Google AI Overview Local Pack Dropping Action Buttons, Photos & Reviews",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "271ef770038e": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Google Ads: Ads With Pay-Per-Lead Goals Terms",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "9e65245fe7d3": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Bing Shopping Personalizing Search Results With Questions",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "adccfa8e1e14": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Filter Google Product Results For Non-Incentivized Reviews",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "e404dac8ec41": {
+   "first": "2026-11-10T15:11:45.289Z",
+   "title": "Helping caregivers use AI in everyday life",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-10T15:11:45.289Z"
+  },
+  "1f81bf923bcd": {
+   "first": "2026-11-10T15:11:45.290Z",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-10T15:11:45.290Z"
+  },
+  "f34262e87716": {
+   "first": "2026-11-10T15:11:45.290Z",
+   "title": "Show HN: Valin – your private memory for everything you save",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T15:11:45.290Z"
   }
  }
 }
