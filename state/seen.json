@@ -3202,6 +3202,46 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-09T18:09:31.040Z"
+  },
+  "a2beaeb2a896": {
+   "first": "2026-11-10T03:08:27.312Z",
+   "title": "Contentful Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T03:08:27.312Z"
+  },
+  "39a0f23bf845": {
+   "first": "2026-11-10T03:08:27.312Z",
+   "title": "Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-10T03:08:27.312Z"
+  },
+  "3a734b9514d5": {
+   "first": "2026-11-10T03:08:27.312Z",
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T03:08:27.312Z"
+  },
+  "5161b66cebe7": {
+   "first": "2026-11-10T03:08:27.312Z",
+   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-10T03:08:27.312Z"
+  },
+  "6bbd09a1c843": {
+   "first": "2026-11-10T03:08:27.312Z",
+   "title": "Playwright Stud – Record and run Playwright tests directly",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-10T03:08:27.312Z"
   }
  }
 }

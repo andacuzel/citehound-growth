@@ -1,32 +1,27 @@
 {
- "99f981d25f0d": {
-  "title": "Website migrations can hurt SEO even when URLs don’t change - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX05JQzNTdnB2YUhTcVZLdDFYOUJOU1BUVE1GVEV5dzRzQ0JDNFZRQ0stenA2a1dCRi11djZCUlBLTHRicGZmRXBPZVM0Umd6UzkwVVBLOGR6Q3k5TXc3Y2RvZldtMlBVYVlSM096NHI3dUE4QWtCbUctYmhVVkk0MVQySGk1anM?oc=5",
+ "a2beaeb2a896": {
+  "title": "Contentful Archives - Search Engine Land",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XN0hqamZjd1p6YXduemprWlZLUmxrWUFkOFhxdkRMb0l4R0ZvaXY1Z01yWTA4RHd0ZW1HaGg0X2laZHNFOUtjWmVzZl8zeW9QT3pGYnF3YWx2UQ?oc=5",
   "source": "sel"
  },
- "c139656b5e39": {
-  "title": "Google AI Overviews in France: Big click losses, but not for everyone - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95bTNJSy1tb1gxOEg1NGc4Xzc5QUl6RU1Qd3Y3YmdwOWVFUzhDQ1RYb29ORFZtOTNCYVJUNGxYeW9BbF9VN3VXOG9leEVhNlNCWUJZR0VVR05jc01COGpsY3k4cDZOajFiejBHT0dmTFhDQlpELW9xOEU0SQ?oc=5",
-  "source": "sel"
- },
- "648e274140f2": {
-  "title": "Google AI Mode multiturn ads are now rolling out - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNm5YNnpNTHNYYkZRTFdIM0REVk9MZGF3Mk9YMGFhTnl0T1hLbmxTYm13dGxxa2pBUE1nZzl5V2ZYOGRFYmREbmZHaEpETVlQUkFtSlc4RER2X09XcEtnaktTSmIwajdqdm9WQUJvOXVVNGFRemVqQ2dGdTFQR1lMTW9COHh3b0owTk02WA?oc=5",
-  "source": "sel"
- },
- "d743158d3e8f": {
-  "title": "SEO for manufacturers: Definition, benefits, and top tactics - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zb184RFBiWmhZMERIUGdRa2hLMnZyTjY4Nm5pa3I3TFIwR2dOQUV1RTFLZmhtdFFwX3pRQ0lkaEdJQmJHZ1plMnZQRUs3WEtJNFoxS0ZPTWoxN2F2eFpEd1JYMnkwOWM?oc=5",
-  "source": "sel"
- },
- "6c9a0a0c8ac9": {
-  "title": "Title tags and page titles: How to write them (+ Steal our free formula templates) - Search Engine Land",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZVkNic0VXQWpzR09veHZXclV6cnBmbFBmVXduT2lZNFpFT2RwUlo1aVN4c0lob3YxTjlKMVJzLWZBRnJ2aEV3NjJYZElCNFd1aXpGZ3AzMC0?oc=5",
-  "source": "sel"
- },
- "801546247177": {
-  "title": "Google Ads Tests Asset Activity Page With Weekly AI Insights via @sejournal, @MattGSouthern",
-  "url": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
+ "39a0f23bf845": {
+  "title": "Paid Search Is Moving Up The Funnel – Google Admits AI Mode Pays Less via @sejournal, @gregjarboe",
+  "url": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
   "source": "sej"
+ },
+ "3a734b9514d5": {
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "source": "openai"
+ },
+ "5161b66cebe7": {
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "url": "https://openai.com/index/control-room",
+  "source": "openai"
+ },
+ "6bbd09a1c843": {
+  "title": "Playwright Stud – Record and run Playwright tests directly",
+  "url": "https://news.ycombinator.com/item?id=50434036",
+  "source": "hn"
  }
 }
