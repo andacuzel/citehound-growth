@@ -3644,6 +3644,102 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-11T12:11:20.908Z"
+  },
+  "8679684fe08a": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "How software buyers use AI - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "8757e90151fb": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "How to build an SEO content roadmap around revenue - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "ee7e3e69c79f": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Wynter Brooke Elliott Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "8c7a792a261a": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "c7653f581934": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "52298f8238e6": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "161c34847fef": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "New Google Ads Overview Page: Customer Journey Insights",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "69caa7c26c8c": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Google Crawled/Discovered - Currently Not Indexed A Site Quality Issue",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "00ae27fc915e": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Google Ads Visit Site Link In Mobile Search Ad Description",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "44c9ae300c5e": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Google Merchant Loyalty Program New Eligibility Requirements",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "865289efc24e": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Google Ads Performance Max Page Feeds Updated",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-11T15:10:56.591Z"
+  },
+  "b86969a7dd1e": {
+   "first": "2026-11-11T15:10:56.591Z",
+   "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
+   "source": "gsc",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-11T15:10:56.591Z"
   }
  }
 }
