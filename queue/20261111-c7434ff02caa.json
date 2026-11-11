@@ -1,0 +1,20 @@
+{
+  "id": "20261111-c7434ff02caa",
+  "type": "social",
+  "pillar": "hot-takes",
+  "title": "OpenAI Business Hub shows mentions and clicks, not access",
+  "why": "Expected a visibility report to explain ChatGPT presence; found mentions and clicks that the tooltip says do not confirm a visit, while the crawl side stays unmeasured.",
+  "source_url": "https://www.seroundtable.com/chatgpt-business-hub-42505.html",
+  "score": 7,
+  "hot": false,
+  "drafts": [
+    {
+      "platform": "x",
+      "text": "OpenAI's Business Hub now shows claimed businesses their ChatGPT mentions and website clicks. The tooltip says a click does not confirm a visit. A mention is an outcome a scan cannot measure. Whether crawlers can reach your pages is something a scan can check."
+    },
+    {
+      "platform": "linkedin_personal",
+      "text": "OpenAI's Business Hub went live on 10 November. Claimed businesses can see how often ChatGPT mentions them and how many clicks reach their site. The tooltip adds that a click does not confirm a visit or a conversion, so the number is a starting point, not a result.\n\nI read this as two different things. A mention is an outcome, and a homepage scan cannot predict it. Access is an input. A site can check whether AI crawlers are allowed to read its pages. In our July sample of 219 hand-picked homepages, 14 (6.4%) blocked at least one of ten tracked AI crawlers outright.\n\nMonday morning: open robots.txt and check the ten crawlers before you look at the mention count.\n\nMethod note: 219 homepages in six categories, scanned 29 to 31 July 2026, one scan each. The score measures readiness, not presence in answers. Confidence: medium."
+    }
+  ]
+}

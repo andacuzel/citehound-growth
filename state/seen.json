@@ -3535,6 +3535,99 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-10T18:09:02.947Z"
+  },
+  "bfdb741a18cc": {
+   "first": "2026-11-11T03:08:22.309Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "c7434ff02caa": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Businesses in ChatGPT Business Hub Live With Click Data",
+   "source": "ser",
+   "outcome": "card",
+   "score": 7,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "8b28e5db893e": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Google November 2026 core update rolling out now - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "0dd708c3e5ea": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Google’s November 2026 Core Update Starts Rolling Out via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "be5bdc7c9f28": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Google November 2026 Core Update Is Rolling Out",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "5a8c96e4269c": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "ChatGPT Business Hub is now live - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 7,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "eb5caf185bb6": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Uniform Resource Locator Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "fa6998823f79": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Meta Paused Its New Business Terms, And Businesses Should Plan As If It Never Gets Better via @sejournal, @slobodanmanic",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "c5456a62a700": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "756d42abcda6": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Google Loses Another Round in Legal Battle Against SerpApi Over Scraping",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "06c2b6efe9e1": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-11T03:09:07.978Z"
+  },
+  "1482ca1c3c34": {
+   "first": "2026-11-11T03:09:07.978Z",
+   "title": "Ask HN: Do you believe RSI is possible?",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-11T03:09:07.978Z"
   }
  }
 }
