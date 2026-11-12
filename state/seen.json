@@ -4054,6 +4054,75 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "b8e18104cbb1": {
+   "first": "2026-11-12T18:09:03.433Z",
+   "title": "Daily Search Forum Recap: November 12, 2026",
+   "outcome": "duplicate-story"
+  },
+  "271387cb24ef": {
+   "first": "2026-11-12T18:09:07.804Z",
+   "title": "How to promote products on YouTube: Selling tips for 2026 - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T18:09:07.804Z"
+  },
+  "2a514a82d069": {
+   "first": "2026-11-12T18:09:07.804Z",
+   "title": "Google Ads details new Data Strength Uplift metric - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T18:09:07.804Z"
+  },
+  "a75b56bd8147": {
+   "first": "2026-11-12T18:09:07.804Z",
+   "title": "Email marketing: The definitive guide - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T18:09:07.804Z"
+  },
+  "c95a4bc0af77": {
+   "first": "2026-11-12T18:09:07.804Z",
+   "title": "How to build content clusters around bottom-of-funnel pages - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T18:09:07.804Z"
+  },
+  "2a3f2cc4563d": {
+   "first": "2026-11-12T18:09:07.804Z",
+   "title": "16 key affiliate marketing statistics - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T18:09:07.804Z"
+  },
+  "94f6e8325fe6": {
+   "first": "2026-11-12T18:09:07.804Z",
+   "title": "Microsoft Advertising Updates UI Following Advertiser Feedback via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T18:09:07.804Z"
+  },
+  "47aab9baa84a": {
+   "first": "2026-11-12T18:09:07.804Z",
+   "title": "New Google Help Doc Explains How To Identifying Traffic From Google Search",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-12T18:09:07.804Z"
+  },
+  "95cadf620dad": {
+   "first": "2026-11-12T18:09:07.804Z",
+   "title": "OpenAI ChatGPT Ads Updates: Intelligent Bidding, New Cost Targets, Geo-Flexibility & Product Set Filters",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-12T18:09:07.804Z"
   }
  }
 }
