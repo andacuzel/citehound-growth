@@ -3753,6 +3753,123 @@
    "outcome": "skip",
    "score": 4,
    "marked": "2026-11-11T18:09:21.745Z"
+  },
+  "1f0d9732ad2f": {
+   "first": "2026-11-12T03:08:28.263Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "47143ecab4d8": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Six best enterprise SEO tools for optimizing at scale - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "06e29c8da543": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "How to sell upper-funnel campaigns to performance-driven clients - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "9d6738f22436": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Google Ads introduces new ValueTrack parameter to identify AI Max traffic - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "f090ec427fa1": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Tyler Jordan - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "347cf8e443a5": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Google Ads shortens Smart Bidding learning status to 7 days - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "8a6c7d898f08": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "The SEO services report - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "bb7fbf587091": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "12 essential landing page statistics - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "ded07267f3bd": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "ChatGPT ads vs. Google Ads: 6 key differences to know - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "6ac51d6ae871": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Google SEO advice on moving to a CDN – content delivery network - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "dac049acff74": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Retargeting Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "44c2dda63bb3": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Google Ads introduces clearer audience reach controls with warnings for restricted targeting - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "dc1c9c9d869c": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Google Placing Source Icons At Bottom Of AI Overviews",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "ca1a308c3ad5": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Google Ads API Version 26.2 Now Out Available",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T03:08:35.689Z"
+  },
+  "504d202267d3": {
+   "first": "2026-11-12T03:08:35.689Z",
+   "title": "Google Search AI Overview Definitions Expanded By Default",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-12T03:08:35.689Z"
   }
  }
 }
