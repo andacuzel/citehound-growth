@@ -3878,6 +3878,38 @@
    "outcome": "skip",
    "score": 4,
    "marked": "2026-11-12T06:09:06.500Z"
+  },
+  "76c284b0eb9e": {
+   "first": "2026-11-12T12:11:27.730Z",
+   "title": "Connecting with shoppers when the buyer Is not human - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-12T12:11:27.730Z"
+  },
+  "fd4812440495": {
+   "first": "2026-11-12T12:11:27.730Z",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T12:11:27.730Z"
+  },
+  "5b135daab0e1": {
+   "first": "2026-11-12T12:11:27.730Z",
+   "title": "Supporting research on AI and children’s safety",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T12:11:27.730Z"
+  },
+  "96df42092c27": {
+   "first": "2026-11-12T12:11:27.730Z",
+   "title": "Google Search Console MCP for Claude and ChatGPT",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-12T12:11:27.730Z"
   }
  }
 }
