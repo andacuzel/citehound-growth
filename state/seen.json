@@ -3910,6 +3910,150 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-12T12:11:27.730Z"
+  },
+  "a9cb3530510b": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Five ways to search a website for keywords (+ Examples) - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "82f8e67d464d": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads clarifies AI-generated public figure impersonation is banned, even with disclosure - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "ec6618551268": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads launches Invalid Traffic Overview Card - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "bd6c6aee5299": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads Editor 2.14 rolls out with AI Max defaults and new retention controls - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "7d180e02d215": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "After the lift test: Make incrementality part of weekly PPC reporting - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "892ef7c2570f": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Let’s stop hiding. Become transparent about your AI usage. - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "241fee39f3f1": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Are we chasing AI visibility at the expense of business results? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "e12189d0def7": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "91cbdbc6b18f": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "How to Submit Your Website to ChatGPT Business Hub via @sejournal, @vahandev",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "e6cd214add87": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Don’t Let A Tool Lead Your AI Search Strategy – Own Your Data Instead via @sejournal, @TaylorDanRW",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "40650f4d5893": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads New Invalid Traffic (IVT) Overview Card",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "c7f54f3e66dd": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads Disallows Impersonate Public Figures With AI Even If Disclosed",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "9b22e3c00e47": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads Disallows Targeting Users Based On Prohibited Content Interests",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "d6fdf7fe9025": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads 'Found On Site' Icon & More Pages Label On Sponsored Results",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "a6bda05cba66": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads Editor Version 2.14 Is Now Available",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "01d23c3cf168": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Google Ads Data Strength Uplift Metric Doc",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "47881a722f52": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Bing Touts Two Methods To Turn Off AI In Search But It's Not A Search Setting",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-12T15:10:46.454Z"
+  },
+  "a4650605f740": {
+   "first": "2026-11-12T15:10:46.454Z",
+   "title": "Show HN: Turri – a coding agent with the power of regenerative software",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-12T15:10:46.454Z"
   }
  }
 }
