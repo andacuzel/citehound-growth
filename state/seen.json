@@ -4251,6 +4251,125 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-13T12:11:05.227Z"
+  },
+  "8d2024245361": {
+   "first": "2026-11-13T15:38:26.942Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "9b1c509904ff": {
+   "first": "2026-11-13T15:38:26.942Z",
+   "title": "Search Engine Land - Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "fa6a85d3d195": {
+   "first": "2026-11-13T15:38:26.942Z",
+   "title": "Daily Search Forum Recap: November 13, 2026",
+   "outcome": "duplicate-story"
+  },
+  "cf77ab65d30e": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Your SEO share of voice doesn’t tell you if AI recommends your brand - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "2598f86d70ec": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "f0c7cf96eac4": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "SEO best practice, passing fad, or timeless tactic? How to tell the difference - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "8dece99172e3": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "407bd11b702d": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Search News Buzz Video Recap: Google November Core Update Is Here, ChatGPT Business Hub Gives Us Clicks, Yahoo Pivot Search & Google Ads Invalid Traffic",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "87a536bcba0f": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Yahoo Scout To Pay Publishers Through The ILC For Using Content In AI Answers",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "d64cd365b137": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Google AI Overviews AI-Generated Images Have Returned For Some",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "79bb9b3c7bfc": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Google Merchant Center Promotions Titles Now Disallows Redemption Dates",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "d253bfc8b20e": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Google Merchant Center Deal Ends Annotation No Longer Experimental",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "bed2e715f0f5": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Google Ads Updates Conversion Lift Set Up Documentation",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "8e5aaef68c52": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Google Shopping Section Named Highlighted On The Web",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "0fd7b51e368a": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Show HN: Clozemaster MCP server that turns class notes into cloze sentences",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "b923c2e24d59": {
+   "first": "2026-11-13T15:38:34.333Z",
+   "title": "Show HN: AI News Agg – Know what's trending in AI news",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-13T15:38:34.333Z"
   }
  }
 }
