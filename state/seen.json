@@ -4123,6 +4123,110 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-12T18:09:07.804Z"
+  },
+  "9c36e55d3e0a": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Google Search gets major upgrade with Gemini 4 Hydrogen - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "db77a8b3c3fe": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "How to create a trend-aware content calendar for AI search - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "e047095d3e24": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Impersonation Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "e79f3806cd7e": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Google Search Console performance report data bug Nov 9 -11 - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "696016f7cc90": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "ChatGPT Ads adds Target CPA and CPC bidding, expands product campaign controls - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "14f967923057": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "b31546cd82b7": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "95bb719c5b78": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO via @sejournal, @rollerblader",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "bde40cbb7b29": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "f61ef971ade7": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "01af900988b9": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Google Search Gets Massive Upgrade With Gemini 4 Hydrogen",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "88ce5596f3fa": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T03:08:50.792Z"
+  },
+  "bb2ccde0940a": {
+   "first": "2026-11-13T03:08:50.792Z",
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T03:08:50.792Z"
   }
  }
 }
