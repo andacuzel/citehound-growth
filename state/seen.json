@@ -4370,6 +4370,35 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-13T15:38:34.333Z"
+  },
+  "d0cac3e19eaa": {
+   "first": "2026-11-13T18:09:02.559Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "bf5ff6d14a15": {
+   "first": "2026-11-13T18:09:31.489Z",
+   "title": "6 ways to stay on budget with Google Ads Smart Bidding - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-13T18:09:31.490Z"
+  },
+  "ac52e9cc7ae0": {
+   "first": "2026-11-13T18:09:31.490Z",
+   "title": "72% Of Worker’s Say Their AI Skills Are Untested – Here’s How PPC Managers Prove Theirs via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-13T18:09:31.490Z"
+  },
+  "b75d22b73a0d": {
+   "first": "2026-11-13T18:09:31.490Z",
+   "title": "Introducing ChatGPT Wallet",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-13T18:09:31.490Z"
   }
  }
 }
