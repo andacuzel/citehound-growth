@@ -4471,6 +4471,21 @@
    "outcome": "skip",
    "score": 4,
    "marked": "2026-11-14T09:08:28.433Z"
+  },
+  "13e71081ad80": {
+   "first": "2026-11-14T12:08:30.363Z",
+   "title": "United Requires Permission For AI Agents, Keeps Search Indexing Open via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-14T12:08:30.364Z"
+  },
+  "7789e1f60428": {
+   "first": "2026-11-14T12:08:30.364Z",
+   "title": "Show HN: Free Llms.txt Generator",
+   "source": "hn",
+   "outcome": "skip",
+   "marked": "2026-11-14T12:08:30.364Z"
   }
  }
 }
