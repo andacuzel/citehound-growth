@@ -1,0 +1,20 @@
+{
+  "id": "20261114-f1116215f643",
+  "type": "social",
+  "pillar": "field-notes",
+  "title": "Block lists miss most AI-crawler limits: 80% come from path rules, not blocks",
+  "why": "Expected: a block list decides AI access. Found: in our July sample only 2% of AI-crawler pairs were blocked outright, while 80% were limited by a Disallow rule on an ordinary path.",
+  "source_url": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+  "score": 6,
+  "hot": false,
+  "drafts": [
+    {
+      "platform": "x",
+      "text": "A block list is the wrong unit. In our July sample of 219 hand-picked homepages, 2% of AI-crawler pairs were blocked outright. 80% were limited by a Disallow rule, usually on an ordinary path. Check the path, not the bot name."
+    },
+    {
+      "platform": "linkedin_personal",
+      "text": "A piece this week argues that blocking an AI training crawler is not the same as blocking a retrieval bot. The distinction holds. Our own data suggests the bigger gap sits elsewhere.\n\nIn July we scanned 219 hand-picked homepages against ten AI crawlers: 2,190 site and crawler pairs. Only 2% were blocked outright. About 80% were limited by a Disallow rule, usually on an ordinary path, and 18% were open.\n\nSo the block list is rarely the whole story. The path rule is what matters. A line written for one section of a site can reach every bot that reads robots.txt.\n\nMonday morning: list the user agents your robots.txt names, then check which paths each one cannot reach.\n\nMethod note: 219 homepages scanned 29 to 31 July 2026. Hand-picked, not a random sample, one scan each. Crawler access results published 5 October 2026. This measures readiness, not citations."
+    }
+  ]
+}

@@ -4399,6 +4399,62 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-13T18:09:31.490Z"
+  },
+  "f1116215f643": {
+   "first": "2026-11-14T03:09:02.098Z",
+   "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+   "source": "sej",
+   "outcome": "card",
+   "score": 6,
+   "marked": "2026-11-14T03:09:02.098Z"
+  },
+  "4dab55c66443": {
+   "first": "2026-11-14T03:09:02.098Z",
+   "title": "Muck Rack Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-14T03:09:02.098Z"
+  },
+  "6a880ea225ec": {
+   "first": "2026-11-14T03:09:02.098Z",
+   "title": "Microsoft Advertising warns Outlook outage may have affected advertiser spend - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-14T03:09:02.098Z"
+  },
+  "366e60f79a03": {
+   "first": "2026-11-14T03:09:02.098Z",
+   "title": "Google Explains How To Find Search Traffic In Analytics & Logs via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-14T03:09:02.098Z"
+  },
+  "89cb3c2dbb70": {
+   "first": "2026-11-14T03:09:02.098Z",
+   "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-14T03:09:02.098Z"
+  },
+  "e37191ff34d0": {
+   "first": "2026-11-14T03:09:02.098Z",
+   "title": "Google Tests Dropping AI Mode From Search Bar & Ask Anything",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-14T03:09:02.098Z"
+  },
+  "1580de5f8d43": {
+   "first": "2026-11-14T03:09:02.098Z",
+   "title": "Microsoft 365 Outage Impact On Microsoft Advertising",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-14T03:09:02.098Z"
   }
  }
 }
