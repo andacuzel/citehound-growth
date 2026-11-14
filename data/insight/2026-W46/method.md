@@ -1,0 +1,224 @@
+# Insight lab 2026-W46: method
+
+Date: 14 Nov 2026 (Saturday). Frame built and scanned the same day, from a cloud data-center address.
+
+## How the frame was built
+Purposive sample found through web search, not random. Three search passes, one per segment, each by a sub-agent using WebSearch with varied queries (cities, niches, product types, "alternatives to", "best X for Y"). Every domain had to appear as a URL in a search result; none filled in from memory; no site was opened during frame building. Excluded: directories, marketplaces, review sites, media, listicles, large firms and networks, public companies, AI-readiness vendors, and all 728 domains in the three earlier frames (26 Oct, 31 Oct, 7 Nov). So this is a fourth independent sample. Size and location were judged from search snippets, not checked on the sites.
+
+Counts: 234 domains (saas 80, agency 87, prof 67). Queries: saas 74, agency 62, prof 64. The shared search budget (200 queries) ran out before the prof pass reached 80, so the segments are unequal.
+
+Known weaknesses reported by the passes:
+- SaaS: about 55 to 58 of 80 are developer tools or APIs (target was about 30), many of them small API utilities (PDF, screenshot, conversion, uptime). Only about 22 to 25 are vertical B2B SaaS. Thin on Canada and AU/NZ; EU better covered than in W45. A few may exceed 100 people or no longer be independent; a few may be one-person projects. Domains surface through comparison and alternatives pages, so the set favors content-heavy vendors.
+- Agency: size guessed from snippets (some may exceed 30, some are solo). Only about 5 continental-EU agencies; EU queries mostly returned directories. Many survivors were found through city or niche landing pages, so the set favors SEO-active agencies. A few are web-design studios that also sell SEO.
+- Prof: 25 accounting, 23 legal, 19 consulting. About 30 US, 12 AU, 10 UK, 9 CA, 5 NZ, 1 IE, 1 DE. Consulting is the weakest group (some hospitality, communications and fractional-CFO firms). Most results were directories, so surviving firms lean SEO-active.
+
+## Scan
+`scripts/insight-scan.js`, concurrency 3, honest user agent, robots.txt read first; homepage, robots.txt, llms.txt and a sitemap probe per site. One scan each. Analysis by `scripts/insight-analyze.js`.
+
+## Queries
+
+### saas
+- open source feature flag tool for small engineering teams
+- alternatives to Sentry error monitoring startup
+- API mocking tool for developers indie startup
+- Berlin developer tools startup seed round 2025
+- Toronto B2B SaaS startup raises seed 2025
+- self-hosted log management tool small company
+- best invoicing software for UK freelancers agencies
+- database migration tool for Postgres teams schema change CI
+- Dublin SaaS startup compliance software small team
+- uptime monitoring status page tool alternatives to Statuspage
+- Mockoon alternative desktop API mock
+- Amsterdam SaaS startup HR software for SMEs
+- secrets management for developers alternative to Vault dotenv sync
+- Vancouver software startup developer platform small team
+- CI test flakiness detection tool startup
+- Vancouver devtools startup API platform seed stage
+- Paris startup developer tools open source raises funding
+- best property management software for small landlords Australia
+- webhook delivery infrastructure service for SaaS developers
+- Auckland New Zealand SaaS startup B2B software company
+- Hook0 webhooks as a service Europe
+- Show HN: we built an open source alternative to Postman
+- booking software for physiotherapy clinics UK small practice
+- code review tool for GitHub pull requests stacked diffs
+- Montreal SaaS startup logistics software raises
+- Yaak API client desktop
+- bootstrapped SaaS for accountants practice management Ireland
+- documentation hosting platform for API docs startup alternative to ReadMe
+- Copenhagen B2B software startup small team SaaS
+- cron job monitoring heartbeat service developers
+- Rust developer tooling company profiling performance startup
+- Kubernetes cost optimization tool startup Europe
+- field service management software for HVAC small business Canada
+- Edinburgh software startup SaaS raises seed
+- internationalization translation management for developers i18n platform
+- Tolgee open source localization company Czech
+- SQL query editor for teams collaborative database client startup
+- Melbourne startup workforce scheduling SaaS hospitality
+- self-hosted git CI runner service faster GitHub Actions runners
+- Stockholm developer tools startup open source
+- Serverpod Dart backend framework company
+- email deliverability testing tool for developers transactional email preview
+- construction project management software small builders New Zealand
+- Ottawa Waterloo software startup B2B platform small team hiring
+- PDF generation API for developers HTML to PDF service
+- SiteHut builders software
+- screenshot API for developers website capture
+- customer feedback widget SaaS bootstrapped Europe roadmap tool
+- Munich startup software for manufacturing SMEs SaaS
+- GraphQL API gateway open source company
+- Grafbase GraphQL federation Rust gateway company
+- event management software for associations nonprofit membership UK SaaS
+- Calgary Edmonton SaaS startup raises seed software
+- alternatives to Calendly scheduling tool for teams GDPR Europe
+- open source analytics privacy-friendly Google Analytics alternative EU hosted
+- Pirsch Analytics Germany cookieless web analytics
+- WaitWell queue management software Calgary
+- legal practice management software small law firms Ireland UK cloud
+- IcePanel software architecture diagramming C4 model tool
+- load testing tool for APIs open source company k6 alternative
+- Unity Practice Management legal software Ireland
+- Halifax Atlantic Canada SaaS startup B2B software
+- dependency update bot security vulnerability scanning for small dev teams alternative to Snyk
+- Lisbon Portugal SaaS startup B2B product English
+- Proposify alternatives proposal software small agencies
+- Terraform infrastructure drift detection tool startup
+- changelog and release notes tool for SaaS product updates widget
+- Brisbane Perth software startup SaaS mining agriculture B2B
+- Obzervr mining work management software Brisbane
+- Nusii proposal software
+- background job queue hosted service for developers serverless workflows Europe startup
+- JobRunr alternatives Java background jobs distributed scheduler
+- best time tracking software for small agencies Netherlands Belgium
+- Beebole time tracking Brussels
+
+### agency
+- small SEO agency Boise Idaho
+- dental marketing agency small team SEO for dentists
+- law firm SEO boutique agency
+- B2B SaaS content marketing agency small team
+- digital marketing agency Shrewsbury Shropshire
+- SEO agency Galway Ireland
+- PPC agency Halifax Nova Scotia
+- SEO agency Tauranga New Zealand
+- English-speaking SEO agency Amsterdam small team
+- Shopify SEO agency ecommerce boutique UK
+- digital marketing agency Ballarat Victoria
+- SEO company Missoula Montana
+- content marketing studio Berlin English B2B tech
+- Google Ads agency for plumbers and HVAC contractors
+- SEO agency Kelowna BC
+- digital marketing agency Cork Ireland small business
+- SEO consultancy Copenhagen English small agency
+- local SEO agency Asheville NC
+- veterinary marketing agency SEO for vet clinics
+- digital marketing agency Inverness Scotland
+- PPC management agency Hobart Tasmania
+- SEO agency Lisbon English-speaking startups
+- financial advisor marketing agency SEO content for RIAs
+- SEO company Dunedin NZ
+- SEO agency Chattanooga Tennessee small business
+- link building and content agency Manchester independent
+- marketing agency for therapists and counselors SEO
+- digital marketing agency Guelph Ontario
+- SEO agency Exeter Devon
+- technical SEO consultancy Stockholm English
+- roofing contractor SEO agency
+- digital marketing agency Toowoomba
+- SEO agency Malta English iGaming small
+- performance marketing agency Tallinn Estonia English SaaS
+- SEO freelancer collective Barcelona English agency
+- dental marketing agency UK small independent
+- SEO agency Burlington Vermont
+- content writing agency for tech companies small team remote
+- digital marketing agency Saskatoon
+- SEO agency Limerick
+- SEO agency Bendigo
+- digital marketing agency Lancaster Pennsylvania small
+- Amazon and ecommerce PPC agency boutique
+- SEO agency Norwich Norfolk
+- hotel and tourism digital marketing agency small SEO
+- SEO agency Nelson New Zealand
+- B2B SEO agency Netherlands English Utrecht
+- marketing agency for chiropractors SEO
+- SEO agency Bozeman Montana
+- digital marketing agency Waterford Ireland
+- SEO agency Cheltenham Gloucestershire
+- ecommerce SEO agency Dublin small team Shopify
+- PPC agency Brighton independent Google Ads specialists
+- SEO agency Sunshine Coast Queensland
+- SaaS SEO agency Poland English B2B
+- nonprofit digital marketing agency small team Google Ad Grants
+- SEO agency Prague English-speaking clients international
+- digital marketing agency Athens Greece English small
+- accountants marketing agency SEO for accounting firms UK
+- SEO agency Fredericton New Brunswick
+- SEO company Spokane Washington small
+- real estate agent SEO marketing agency boutique
+
+### prof
+- boutique estate planning law firm Asheville NC
+- small CPA firm Boise Idaho tax and advisory
+- independent management consultancy Leeds operations improvement
+- boutique employment law firm Halifax Nova Scotia
+- chartered accountants Hobart small business
+- "our team" boutique tax accounting firm Portland Maine
+- immigration law firm Calgary small team attorneys
+- healthcare strategy consulting firm Nashville boutique
+- solicitors Cork commercial property firm
+- accountants Wellington NZ Xero small practice
+- trademark and copyright boutique law firm Denver
+- nonprofit accounting firm CPA Minneapolis audit small
+- change management consultancy Bristol independent firm
+- family law firm Adelaide small practice lawyers
+- dental practice accountants specialist UK firm
+- pricing strategy consultancy for SaaS boutique firm Amsterdam
+- construction accounting CPA firm Tucson Arizona
+- elder law attorneys Burlington Vermont firm
+- HR consultancy Glasgow small business employment advice firm
+- farm accountants agribusiness Toowoomba
+- PLLC business law firm Raleigh startups venture counsel small firm
+- fractional CFO advisory firm Austin Texas team
+- wills and probate solicitors Norwich independent firm
+- procurement consulting firm Ottawa government contracts boutique
+- "we are a boutique" consulting firm supply chain Chicago
+- "boutique accounting firm" Vancouver BC tax planning owner-managed
+- "boutique law firm" Auckland commercial disputes
+- "boutique" accountancy practice Manchester contractors and creatives
+- bankruptcy attorneys Spokane Washington law office
+- CPA firm Savannah Georgia tax planning small business accountants
+- sustainability ESG consultancy Dublin small firm carbon reporting
+- workers compensation lawyers Perth WA firm
+- boutique IT strategy consultancy for law firms UK small team
+- medical practice accountants CPA physicians Tampa firm
+- notary and wills lawyer Kelowna law firm
+- nonprofit fundraising consulting firm Philadelphia capital campaign
+- boutique management consulting firm Atlanta founded by former Bain consultants
+- market research and strategy consultancy Edinburgh small agency founders
+- organisational development consultants Melbourne leadership boutique firm
+- economic consulting boutique firm Toronto competition damages
+- lean manufacturing consultants Cleveland Ohio consulting firm
+- higher education consulting firm enrollment strategy small firm Boston
+- water utility consulting rate studies firm Colorado small
+- museum and cultural planning consultants independent firm Canada
+- executive compensation consulting independent firm boutique board advisors
+- tourism destination consulting firm New Zealand strategy small consultancy
+- restaurant and hospitality consulting firm San Diego concept development
+- public consultation and stakeholder engagement consultancy Cardiff Wales
+- CPA firm for real estate investors Charlotte NC small firm
+- chartered accountants Galway practice tax audit
+- accountants for charities and churches Birmingham UK independent practice
+- cross-border US Canada tax accountants firm Windsor Ontario
+- CPA PLLC Albuquerque New Mexico accounting firm services
+- accountants Brighton UK small business tax return firm independent
+- accounting firm Christchurch NZ farm and business advisors
+- expat tax accountants for Americans abroad small firm
+- forensic accounting firm litigation support small firm Pittsburgh
+- accountants for medical professionals Brisbane specialist practice
+- bookkeeping and tax firm Milwaukee Wisconsin CPA team small business
+- accountants for startups and tech companies Berlin English-speaking tax advisor
+- landlord tenant law firm Brooklyn small firm attorneys
+- special education attorneys IEP law firm Sacramento
+- technology and data protection law boutique London solicitors
+- aviation law firm boutique Kansas City aircraft transactions
