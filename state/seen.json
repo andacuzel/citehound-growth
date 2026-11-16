@@ -4534,6 +4534,30 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-16T03:08:01.731Z"
+  },
+  "de1f9c055db7": {
+   "first": "2026-11-16T12:11:21.543Z",
+   "title": "Before agents can write like your brand, the process has to live somewhere - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-16T12:11:21.543Z"
+  },
+  "8f9bc1e31d81": {
+   "first": "2026-11-16T12:11:21.543Z",
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T12:11:21.543Z"
+  },
+  "47b4a14ea3c2": {
+   "first": "2026-11-16T12:11:21.543Z",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-16T12:11:21.543Z"
   }
  }
 }
