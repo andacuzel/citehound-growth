@@ -4558,6 +4558,110 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-16T12:11:21.543Z"
+  },
+  "d923433cc1f9": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "How to build a content intelligence strategy for AI search - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "d29b724ea8e2": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "Why SEO testing matters more as AI makes execution easier - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "c025a0e93d28": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "How to make AI agents work for your PPC campaigns - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "9b83c0a7098b": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "Google Search Analytics API gains new filters and reporting - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "b5845821d8ec": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "4ee8373f39da": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "13574ef3304d": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "ChatGPT Tests Web Results, See More & Other Search Results Formats",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "e59fbe03f01e": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "OpenAI ChatGPT Business Agent - First Look",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "23530065f559": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "Google AI Mode Start Temporary Thread",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "cf4a38d26436": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "Bing Tests Web Mode Tab To Show Only Web Page Results",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "9743892eca6a": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "New filtering and reporting capabilities in the Search Analytics API",
+   "source": "gsc",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "885a6773d108": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "a66b1be9b24f": {
+   "first": "2026-11-16T15:11:53.050Z",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-16T15:11:53.050Z"
   }
  }
 }
