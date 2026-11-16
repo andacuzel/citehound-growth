@@ -4510,6 +4510,30 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-15T12:08:38.350Z"
+  },
+  "a0bfa3d07038": {
+   "first": "2026-11-16T03:08:01.731Z",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T03:08:01.731Z"
+  },
+  "8110ba64280a": {
+   "first": "2026-11-16T03:08:01.731Z",
+   "title": "Our new blog for science",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T03:08:01.731Z"
+  },
+  "3e27c88f5f70": {
+   "first": "2026-11-16T03:08:01.731Z",
+   "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T03:08:01.731Z"
   }
  }
 }
