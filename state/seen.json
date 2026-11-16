@@ -4662,6 +4662,107 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-16T15:11:53.050Z"
+  },
+  "4fd407b689b6": {
+   "first": "2026-11-16T18:08:45.842Z",
+   "title": "Daily Search Forum Recap: November 16, 2026",
+   "outcome": "duplicate-story"
+  },
+  "41a7bc60551b": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Microsoft Advertising adds AI Max landing page insights - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "bdb2724e62ba": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Content intelligence Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "89796d32a200": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "ChatGPT citation drops look like unannounced Google core updates - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "226657b016c0": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Google Ads clarifies how URL exclusions work in AI Max for Search campaigns - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "4be4376a64f0": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Google Search Analytics API Adds Branded Queries, Multimodal & Country/Devices Filters",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "0e27fd6ae63f": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Google November 2026 Core Update Ranking Flux - What We're Seeing",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "2923d9098ff1": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Google AI Mode Drops Gemini Label & Rolls Out Gemini 4 Carbon To Pro Subs",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "c0e4d197c876": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Broadening access to AI for scientists",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "14bff1948ca4": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "a5206efda457": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "b49c86c1e736": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Our first phase of embedded assessments",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "a272a1de9cf7": {
+   "first": "2026-11-16T18:08:53.150Z",
+   "title": "Show HN: Make a custom deck of playing cards with your family and friend's faces",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-16T18:08:53.150Z"
   }
  }
 }
