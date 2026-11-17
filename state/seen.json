@@ -4907,6 +4907,91 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-17T15:10:35.872Z"
+  },
+  "b619563aa7c8": {
+   "first": "2026-11-17T18:08:57.219Z",
+   "title": "Daily Search Forum Recap: November 17, 2026",
+   "outcome": "duplicate-story"
+  },
+  "5cf79383958e": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "How to use SEO insights to connect teams and engage audiences - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "47fc42485974": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "Google Local Services Ads historical reports are now available to download - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "0b0a21ff60a1": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "Vibe web marketing: How to manage your own AI team - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "d3e89267107b": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "Date: Confirmed, Rating: Meets Expectations, Comments: None via @sejournal, @pedrodias",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "4c679d01adcf": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "Optimizely Says Attacker Used A Signup Flaw To Inject Malware via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "ecb978a31309": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "8f29ba264aa7": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "FBI: SEO Poisoning Led To $28 Million In Ransomware Payments",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "2bce68d330a4": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "Google: A Site Move Doesn't Improve A Site's Overall Quality",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "40e6d6160403": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "Google On Why Serving A 200 Status Code When Your Site Is Down Is Bad",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "df30c2994ae8": {
+   "first": "2026-11-17T18:09:01.826Z",
+   "title": "Google Local Services Ads Historical Reports Can Now Be Downloaded",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-17T18:09:01.826Z"
   }
  }
 }
