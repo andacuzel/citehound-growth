@@ -4827,6 +4827,22 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-17T06:08:42.224Z"
+  },
+  "21fc18389de1": {
+   "first": "2026-11-17T09:08:50.207Z",
+   "title": "Google Adds Branded & Multimodal Data To Search Console API via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-17T09:08:50.207Z"
+  },
+  "c0cf430d04b4": {
+   "first": "2026-11-17T09:08:50.207Z",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-17T09:08:50.207Z"
   }
  }
 }
