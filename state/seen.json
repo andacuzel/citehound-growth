@@ -4763,6 +4763,38 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-16T18:08:53.150Z"
+  },
+  "4e2881158fa9": {
+   "first": "2026-11-17T03:08:14.547Z",
+   "title": "Google’s Ask Maps Starts Finding Appointments & Calling Businesses via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-17T03:08:14.547Z"
+  },
+  "dc48a6e65b57": {
+   "first": "2026-11-17T03:08:14.547Z",
+   "title": "CMS Market Share Trends: Top Content Management Systems (Nov 2026) via @sejournal, @theshelleywalsh",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-17T03:08:14.547Z"
+  },
+  "6ec64fbfccef": {
+   "first": "2026-11-17T03:08:14.547Z",
+   "title": "Google Business Profiles Now Lets You Add Facebook Messenger Number",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-17T03:08:14.547Z"
+  },
+  "5ec8dd915dc5": {
+   "first": "2026-11-17T03:08:14.547Z",
+   "title": "Ask HN: Who's really winning with AI-Coding?",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-17T03:08:14.547Z"
   }
  }
 }
