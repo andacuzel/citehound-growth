@@ -4843,6 +4843,70 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-17T09:08:50.207Z"
+  },
+  "abe3b45bd89e": {
+   "first": "2026-11-17T15:10:35.872Z",
+   "title": "New Google Search Help Document On How To Allow Google-Agent Traffic",
+   "source": "ser",
+   "outcome": "card",
+   "score": 7,
+   "marked": "2026-11-17T15:10:35.872Z"
+  },
+  "8813534dfeb3": {
+   "first": "2026-11-17T15:10:35.872Z",
+   "title": "When everyone can do SEO, what makes an expert? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-17T15:10:35.872Z"
+  },
+  "2aef893fc394": {
+   "first": "2026-11-17T15:10:35.872Z",
+   "title": "How to prioritize SEO and GEO work when everything feels urgent - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-17T15:10:35.872Z"
+  },
+  "fc2d2e8ff456": {
+   "first": "2026-11-17T15:10:35.872Z",
+   "title": "Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-17T15:10:35.872Z"
+  },
+  "629ba81032ef": {
+   "first": "2026-11-17T15:10:35.872Z",
+   "title": "New Google Ads Search Journey Awareness Help Document",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-17T15:10:35.872Z"
+  },
+  "ae24d33132d7": {
+   "first": "2026-11-17T15:10:35.872Z",
+   "title": "Google Ads Brand Guidelines New Add Visual Guidelines",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-17T15:10:35.872Z"
+  },
+  "ac29cb2c175b": {
+   "first": "2026-11-17T15:10:35.872Z",
+   "title": "Google Tests Sign In Protections After First Search To Block Scrapers",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-17T15:10:35.872Z"
+  },
+  "11ff5063fa2b": {
+   "first": "2026-11-17T15:10:35.872Z",
+   "title": "Introducing OpenAI for Chile",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-17T15:10:35.872Z"
   }
  }
 }

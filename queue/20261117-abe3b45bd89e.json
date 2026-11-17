@@ -1,0 +1,25 @@
+{
+  "id": "20261117-abe3b45bd89e",
+  "type": "social",
+  "pillar": "hot-takes",
+  "title": "Google's Google-Agent page: CDN and WAF rules can block agent traffic",
+  "why": "Expected: robots.txt decides whether an AI agent gets in. Found: Google says CDN, WAF and bot-detection rules can block its agent, and the page does not say whether Google-Agent respects robots.txt.",
+  "source_url": "https://developers.google.com/crawling/docs/crawlers-fetchers/allow-google-agent",
+  "score": 7,
+  "hot": false,
+  "drafts": [
+    {
+      "platform": "x",
+      "text": "Google's new help page on Google-Agent asks sites to allow it in their CDN and WAF. Our crawler numbers (219 homepages, scanned Jul 2026) come from robots.txt rules. They do not count CDN or WAF blocks.",
+      "thread": [
+        "Google's help page defines Google-Agent as the name for agents hosted on Google infrastructure that navigate the web and perform actions upon user request.",
+        "What the page asks: allow the traffic in your CDN, WAF or bot-detection service. Where the service does not verify it, check the User-Agent, the IP list (user-triggered-agents.json) and the signature, then allow it. Requests that pass the check should skip bot challenges.",
+        "Monday morning: check CDN and WAF logs for Google-Agent. If challenges or 403s appear on it, check rule priority and challenge rules. The page does not say whether Google-Agent respects robots.txt, so a robots.txt allow is not proof a request gets through."
+      ]
+    },
+    {
+      "platform": "linkedin_personal",
+      "text": "Google published a help page on Google-Agent, the name for agents hosted on Google infrastructure that navigate the web and perform actions upon user request. It asks site owners to allow that traffic in the CDN, the WAF and any bot-detection service. Requests that pass the check should skip bot challenges.\n\nI read this as a gap in how we measure AI access. Our crawler numbers come from robots.txt rules. A block at the CDN or WAF does not show there. The page does not say whether Google-Agent respects robots.txt, so a robots.txt allow is not proof that a request gets through.\n\nMethod note: the Google page shows no date. Search Engine Roundtable reported it on 17 November 2026. Our 219-homepage sample is from 29 to 31 July 2026, hand-picked, one scan each, and it counts robots.txt rules only."
+    }
+  ]
+}
