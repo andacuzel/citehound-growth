@@ -5189,6 +5189,43 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "b1b82564c1dd": {
+   "first": "2026-11-18T18:08:43.040Z",
+   "title": "Your Schema Markup Has a New Job. Is It Ready? via @sejournal, @marthavanberkel",
+   "outcome": "duplicate-story"
+  },
+  "bb9a855fdfd6": {
+   "first": "2026-11-18T18:08:46.548Z",
+   "title": "Google AdMob introduces AI tools to automate monetization and ad management - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T18:08:46.548Z"
+  },
+  "677dd0e90cdb": {
+   "first": "2026-11-18T18:08:46.548Z",
+   "title": "Your AI visibility problem is probably a marketing problem - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-18T18:08:46.548Z"
+  },
+  "f2e4ab22c612": {
+   "first": "2026-11-18T18:08:46.548Z",
+   "title": "Google unifies Google tag and Tag Manager with new tagging and debugging features - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T18:08:46.548Z"
+  },
+  "942a1c7f2f02": {
+   "first": "2026-11-18T18:08:46.548Z",
+   "title": "How I’m Approaching AI Search (And How You Should To)",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-18T18:08:46.548Z"
   }
  }
 }
