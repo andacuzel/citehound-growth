@@ -5048,6 +5048,30 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-18T03:08:22.986Z"
+  },
+  "14d205ac2ebb": {
+   "first": "2026-11-18T12:09:20.990Z",
+   "title": "The link between organic rankings and AI Overview citations in pharma - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-18T12:09:20.990Z"
+  },
+  "8a81072b5651": {
+   "first": "2026-11-18T12:09:20.990Z",
+   "title": "Matt Lowe - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-18T12:09:20.990Z"
+  },
+  "943092080611": {
+   "first": "2026-11-18T12:09:20.990Z",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-18T12:09:20.990Z"
   }
  }
 }
