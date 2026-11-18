@@ -4992,6 +4992,62 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-17T18:09:01.826Z"
+  },
+  "1cb3e800c229": {
+   "first": "2026-11-18T03:08:22.986Z",
+   "title": "Prioritization Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-18T03:08:22.986Z"
+  },
+  "06865cfdf8e6": {
+   "first": "2026-11-18T03:08:22.986Z",
+   "title": "Decision-Making Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-18T03:08:22.986Z"
+  },
+  "d26e38f66b09": {
+   "first": "2026-11-18T03:08:22.986Z",
+   "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-18T03:08:22.986Z"
+  },
+  "dd3e30ff801a": {
+   "first": "2026-11-18T03:08:22.986Z",
+   "title": "Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T03:08:22.986Z"
+  },
+  "f4de4aa079a9": {
+   "first": "2026-11-18T03:08:22.986Z",
+   "title": "Google AI Overviews With Unfaded Citation Block",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-18T03:08:22.986Z"
+  },
+  "d7749a4e6839": {
+   "first": "2026-11-18T03:08:22.986Z",
+   "title": "Google Tag & Google Tag Manager Unification",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T03:08:22.986Z"
+  },
+  "9235aaac8965": {
+   "first": "2026-11-18T03:08:22.986Z",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-18T03:08:22.986Z"
   }
  }
 }
