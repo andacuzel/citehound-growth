@@ -5072,6 +5072,123 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-18T12:09:20.990Z"
+  },
+  "0b1b039a5dd2": {
+   "first": "2026-11-18T15:09:47.365Z",
+   "title": "Daily Search Forum Recap: November 18, 2026",
+   "outcome": "duplicate-story"
+  },
+  "8eefb91317ce": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "AI search meta-analysis: Q4 2026 - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "cc63bc67f698": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Microsoft Advertising upgrades automated bidding for faster, more consistent results - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "33f6e401c650": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Google Ads Journey-Aware Bidding: How it works and what to know - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "2647176e68fa": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss)",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "1f7e2f4304ff": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Your Schema Markup Has a New Job. Is It Ready? via @sejournal, @marthavanberkel",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "60f76a3910dc": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "094b44af9714": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Google Ads AI Max Is Making More Decisions For You – Here’s What To Audit Now via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "0aca0cd3c02b": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Google Explains How To Avoid CDN Migration SEO Problems via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "8457bfa58734": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Google Ads Releases Several AI Max For Search For Travel Campaigns Help Docs",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "8f1088e3e86d": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Google Ads New Commercial Exemptions To US Election Advertising Policy",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "8866dbe4a5e8": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Microsoft Advertising Announces Biggest Upgrade To Bidding Models",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "8f60e83449a4": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Google Ads PMax Setup Now With Channel Prioritization & Promo Mode",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "f3a1e49d4632": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "Google Hotel Campaigns Migrating To Search Campaigns For Travel",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-18T15:09:56.704Z"
+  },
+  "8f152e768a47": {
+   "first": "2026-11-18T15:09:56.704Z",
+   "title": "How we ended up building a set of elite text humanizers",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-18T15:09:56.704Z"
   }
  }
 }
