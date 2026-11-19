@@ -5226,6 +5226,38 @@
    "outcome": "skip",
    "score": 4,
    "marked": "2026-11-18T18:08:46.548Z"
+  },
+  "f760e8611895": {
+   "first": "2026-11-19T03:08:22.986Z",
+   "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-19T03:08:22.986Z"
+  },
+  "66001341f26e": {
+   "first": "2026-11-19T03:08:22.986Z",
+   "title": "Robots.txt Guide – Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-19T03:08:22.986Z"
+  },
+  "1b9f6f273a02": {
+   "first": "2026-11-19T03:08:22.986Z",
+   "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-19T03:08:22.986Z"
+  },
+  "84700ae2e457": {
+   "first": "2026-11-19T03:08:22.986Z",
+   "title": "Anthropic prices initial public offering",
+   "source": "anthropic",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-19T03:08:22.986Z"
   }
  }
 }
