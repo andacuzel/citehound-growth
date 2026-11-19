@@ -5367,6 +5367,54 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "cf357a9acc24": {
+   "first": "2026-11-19T18:07:54.492Z",
+   "title": "Why Adobe bought Semrush: Former president reveals new details - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-19T18:07:54.492Z"
+  },
+  "05b8b763926b": {
+   "first": "2026-11-19T18:07:54.492Z",
+   "title": "Are your website pop-ups doing more harm than good? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-19T18:07:54.492Z"
+  },
+  "c641c6531488": {
+   "first": "2026-11-19T18:07:54.492Z",
+   "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-19T18:07:54.492Z"
+  },
+  "2bc118b70d33": {
+   "first": "2026-11-19T18:07:54.492Z",
+   "title": "Microsoft Confirms Ads Are In AI Overviews On Bing Search",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-19T18:07:54.493Z"
+  },
+  "6321c7fbb2e0": {
+   "first": "2026-11-19T18:07:54.493Z",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-19T18:07:54.493Z"
+  },
+  "3470a1957e76": {
+   "first": "2026-11-19T18:07:54.493Z",
+   "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-19T18:07:54.493Z"
   }
  }
 }
