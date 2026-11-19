@@ -5258,6 +5258,115 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-19T03:08:22.986Z"
+  },
+  "81122b87ea94": {
+   "first": "2026-11-19T15:09:54.169Z",
+   "title": "Daily Search Forum Recap: November 19, 2026",
+   "outcome": "duplicate-story"
+  },
+  "84b38122a976": {
+   "first": "2026-11-19T15:10:07.045Z",
+   "title": "How to fix what AI search gets wrong about your brand - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "0054d1cd9614": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Introducing SEO+ reporting - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "da74f7ca46da": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Advertisers cut Google Ads spending amid rising costs, AI changes - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "93603cc39292": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Deleting blog posts hurt AI visibility, but organic clicks told a different story - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "d228e0ede59f": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "5e28d20322a7": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "764f85d2c1f6": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "986417284eba": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Google Search What People Are Saying AI-Generated Emojis",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "93c5b7c3a0b6": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Google Hotel Search Listings With Continue On Google To Book",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "f70067590219": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Google Search Tests \"Show Original Results\" Button",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "619c745142d7": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Google Data Feed Validation Tool Has Been Turned Down",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "e78bb13f1574": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Google Images Results With Lens To AI Mode Feature",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-19T15:10:07.046Z"
+  },
+  "f68396c6b7b9": {
+   "first": "2026-11-19T15:10:07.046Z",
+   "title": "Google AdSense Unifying Policies Into AdSense For Search Publishers Policy",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-19T15:10:07.046Z"
   }
  }
 }
