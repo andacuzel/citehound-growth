@@ -5558,6 +5558,75 @@
    "source": "hn",
    "outcome": "opportunity",
    "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "3755641f2617": {
+   "first": "2026-11-20T18:09:00.166Z",
+   "title": "Daily Search Forum Recap: November 20, 2026",
+   "outcome": "duplicate-story"
+  },
+  "3b0f47efeffe": {
+   "first": "2026-11-20T18:09:05.141Z",
+   "title": "Google AI Overviews: Not safe for Your Money or Your Life - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-20T18:09:05.142Z"
+  },
+  "f1b9d860435c": {
+   "first": "2026-11-20T18:09:05.142Z",
+   "title": "Microsoft Advertising adds URL inclusions to AI Max campaigns - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T18:09:05.142Z"
+  },
+  "4c38105258d5": {
+   "first": "2026-11-20T18:09:05.142Z",
+   "title": "Google Ads automation drift: Why better performance numbers don't always mean better results - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T18:09:05.142Z"
+  },
+  "386ad2751cc5": {
+   "first": "2026-11-20T18:09:05.142Z",
+   "title": "How to measure SEO performance and results - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T18:09:05.142Z"
+  },
+  "ab55d374e332": {
+   "first": "2026-11-20T18:09:05.142Z",
+   "title": "Digital PR campaigns should start with your money pages - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T18:09:05.142Z"
+  },
+  "ab0f299c2d44": {
+   "first": "2026-11-20T18:09:05.142Z",
+   "title": "Microsoft Advertising brings ads to AI Overviews on Bing - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-20T18:09:05.142Z"
+  },
+  "48cdb975fa00": {
+   "first": "2026-11-20T18:09:05.142Z",
+   "title": "Microsoft Ads adds ‘Made with AI’ labels to AI-generated ad images - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T18:09:05.142Z"
+  },
+  "6ab330983edc": {
+   "first": "2026-11-20T18:09:05.142Z",
+   "title": "Google Told CMOs To Stop ‘Top 10’ Listicles. Here’s Its Example via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-20T18:09:05.142Z"
   }
  }
 }
