@@ -5447,6 +5447,117 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-20T06:09:15.354Z"
+  },
+  "9d046c015f3d": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Poisoned Google SERPs: What’s happening and what to do now - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "b9d66c50c7aa": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "The true cost of Google Local Services Ads leads - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "daf887055019": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Google Knowledge Graph update removes 10% of person entities - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "c5cea9d3c7f6": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Google’s AI search advice sparks backlash from SEOs - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "942c7fbc7bfe": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "ed7589f2f978": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "AI Citations: What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "f190af589bb6": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "ad4573ae7818": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Google, ChatGPT & Others AI Engines Provide Coupon Codes",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "45a850332210": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "ChatGPT Card Design",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "1bc626365c84": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Google Expands & Clarifies Sexual Content Advertising Policy Examples",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "ebfb39e4e43a": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Bing & Microsoft Ads - Made With AI Label",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "4a392a7d2732": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "The .seo Top-Level Domain (TLD) May Be Coming Soon",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "0f26b1017fe9": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+   "source": "anthropic",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-20T15:10:13.208Z"
+  },
+  "a14c46d893b8": {
+   "first": "2026-11-20T15:10:13.208Z",
+   "title": "Llms.txt and MCP didn't move the needle",
+   "source": "hn",
+   "outcome": "opportunity",
+   "marked": "2026-11-20T15:10:13.208Z"
   }
  }
 }
