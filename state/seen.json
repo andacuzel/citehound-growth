@@ -5415,6 +5415,30 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-19T18:07:54.493Z"
+  },
+  "02656bf0b680": {
+   "first": "2026-11-20T03:08:26.430Z",
+   "title": "Google rolling out a \"collapsible sidebar\" for Google Search - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-20T03:08:26.430Z"
+  },
+  "c507b8ff693e": {
+   "first": "2026-11-20T03:08:26.430Z",
+   "title": "Google Search Officially Rolls Out Collapsible Sidebar",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-20T03:08:26.430Z"
+  },
+  "928bfcd92497": {
+   "first": "2026-11-20T03:08:26.430Z",
+   "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-20T03:08:26.430Z"
   }
  }
 }
