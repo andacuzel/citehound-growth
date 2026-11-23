@@ -1,0 +1,25 @@
+{
+ "id": "20261123-921a6d74e56a",
+ "type": "social",
+ "pillar": "hot-takes",
+ "title": "Google publishes guidance for Google-Agent: robots.txt is not the only gate",
+ "why": "Expected: crawl access is set in robots.txt. Found: Google's new guidance says firewall and bot rules can block its agent even when the site is open to it.",
+ "source_url": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
+ "score": 7,
+ "hot": false,
+ "drafts": [
+  {
+   "platform": "x",
+   "text": "Google published guidance for Google-Agent, the name for its AI agents that act for a user on websites (SEJ, 23 Nov). Robots.txt is one gate. A firewall or bot rule can still block the agent's follow-up requests.",
+   "thread": [
+    "Mechanism: Google's guidance says to verify Google-Agent by user agent, by published IP range, and by Web Bot Auth signature where present. Rules that allow it must run before cloud-provider and bot-block rules. Rule order decides the outcome.",
+    "Limit: this is Search Engine Journal's summary of Google's documentation. The summary says Google does not name which products use Google-Agent. We have not tested any site against these rules.",
+    "Monday morning: check firewall and CDN logs for blocked requests with a Google-Agent user agent. Turn off CAPTCHA for agent traffic that passes Google's IP and signature checks. Our scan does not see WAF rules."
+   ]
+  },
+  {
+   "platform": "linkedin_personal",
+   "text": "Google published guidance this week on Google-Agent, the name for its AI agents that navigate sites and act for a user. The examples include adding products to a cart, making bookings and calling a site's APIs.\n\nThe part I keep coming back to: an agent can land on a page and still fail to finish. If a bot rule or firewall blocks the follow-up requests, the task stops there.\n\nRobots.txt is one gate, not the only one. Our scanner reads robots.txt, sitemap, llms.txt and the homepage. It does not see firewall or CDN rules.\n\nMethod note: the source is Search Engine Journal's summary of Google's documentation, 23 Nov 2026. I have not read Google's page in full and have not tested any site against it. Confidence: medium on what the guidance says, low on how often it blocks anyone."
+  }
+ ]
+}

@@ -5715,6 +5715,134 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-23T09:08:47.615Z"
+  },
+  "921a6d74e56a": {
+   "first": "2026-11-23T15:11:04.461Z",
+   "title": "Google Publishes Guidance For Google-Agent Crawler via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "card",
+   "score": 7,
+   "marked": "2026-11-23T15:11:04.461Z"
+  },
+  "dc5177b8b7ce": {
+   "first": "2026-11-23T15:11:04.495Z",
+   "title": "How to create original research for digital PR without original data - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-23T15:11:04.495Z"
+  },
+  "ecb41aeffe6d": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "AI Overviews changed what content needs to do: Here’s how to adapt - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "1bcf1a69daa3": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "How to build reliable client reporting with AI - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "c11937840da2": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Multi-location SEO: Why one strategy doesn’t fit every location - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "52495de6715e": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Composite index Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "86ad79fd9fee": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Google AI cites social media 52% more, ChatGPT 44% less: Study - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "d99193d19dc2": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave via @sejournal, @tonyadam",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "a25b9bae2b06": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "35 AI Prompts & Examples For SEO (Updated November 2026) via @sejournal, @theshelleywalsh",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "fe6e7dadd015": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Google AI Mode Dive Deeper Is Now Live",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "7e096913106b": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Google Search Profiles With LinkedIn Support",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "2579d73cc13c": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Bing Reverting Naming AI Overviews Back To Copilot Search",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "298442b59120": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Google Ads Purchase Signal Annotations Documentation",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "e1b24c1b5e37": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "ChatGPT Product Results May Now Be Influenced By OpenAI Partnerships",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "7b0513375416": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Bing Thanksgiving Turkey Trot In Search Results",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "33aa36c724a7": {
+   "first": "2026-11-23T15:11:04.496Z",
+   "title": "Show HN: I built Maeto, an SRv6 SD-WAN from scratch on Linux that you can break",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-23T15:11:04.496Z"
   }
  }
 }
