@@ -5843,6 +5843,83 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-23T15:11:04.496Z"
+  },
+  "0820c3e1c4b2": {
+   "first": "2026-11-23T18:08:48.806Z",
+   "title": "Daily Search Forum Recap: November 23, 2026",
+   "outcome": "duplicate-story"
+  },
+  "fd7f85abaeab": {
+   "first": "2026-11-23T18:08:55.264Z",
+   "title": "Are advertisers really cutting Google Ads spend? 29 PPC experts weigh in - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-23T18:08:55.264Z"
+  },
+  "9e8db3f1eb65": {
+   "first": "2026-11-23T18:08:55.264Z",
+   "title": "New Google back button hijacking FAQ - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-23T18:08:55.264Z"
+  },
+  "14621d2dd580": {
+   "first": "2026-11-23T18:08:55.264Z",
+   "title": "Data Journalism:Theory and Practice Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-23T18:08:55.264Z"
+  },
+  "685bed48f942": {
+   "first": "2026-11-23T18:08:55.264Z",
+   "title": "Google AI Mode dive deeper is now live - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-23T18:08:55.264Z"
+  },
+  "8b559586dc62": {
+   "first": "2026-11-23T18:08:55.265Z",
+   "title": "SEO forecasting and predictive analytics: How to estimate traffic and revenue - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-23T18:08:55.265Z"
+  },
+  "e7ec61212ed5": {
+   "first": "2026-11-23T18:08:55.265Z",
+   "title": "Google’s Liz Reid: AI search has less room for commodity content - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-23T18:08:55.265Z"
+  },
+  "406ba3abca52": {
+   "first": "2026-11-23T18:08:55.265Z",
+   "title": "Google Says Back Button Hijacking Policy Covers Social Visits via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-23T18:08:55.265Z"
+  },
+  "5d036021f55a": {
+   "first": "2026-11-23T18:08:55.265Z",
+   "title": "Google: Connect Apps To Search In Return For Personal Responses",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-23T18:08:55.265Z"
+  },
+  "3843ce8d7c15": {
+   "first": "2026-11-23T18:08:55.265Z",
+   "title": "Google Posts FAQs on Back Button Hijacking Spam",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-23T18:08:55.265Z"
   }
  }
 }
