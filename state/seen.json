@@ -6119,6 +6119,75 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "e17b4bb9d37f": {
+   "first": "2026-11-24T18:08:51.375Z",
+   "title": "Daily Search Forum Recap: November 24, 2026",
+   "outcome": "duplicate-story"
+  },
+  "cf42b5c723a5": {
+   "first": "2026-11-24T18:08:57.782Z",
+   "title": "Google releases new search ranking transparency hub - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T18:08:57.783Z"
+  },
+  "04b747ba3a12": {
+   "first": "2026-11-24T18:08:57.783Z",
+   "title": "How many products does an ecommerce category page need? Data from 100 stores - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-24T18:08:57.783Z"
+  },
+  "a397572c1030": {
+   "first": "2026-11-24T18:08:57.783Z",
+   "title": "Google preannounced the December 2026 core update but it is not live or active yet - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T18:08:57.783Z"
+  },
+  "f527476f3519": {
+   "first": "2026-11-24T18:08:57.783Z",
+   "title": "Google Ads expands guidance on Book Appointment conversion goal - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-24T18:08:57.783Z"
+  },
+  "528da9171e5d": {
+   "first": "2026-11-24T18:08:57.783Z",
+   "title": "Are Google AI Mode and AI Overviews ad clicks more valuable? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T18:08:57.783Z"
+  },
+  "bd987ae907ec": {
+   "first": "2026-11-24T18:08:57.783Z",
+   "title": "Google Announces December 2026 Core Update Ahead Of Rollout via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T18:08:57.783Z"
+  },
+  "5b55633ffe5c": {
+   "first": "2026-11-24T18:08:57.783Z",
+   "title": "New Google Search Ranking Hub, Ranking Principles, Feedback & AI Training Control",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T18:08:57.783Z"
+  },
+  "1fcb9b3027ef": {
+   "first": "2026-11-24T18:08:57.783Z",
+   "title": "Google December 2026 Core Update Preannounced - Complex Queries & Personalization",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T18:08:57.783Z"
   }
  }
 }
