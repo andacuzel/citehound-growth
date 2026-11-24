@@ -6007,6 +6007,118 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-24T12:09:36.648Z"
+  },
+  "480cca9617e5": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "What Bing’s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd",
+   "source": "sej",
+   "outcome": "card",
+   "score": 6,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "443f0f8f912a": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google documents a number of previously undocumented Google crawlers and fetchers - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "e92e24b43dc2": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "6 questions to ask before renewing your AI visibility tool - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "ba64cd159f43": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "How to use prediction intervals to forecast organic traffic - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "ffd36788f537": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google November 2026 core update rollout is now complete - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "adb4494198f1": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "3265fb2897fa": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "b04ee4f0ea52": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google November 2026 Core Update Has Completed Rolling Out - What Happened?",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "2ece425f4c91": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Bing AI Generated Answer - Different From AI Overviews/Copilot Search",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "d56c12928511": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google Business Profiles Appeals Simplified Into A Single Form",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "ef8ce076a439": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google: People Don't Just Want AI, They Want AI & The Web",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "31327336912d": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google Burying Links Deeper Down In AI Overviews",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "0b5f6dc10d96": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google Ads Book Appointment Conversion Goals",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-24T15:10:48.738Z"
+  },
+  "4f2fb494b533": {
+   "first": "2026-11-24T15:10:48.738Z",
+   "title": "Google Thanksgiving Easter Egg Will Turn You Into A Parade Balloon",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-24T15:10:48.738Z"
   }
  }
 }

@@ -1,0 +1,28 @@
+{
+  "id": "20261124-480cca9617e5",
+  "type": "social",
+  "pillar": "hot-takes",
+  "title": "Bing AI citations: homepages were 6.8% of 883,000",
+  "why": "Expected: the homepage carries most AI citations for a site. Found: in a 26-brand Bing sample, homepages were 6.8% of citations and guides, product and support pages made up most of the rest.",
+  "source_url": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
+  "source_check": "Read 24 Nov 2026 via the article. Study: 26 brands, 9 verticals, over 1.1M citations in the overview export, 883,000+ on 10,861 URLs, from Bing AI Performance Reporting (public preview since February 2026), spring and fall pulls. Author notes backfilling, machine-initiated queries counted, and pooled figures lean toward large sites. Single vendor tool.",
+  "score": 6,
+  "hot": false,
+  "status": "awaiting owner approval",
+  "drafts": [
+    {
+      "platform": "x",
+      "text": "Bing's AI citation data, 26 brands and 883,000+ citations: homepages were 6.8% of what got cited. Support and how-to pages were 11.2%. Editorial guides 18.3%. Check the pages models cite, not only the front door. Spring and fall 2026 pulls, one vendor.",
+      "thread": [
+        "Why it matters: a homepage audit checks the page a buyer sees first. The citation mix points to guides, product pages and support articles instead.",
+        "Monday morning: pull your most-cited URLs from AI reporting, if you have it. Check title, description and schema on each. Fix the most-cited ones first.",
+        "Limits: one vendor's data, 26 brands, larger sites weighted in. Source: Search Engine Journal analysis of Bing AI Performance pulls. Confidence: medium."
+      ]
+    },
+    {
+      "platform": "linkedin_personal",
+      "text": "Bing's AI reporting says something uncomfortable for homepage-first audits.\n\nA Search Engine Journal analysis pulled Bing AI citation data for 26 brands: more than 883,000 citations on 10,861 URLs, spring and fall 2026. Homepages were 6.8% of citations. Editorial guides were 18.3%. Product pages were 16.7%. Support and how-to pages were 11.2%. PDFs were over 6%.\n\nMonday morning: take the ten URLs your brand is cited on most, if your reporting shows them, and check each for a title, a description and the schema it needs.\n\nMethod note: one vendor's data, 26 brands, large sites weighted in, read through a secondary write-up. Confidence: medium. Not a sample of the web.",
+      "thread": []
+    }
+  ]
+}
