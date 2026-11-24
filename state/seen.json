@@ -5991,6 +5991,22 @@
    "outcome": "skip",
    "score": 2,
    "marked": "2026-11-24T03:08:24.456Z"
+  },
+  "cfd854709981": {
+   "first": "2026-11-24T12:09:36.648Z",
+   "title": "Google’s Expansion Of Personal Intelligence Will Change SEO via @sejournal, @martinibuster",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-24T12:09:36.648Z"
+  },
+  "32d67b1509cd": {
+   "first": "2026-11-24T12:09:36.648Z",
+   "title": "Show HN: A search engine for products launched since ChatGPT",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-24T12:09:36.648Z"
   }
  }
 }
