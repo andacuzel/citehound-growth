@@ -5920,6 +5920,77 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-23T18:08:55.265Z"
+  },
+  "34ed71e2b2a7": {
+   "first": "2026-11-24T03:08:15.495Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "5630469706af": {
+   "first": "2026-11-24T03:08:15.495Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "10bc8acb418e": {
+   "first": "2026-11-24T03:08:15.495Z",
+   "title": "- Search Engine Land",
+   "outcome": "duplicate-story"
+  },
+  "203de917d9db": {
+   "first": "2026-11-24T03:08:24.456Z",
+   "title": "Google Ads introduces purchase volume badges for Shopping ads - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-24T03:08:24.456Z"
+  },
+  "d93c33791931": {
+   "first": "2026-11-24T03:08:24.456Z",
+   "title": "Google Analytics for Firebase adds AI agent skills for app tracking - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-24T03:08:24.456Z"
+  },
+  "9775669bc2c2": {
+   "first": "2026-11-24T03:08:24.456Z",
+   "title": "Reddit’s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-24T03:08:24.456Z"
+  },
+  "91e070c4d927": {
+   "first": "2026-11-24T03:08:24.456Z",
+   "title": "I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6 via @sejournal, @marie_haynes",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-24T03:08:24.456Z"
+  },
+  "0ef9208fc630": {
+   "first": "2026-11-24T03:08:24.456Z",
+   "title": "New Google Business Profiles Controls For Appointments & Dinner Reservations",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-24T03:08:24.456Z"
+  },
+  "75124534f847": {
+   "first": "2026-11-24T03:08:24.456Z",
+   "title": "Google Documents Previously Undocumented Crawlers & Fetchers",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-24T03:08:24.456Z"
+  },
+  "60167006a52f": {
+   "first": "2026-11-24T03:08:24.456Z",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-24T03:08:24.456Z"
   }
  }
 }
