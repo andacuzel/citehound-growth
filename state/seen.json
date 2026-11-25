@@ -6188,6 +6188,46 @@
    "outcome": "skip",
    "score": 4,
    "marked": "2026-11-24T18:08:57.783Z"
+  },
+  "fc772d7f08e0": {
+   "first": "2026-11-25T03:08:52.797Z",
+   "title": "Microsoft Advertising adds messaging guidelines for AI-generated ad copy to its API - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-25T03:08:52.798Z"
+  },
+  "795a4a7e6835": {
+   "first": "2026-11-25T03:08:52.798Z",
+   "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-25T03:08:52.798Z"
+  },
+  "2194338f505a": {
+   "first": "2026-11-25T03:08:52.798Z",
+   "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-25T03:08:52.798Z"
+  },
+  "624e1ec97723": {
+   "first": "2026-11-25T03:08:52.798Z",
+   "title": "Google On How Links Are Selected & Shown In AI Overviews & AI Mode",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-25T03:08:52.798Z"
+  },
+  "e32ed061be72": {
+   "first": "2026-11-25T03:08:52.798Z",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "source": "openai",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-25T03:08:52.798Z"
   }
  }
 }
