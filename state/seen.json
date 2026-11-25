@@ -6236,6 +6236,86 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-25T06:09:17.990Z"
+  },
+  "9fe88a4e47ae": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "How to optimize images for AI search in ChatGPT and Google - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "96f8ccfdace7": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "e1c105ec8f93": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "1fe9f0b9ee6c": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "Google Ads Encourages Dynamically Scoring Conversion Values Hack",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "feecc59b133a": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "Bing Image Search Ask Visual Search Button",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "3f0e50f40749": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "Google Image Collections & Saved Items Adds Ask Anything AI Mode",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "fba31d6e8ccd": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "Google On Inventory Pages Per Geographic Region: Fewer Pages Better",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "7dcebe3219db": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "Google AdSense Opt-Out, Messaging & Privacy Updates",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "538bffc500f4": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "Google Snoopy Thanksgiving Prep 2026 Doodle",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-25T15:09:16.662Z"
+  },
+  "5d21251928e4": {
+   "first": "2026-11-25T15:09:16.662Z",
+   "title": "We scanned 482 live sites: 35% publish llms.txt, 58% ship zero security headers",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-25T15:09:16.662Z"
   }
  }
 }
