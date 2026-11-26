@@ -6401,6 +6401,30 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-26T03:08:32.528Z"
+  },
+  "477f1c0f85dc": {
+   "first": "2026-11-26T06:08:41.802Z",
+   "title": "OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-26T06:08:41.803Z"
+  },
+  "acbd09501e9e": {
+   "first": "2026-11-26T06:08:41.803Z",
+   "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-26T06:08:41.803Z"
+  },
+  "c20780f3d4f1": {
+   "first": "2026-11-26T06:08:41.803Z",
+   "title": "Show HN: Talira – Search engine for software, built for AI agents",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-26T06:08:41.803Z"
   }
  }
 }
