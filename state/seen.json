@@ -6369,6 +6369,38 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-25T18:08:40.390Z"
+  },
+  "ed222d25a573": {
+   "first": "2026-11-26T03:08:32.527Z",
+   "title": "AI model changes can create the illusion of visibility gains - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-26T03:08:32.527Z"
+  },
+  "e4bcbce54d95": {
+   "first": "2026-11-26T03:08:32.527Z",
+   "title": "Marketing engineering Archives - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-26T03:08:32.527Z"
+  },
+  "a6c359385c0c": {
+   "first": "2026-11-26T03:08:32.527Z",
+   "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did via @sejournal, @slobodanmanic",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-26T03:08:32.527Z"
+  },
+  "1046d19765ab": {
+   "first": "2026-11-26T03:08:32.527Z",
+   "title": "ChatGPT Ads New Call-To-Actions, Business Agents Beyond US, More Audience Metrics & More",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-26T03:08:32.528Z"
   }
  }
 }
