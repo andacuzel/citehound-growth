@@ -6449,6 +6449,14 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-26T15:08:58.498Z"
+  },
+  "592f01d6fca8": {
+   "first": "2026-11-26T18:09:00.910Z",
+   "title": "Show HN: Graphvein – Trace calls to handlers and tables across repos, no LLM",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-26T18:09:00.910Z"
   }
  }
 }
