@@ -6497,6 +6497,83 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-27T12:08:20.699Z"
+  },
+  "f349801191dd": {
+   "first": "2026-11-27T15:09:23.920Z",
+   "title": "Daily Search Forum Recap: November 27, 2026",
+   "outcome": "duplicate-story"
+  },
+  "2532b07db17d": {
+   "first": "2026-11-27T15:09:29.705Z",
+   "title": "Paid Search Has An AI Blind Spot – IAB Blueprint Says A Claim Is Not Credit via @sejournal, @gregjarboe",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-27T15:09:29.705Z"
+  },
+  "d6b784c9107f": {
+   "first": "2026-11-27T15:09:29.705Z",
+   "title": "B2B Podcasts Reach Buyers Search Can’t – Where Most Shows Go Wrong",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-27T15:09:29.705Z"
+  },
+  "eb9f274bbd3d": {
+   "first": "2026-11-27T15:09:29.705Z",
+   "title": "Search News Buzz Video Recap: Google November Core Update, December Core Preannounced, Search Ranking Hub, Google StarSearch & Search Ad News",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-27T15:09:29.705Z"
+  },
+  "2879e0a8d80c": {
+   "first": "2026-11-27T15:09:29.705Z",
+   "title": "Bing AI Mode Ads Blending More With Organic Results",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-27T15:09:29.705Z"
+  },
+  "085e1351eb81": {
+   "first": "2026-11-27T15:09:29.706Z",
+   "title": "Google AI Mode Image Results Ask A Follow Up Button",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-27T15:09:29.706Z"
+  },
+  "fe347ada49e5": {
+   "first": "2026-11-27T15:09:29.706Z",
+   "title": "Google AI Mode Gains Multiple Image Uploads",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-27T15:09:29.706Z"
+  },
+  "d35d0712fcd6": {
+   "first": "2026-11-27T15:09:29.706Z",
+   "title": "Google Ads Search Insights Tool",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-27T15:09:29.706Z"
+  },
+  "1c8c98634660": {
+   "first": "2026-11-27T15:09:29.706Z",
+   "title": "Google Merchant Center Ads Opportunities With New Features?",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-27T15:09:29.706Z"
+  },
+  "5311d37e1091": {
+   "first": "2026-11-27T15:09:29.706Z",
+   "title": "Copilot Has Ads From Microsoft Advertising",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-27T15:09:29.706Z"
   }
  }
 }
