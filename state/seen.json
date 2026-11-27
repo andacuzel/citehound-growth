@@ -6457,6 +6457,30 @@
    "outcome": "skip",
    "score": 1,
    "marked": "2026-11-26T18:09:00.910Z"
+  },
+  "94359a36d678": {
+   "first": "2026-11-27T03:08:28.344Z",
+   "title": "ChatGPT Ads adds audience metrics and expands Business Agents - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 3,
+   "marked": "2026-11-27T03:08:28.344Z"
+  },
+  "021f286ff2b6": {
+   "first": "2026-11-27T03:08:28.344Z",
+   "title": "Google’s Smart Bidding shake-up: Did advertisers overreact? - Search Engine Land",
+   "source": "sel",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-27T03:08:28.344Z"
+  },
+  "bc50a1678de8": {
+   "first": "2026-11-27T03:08:28.344Z",
+   "title": "Ask Jeeves At Macy's Thanksgiving Day Parade (Old Photos)",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-27T03:08:28.344Z"
   }
  }
 }
