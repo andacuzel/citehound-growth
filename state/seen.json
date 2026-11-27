@@ -6489,6 +6489,14 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-27T09:08:05.618Z"
+  },
+  "432dce6bb4fc": {
+   "first": "2026-11-27T12:08:20.698Z",
+   "title": "Show HN: Open-Sourced Code Mode to Cut ~60% of My Rust Agent's Token Burn",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-27T12:08:20.699Z"
   }
  }
 }
