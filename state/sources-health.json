@@ -1,51 +1,51 @@
 {
  "sel": {
   "fails": 0,
-  "last_ok": "2026-11-28T03:07:51.378Z",
+  "last_ok": "2026-11-28T06:08:22.769Z",
   "last_count": 4
  },
  "sej": {
   "fails": 0,
-  "last_ok": "2026-11-28T03:07:53.607Z",
+  "last_ok": "2026-11-28T06:08:25.094Z",
   "last_count": 20
  },
  "ser": {
   "fails": 0,
-  "last_ok": "2026-11-28T03:07:56.285Z",
+  "last_ok": "2026-11-28T06:08:27.499Z",
   "last_count": 15
  },
  "gsc": {
   "fails": 0,
-  "last_ok": "2026-11-28T03:07:58.404Z",
+  "last_ok": "2026-11-28T06:08:29.624Z",
   "last_count": 10
  },
  "openai": {
   "fails": 0,
-  "last_ok": "2026-11-28T03:08:00.658Z",
+  "last_ok": "2026-11-28T06:08:31.846Z",
   "last_count": 1430
  },
  "anthropic": {
   "fails": 0,
-  "last_ok": "2026-11-28T03:08:02.930Z",
+  "last_ok": "2026-11-28T06:08:34.120Z",
   "last_count": 22
  },
  "pplx": {
-  "fails": 192,
+  "fails": 193,
   "last_ok": "2026-10-26T14:42:46.673Z",
   "last_count": 0
  },
  "hn": {
   "fails": 0,
-  "last_ok": "2026-11-28T03:08:09.906Z",
+  "last_ok": "2026-11-28T06:08:39.813Z",
   "last_count": 0
  },
  "r_seo": {
-  "fails": 192,
+  "fails": 193,
   "last_ok": "2026-10-26T14:42:54.460Z",
   "last_count": 0
  },
  "r_bigseo": {
-  "fails": 195,
+  "fails": 196,
   "last_ok": "",
   "last_count": 0
  }
