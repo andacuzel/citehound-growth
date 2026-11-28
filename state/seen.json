@@ -6606,6 +6606,22 @@
    "outcome": "skip",
    "score": 5,
    "marked": "2026-11-28T03:08:18.423Z"
+  },
+  "47a4d8a246be": {
+   "first": "2026-11-28T15:08:19.453Z",
+   "title": "Core Updates, Ranking Feedback, Google-Agent & WordPress – SEO Pulse via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 4,
+   "marked": "2026-11-28T15:08:19.454Z"
+  },
+  "fb39efc066c3": {
+   "first": "2026-11-28T15:08:19.454Z",
+   "title": "Gemma 4 fine-tuning overview",
+   "source": "hn",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-28T15:08:19.454Z"
   }
  }
 }
