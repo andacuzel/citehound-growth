@@ -1,0 +1,349 @@
+{
+ "sample": {
+  "frame": 214,
+  "scored": 190,
+  "failed": 19,
+  "skipped_by_robots": 5,
+  "note": "Purposive sample found by web search, not random. Homepage only. One scan each. Scanned from a data-center address.",
+  "fail_kinds": {
+   "http-200": 4,
+   "http-202": 8,
+   "http_403": 3,
+   "http_503": 2,
+   "http-403": 1,
+   "network": 1
+  },
+  "waf_suspect": 5
+ },
+ "by_segment": {
+  "prof": {
+   "n": 70,
+   "mean": 73.2,
+   "median": 79,
+   "p25": 64.5,
+   "p75": 86.3,
+   "confidence": "medium"
+  },
+  "agency": {
+   "n": 67,
+   "mean": 83.5,
+   "median": 84,
+   "p25": 77,
+   "p75": 94.5,
+   "confidence": "medium"
+  },
+  "saas": {
+   "n": 53,
+   "mean": 80.7,
+   "median": 82,
+   "p25": 75,
+   "p75": 89,
+   "confidence": "medium"
+  }
+ },
+ "segment_gaps": [
+  {
+   "a": "prof",
+   "b": "agency",
+   "diff": -10.3,
+   "ci95": [
+    -15.9,
+    -4.8
+   ],
+   "excludes_zero": true,
+   "confidence": "medium"
+  },
+  {
+   "a": "prof",
+   "b": "saas",
+   "diff": -7.5,
+   "ci95": [
+    -13.1,
+    -2.2
+   ],
+   "excludes_zero": true,
+   "confidence": "medium"
+  },
+  {
+   "a": "agency",
+   "b": "saas",
+   "diff": 2.8,
+   "ci95": [
+    -2.2,
+    7.3
+   ],
+   "excludes_zero": false,
+   "confidence": "low (effect<5 points)"
+  }
+ ],
+ "checks": [
+  {
+   "check": "AI crawler access",
+   "n": 190,
+   "fail_rate": 59.5,
+   "max_points": 26,
+   "mean_points_lost": 8
+  },
+  {
+   "check": "Content schema (Article, FAQ…)",
+   "n": 190,
+   "fail_rate": 54.7,
+   "max_points": 5,
+   "mean_points_lost": 2.7
+  },
+  {
+   "check": "llms.txt present",
+   "n": 190,
+   "fail_rate": 54.2,
+   "max_points": 4,
+   "mean_points_lost": 2.2
+  },
+  {
+   "check": "Organization / WebSite schema",
+   "n": 190,
+   "fail_rate": 24.2,
+   "max_points": 8,
+   "mean_points_lost": 1.9
+  },
+  {
+   "check": "Single H1 heading",
+   "n": 190,
+   "fail_rate": 24.7,
+   "max_points": 6,
+   "mean_points_lost": 1.5
+  },
+  {
+   "check": "Meta description",
+   "n": 190,
+   "fail_rate": 18.9,
+   "max_points": 4,
+   "mean_points_lost": 0.8
+  },
+  {
+   "check": "Author / about signals",
+   "n": 190,
+   "fail_rate": 9.5,
+   "max_points": 8,
+   "mean_points_lost": 0.8
+  },
+  {
+   "check": "Contact signals",
+   "n": 190,
+   "fail_rate": 8.4,
+   "max_points": 8,
+   "mean_points_lost": 0.7
+  },
+  {
+   "check": "Structured data (JSON-LD)",
+   "n": 190,
+   "fail_rate": 19.5,
+   "max_points": 3,
+   "mean_points_lost": 0.6
+  },
+  {
+   "check": "Canonical tag",
+   "n": 190,
+   "fail_rate": 11.6,
+   "max_points": 4,
+   "mean_points_lost": 0.5
+  },
+  {
+   "check": "Subheading structure (H2)",
+   "n": 190,
+   "fail_rate": 8.9,
+   "max_points": 5,
+   "mean_points_lost": 0.4
+  },
+  {
+   "check": "Sitemap declared",
+   "n": 190,
+   "fail_rate": 4.2,
+   "max_points": 6,
+   "mean_points_lost": 0.3
+  },
+  {
+   "check": "Page title",
+   "n": 190,
+   "fail_rate": 10.5,
+   "max_points": 3,
+   "mean_points_lost": 0.3
+  },
+  {
+   "check": "Open Graph tags",
+   "n": 190,
+   "fail_rate": 10.5,
+   "max_points": 3,
+   "mean_points_lost": 0.3
+  },
+  {
+   "check": "html lang attribute",
+   "n": 190,
+   "fail_rate": 5.3,
+   "max_points": 3,
+   "mean_points_lost": 0.2
+  },
+  {
+   "check": "robots.txt present",
+   "n": 190,
+   "fail_rate": 2.1,
+   "max_points": 4,
+   "mean_points_lost": 0.1
+  }
+ ],
+ "single_fix_moving_scores_most": {
+  "check": "AI crawler access",
+  "mean_points_lost": 8,
+  "fail_rate": 59.5,
+  "note": "mean points lost per scored site; the biggest bucket, not a promise of what fixing it changes outside the score"
+ },
+ "top5": {
+  "n_top": 10,
+  "min_score_in_top": 100,
+  "confidence": "medium",
+  "shared": [
+   {
+    "check": "AI crawler access",
+    "top_pass": 100,
+    "rest_pass": 37.2,
+    "lift": 62.8
+   },
+   {
+    "check": "Content schema (Article, FAQ…)",
+    "top_pass": 100,
+    "rest_pass": 42.2,
+    "lift": 57.8
+   },
+   {
+    "check": "llms.txt present",
+    "top_pass": 100,
+    "rest_pass": 42.8,
+    "lift": 57.2
+   },
+   {
+    "check": "Single H1 heading",
+    "top_pass": 100,
+    "rest_pass": 73.9,
+    "lift": 26.1
+   },
+   {
+    "check": "Organization / WebSite schema",
+    "top_pass": 100,
+    "rest_pass": 74.4,
+    "lift": 25.6
+   },
+   {
+    "check": "Structured data (JSON-LD)",
+    "top_pass": 100,
+    "rest_pass": 79.4,
+    "lift": 20.6
+   }
+  ]
+ },
+ "pillar_correlations": {
+  "discover_vs_tech": 0.163,
+  "discover_vs_trust": 0.11900000000000001,
+  "tech_vs_trust": 0.778,
+  "n": 190,
+  "note": "Pearson r; |r| < 0.3 is weak. Correlation in a purposive sample, not cause."
+ },
+ "access_by_platform": [
+  {
+   "group": "wordpress",
+   "n": 86,
+   "share_blocking_any_ai_bot": 7,
+   "share_open_all_10": 30.2,
+   "mean_score": 82.8
+  },
+  {
+   "group": "unknown",
+   "n": 50,
+   "share_blocking_any_ai_bot": 4,
+   "share_open_all_10": 44,
+   "mean_score": 71.2
+  },
+  {
+   "group": "webflow",
+   "n": 16,
+   "share_blocking_any_ai_bot": 0,
+   "share_open_all_10": 50,
+   "mean_score": 81.8
+  },
+  {
+   "group": "nextjs",
+   "n": 11,
+   "share_blocking_any_ai_bot": 0,
+   "share_open_all_10": 45.5,
+   "mean_score": 80.7
+  },
+  {
+   "group": "hubspot-cms",
+   "n": 9,
+   "share_blocking_any_ai_bot": 22.2,
+   "share_open_all_10": 11.1,
+   "mean_score": 77.7
+  },
+  {
+   "group": "wix",
+   "n": 6,
+   "share_blocking_any_ai_bot": 0,
+   "share_open_all_10": 0,
+   "mean_score": 75
+  }
+ ],
+ "access_by_cdn": [
+  {
+   "group": "cloudflare",
+   "n": 84,
+   "share_blocking_any_ai_bot": 7.1,
+   "share_open_all_10": 31,
+   "mean_score": 79.3
+  },
+  {
+   "group": "other",
+   "n": 77,
+   "share_blocking_any_ai_bot": 3.9,
+   "share_open_all_10": 39,
+   "mean_score": 76.5
+  },
+  {
+   "group": "vercel",
+   "n": 16,
+   "share_blocking_any_ai_bot": 0,
+   "share_open_all_10": 43.8,
+   "mean_score": 86.8
+  },
+  {
+   "group": "cloudfront",
+   "n": 7,
+   "share_blocking_any_ai_bot": 14.3,
+   "share_open_all_10": 14.3,
+   "mean_score": 83.1
+  }
+ ],
+ "blocking": {
+  "n_blocking_any": 10,
+  "share": 5.3,
+  "cloudflare_managed_robots": 3,
+  "with_content_signal": 10,
+  "blocking_with_cf_managed": 3,
+  "no_ai_specific_rule_but_blocked": 1,
+  "note": "no_ai_specific_rule_but_blocked means a wildcard or default rule does the blocking: possibly unintended",
+  "crawlers": {
+   "GPTBot": 7,
+   "ClaudeBot": 5,
+   "anthropic-ai": 4,
+   "Google-Extended": 4,
+   "CCBot": 6,
+   "Bytespider": 7,
+   "ChatGPT-User": 1,
+   "OAI-SearchBot": 1,
+   "PerplexityBot": 1,
+   "Perplexity-User": 1
+  }
+ },
+ "robots_state": {
+  "present": 177,
+  "served_html": 19,
+  "no_sitemap_line": 17
+ }
+}

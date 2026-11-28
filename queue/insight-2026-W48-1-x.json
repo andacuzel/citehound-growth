@@ -1,0 +1,20 @@
+{
+ "id": "insight-2026-W48-1-x",
+ "type": "social",
+ "pillar": "field-notes",
+ "why": "Insight lab 2026-W48, candidate 1 (medium): llms.txt presence follows the site builder. Wix 32 of 33 homepages, Squarespace 3 of 33, others 591 of 1,187. Six purposive samples, 1,253 homepages, 26 Oct to 28 Nov 2026. Mechanism documented by Wix's help center (updated 9 Sep 2026).",
+ "title": "X thread: llms.txt follows the site builder",
+ "drafts": [
+  {
+   "platform": "x",
+   "text": "32 of 33 Wix homepages in our samples have an llms.txt file. Squarespace: 3 of 33. The file tells you the builder more than the firm.",
+   "thread": [
+    "Data: 1,253 small B2B SaaS, agency and professional-services homepages, six samples, 26 Oct to 28 Nov 2026. Every other platform: 591 of 1,187. Wix minus Squarespace: 88 points, 95% interval 76 to 97.",
+    "Same direction in all six samples. Both groups are mostly professional-services firms (27 and 24 of 33), so it is not segment mix.",
+    "Mechanism: Wix's help center says it \"automatically generates and maintains\" the file and stops updating it once you edit it. The three Wix files we read follow one generated template. Squarespace looks opt-in; not confirmed in its own docs.",
+    "Monday morning: read yourdomain.com/llms.txt. On Wix, a generator wrote that summary of your firm. Fix what is wrong. Free scan: https://getcitehound.com/?utm_source=x&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W48-1-x",
+    "Method: sites found by web search, not random. 33 per builder. Platform detected from page source. One scan each. Readiness only, not whether any system reads the file. Confidence: medium."
+   ]
+  }
+ ]
+}

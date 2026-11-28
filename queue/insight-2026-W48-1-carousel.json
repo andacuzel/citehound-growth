@@ -1,0 +1,17 @@
+{
+ "id": "insight-2026-W48-1-carousel",
+ "type": "social",
+ "pillar": "field-notes",
+ "why": "Insight lab 2026-W48, candidate 1 (medium): llms.txt presence follows the site builder. Wix 32 of 33 homepages, Squarespace 3 of 33, others 591 of 1,187. Six purposive samples, 1,253 homepages, 26 Oct to 28 Nov 2026. Mechanism documented by Wix's help center (updated 9 Sep 2026). Slide images (1080x1350 PNG, brand colors and type) are in the private repo at data/insight/2026-W48/carousel/; the inbox cannot attach files.",
+ "title": "Carousel: llms.txt follows the site builder (9 slides)",
+ "drafts": [
+  {
+   "platform": "linkedin_page",
+   "text": "Slide 1: 32 of 33 Wix homepages had an llms.txt file. Squarespace: 3 of 33.\n\nSlide 2: 1,253 homepages. Small B2B SaaS, agencies, professional-services firms. Six samples, 26 Oct to 28 Nov 2026.\n\nSlide 3: Every other platform: 591 of 1,187. About half.\n\nSlide 4: You might read an llms.txt file as a sign someone planned for AI crawlers. Here it mostly marks the builder.\n\nSlide 5: Wix says it \"automatically generates and maintains\" the file. Edit it and the updates stop.\n\nSlide 6: Squarespace appears to need an opt-in. We have not confirmed that in its own documentation.\n\nSlide 7: On Wix, a generator wrote the summary of your firm. You may never have read it.\n\nSlide 8: Monday morning: open yourdomain.com/llms.txt. Read it. Correct what is wrong.\n\nSlide 9: Method: found by web search, not random. 33 sites per builder. One scan each. Readiness only. Confidence: medium. Free scan: https://getcitehound.com/?utm_source=linkedin_page&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W48-1-carousel"
+  },
+  {
+   "platform": "instagram",
+   "text": "Slide 1: 32 of 33 Wix homepages had an llms.txt file. Squarespace: 3 of 33.\n\nSlide 2: 1,253 homepages. Small B2B SaaS, agencies, professional-services firms. Six samples, 26 Oct to 28 Nov 2026.\n\nSlide 3: Every other platform: 591 of 1,187. About half.\n\nSlide 4: You might read an llms.txt file as a sign someone planned for AI crawlers. Here it mostly marks the builder.\n\nSlide 5: Wix says it \"automatically generates and maintains\" the file. Edit it and the updates stop.\n\nSlide 6: Squarespace appears to need an opt-in. We have not confirmed that in its own documentation.\n\nSlide 7: On Wix, a generator wrote the summary of your firm. You may never have read it.\n\nSlide 8: Monday morning: open yourdomain.com/llms.txt. Read it. Correct what is wrong.\n\nSlide 9: Method: found by web search, not random. 33 sites per builder. One scan each. Readiness only. Confidence: medium. Free scan: https://getcitehound.com/?utm_source=instagram&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W48-1-carousel"
+  }
+ ]
+}

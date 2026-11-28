@@ -1,0 +1,14 @@
+{
+ "id": "insight-2026-W48-1-linkedin",
+ "type": "social",
+ "pillar": "field-notes",
+ "why": "Insight lab 2026-W48, candidate 1 (medium): llms.txt presence follows the site builder. Wix 32 of 33 homepages, Squarespace 3 of 33, others 591 of 1,187. Six purposive samples, 1,253 homepages, 26 Oct to 28 Nov 2026. Mechanism documented by Wix's help center (updated 9 Sep 2026).",
+ "title": "Field note: llms.txt follows the site builder",
+ "drafts": [
+  {
+   "platform": "linkedin_personal",
+   "text": "I expected an llms.txt file to tell me something about the firm. Mostly it told me the site builder.\n\nAcross six samples of small B2B SaaS, agency and professional-services homepages (1,253 sites, 26 Oct to 28 Nov 2026), 32 of 33 Wix homepages had an llms.txt file. On Squarespace it was 3 of 33. Every other platform: 591 of 1,187, about half.\n\nThe mechanism is documented. Wix's help center says Wix \"automatically generates and maintains\" the file and stops updating it once the owner edits it. The three Wix files I read this week follow one template: a heading and a generated summary of the firm. Squarespace appears to need an opt-in. I have not confirmed that in its own documentation.\n\nSo on Wix, the description a crawler finds in that file was written by a generator, and the firm may never have read it.\n\nMonday morning: open yourdomain.com/llms.txt and read it. On Wix, correct what is wrong.\n\nMethod note: sites found by web search, not random, so likely more SEO-active than average. Homepage and llms.txt, one scan each. Readiness only, not whether any system reads the file.\n\nConfidence: medium.",
+   "first_comment": "Free scan: https://getcitehound.com/?utm_source=linkedin_personal&utm_medium=social&utm_campaign=field-notes&utm_content=insight-2026-W48-1-linkedin"
+  }
+ ]
+}
