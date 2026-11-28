@@ -6574,6 +6574,38 @@
    "outcome": "skip",
    "score": 3,
    "marked": "2026-11-27T15:09:29.706Z"
+  },
+  "3cc36764fb7a": {
+   "first": "2026-11-28T03:08:18.422Z",
+   "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027 via @sejournal, @hethr_campbell",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 2,
+   "marked": "2026-11-28T03:08:18.423Z"
+  },
+  "3959591be182": {
+   "first": "2026-11-28T03:08:18.423Z",
+   "title": "Google’s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-28T03:08:18.423Z"
+  },
+  "3974b3ebfc22": {
+   "first": "2026-11-28T03:08:18.423Z",
+   "title": "Google Says Promotion Mode Now Supports Shopping Campaigns via @sejournal, @MattGSouthern",
+   "source": "sej",
+   "outcome": "skip",
+   "score": 1,
+   "marked": "2026-11-28T03:08:18.423Z"
+  },
+  "4878a6a266c1": {
+   "first": "2026-11-28T03:08:18.423Z",
+   "title": "Google On When To Fix 404 Errors & Updates 404 & Sitemaps Docs",
+   "source": "ser",
+   "outcome": "skip",
+   "score": 5,
+   "marked": "2026-11-28T03:08:18.423Z"
   }
  }
 }
